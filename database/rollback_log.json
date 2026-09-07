@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-09-07T12:29:25.445443",
+        "event": "WORKFLOW_ROLLBACK",
+        "from_workflow": "NEW",
+        "to_workflow": "LEGACY",
+        "reason": "Rollback demonstration: new workflow temporarily unavailable."
+    }
+]

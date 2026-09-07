@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Decision2Action Dashboard</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+        }
+
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 22px 40px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        .header p {
+            margin: 7px 0 0;
+            opacity: 0.9;
+        }
+
+        .nav {
+            background: white;
+            padding: 14px 40px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .nav a {
+            text-decoration: none;
+            margin-right: 25px;
+            color: #1e3a8a;
+            font-weight: bold;
+        }
+
+        .container {
+            padding: 30px 40px;
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 18px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 22px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .card h3 {
+            margin: 0;
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .card .number {
+            font-size: 30px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .section {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .section h2 {
+            margin-top: 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: #eef2ff;
+            text-align: left;
+            padding: 12px;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .status {
+            padding: 6px 10px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+            background: #fef3c7;
+        }
+
+        .high {
+            font-weight: bold;
+        }
+
+        .review-btn {
+            background: #2563eb;
+            color: white;
+            padding: 8px 13px;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+        .review-btn:hover {
+            background: #1d4ed8;
+        }
+
+        @media(max-width: 900px) {
+            .cards {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="header">
+
+        <h1>Decision2Action</h1>
+
+        <p>
+            Decision-to-Action Extraction & Tracking System
+        </p>
+
+    </div>
+
+
+    <div class="nav">
+
+        <a href="/">Dashboard</a>
+
+        <a href="/actions">All Actions</a>
+
+        <a href="/audit">Audit Log</a>
+
+    </div>
+
+
+    <div class="container">
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Total Actions</h3>
+                <div class="number">
+                    {{ total_actions }}
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Pending Review</h3>
+                <div class="number">
+                    {{ pending_review }}
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>High Impact</h3>
+                <div class="number">
+                    {{ high_impact }}
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Approved</h3>
+                <div class="number">
+                    {{ approved }}
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>Overridden</h3>
+                <div class="number">
+                    {{ overridden }}
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="section">
+
+            <h2>Recent Extracted Actions</h2>
+
+            <table>
+
+                <thead>
+
+                    <tr>
+                        <th>Action ID</th>
+                        <th>Owner</th>
+                        <th>Deadline</th>
+                        <th>Impact</th>
+                        <th>Confidence</th>
+                        <th>Status</th>
+                        <th>Review</th>
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    {% for action in actions %}
+
+                    <tr>
+
+                        <td>
+                            {{ action["action_id"] }}
+                        </td>
+
+                        <td>
+                            {{ action["owner"] }}
+                        </td>
+
+                        <td>
+                            {{ action["deadline"] }}
+                        </td>
+
+                        <td class="{% if action['impact'] == 'HIGH' %}high{% endif %}">
+                            {{ action["impact"] }}
+                        </td>
+
+                        <td>
+                            {{ action["confidence"] }}%
+                        </td>
+
+                        <td>
+                            <span class="status">
+                                {{ action["status"] }}
+                            </span>
+                        </td>
+
+                        <td>
+
+                            <a
+                                class="review-btn"
+                                href="/review/{{ action['action_id'] }}"
+                            >
+                                Review
+                            </a>
+
+                        </td>
+
+                    </tr>
+
+                    {% endfor %}
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

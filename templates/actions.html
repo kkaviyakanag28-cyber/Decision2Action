@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Actions</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+        }
+
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 22px 40px;
+        }
+
+        .nav {
+            background: white;
+            padding: 15px 40px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .nav a {
+            margin-right: 25px;
+            color: #1e3a8a;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: auto;
+            padding: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: #eef2ff;
+            padding: 12px;
+            text-align: left;
+        }
+
+        td {
+            padding: 11px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .review {
+            background: #2563eb;
+            color: white;
+            padding: 7px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+        }
+
+        .high {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+    <h1>Decision2Action</h1>
+    <p>All Tracked Actions</p>
+</div>
+
+<div class="nav">
+    <a href="/">Dashboard</a>
+    <a href="/actions">All Actions</a>
+    <a href="/audit">Audit Log</a>
+</div>
+
+<div class="container">
+
+    <div class="card">
+
+        <h2>Tracked Actions</h2>
+
+        <table>
+
+            <thead>
+                <tr>
+                    <th>Action ID</th>
+                    <th>Decision ID</th>
+                    <th>Action</th>
+                    <th>Owner</th>
+                    <th>Deadline</th>
+                    <th>Impact</th>
+                    <th>Confidence</th>
+                    <th>Status</th>
+                    <th>Review</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+            {% for action in actions %}
+
+                <tr>
+
+                    <td>{{ action["action_id"] }}</td>
+
+                    <td>{{ action["decision_id"] }}</td>
+
+                    <td>{{ action["action_text"] }}</td>
+
+                    <td>{{ action["owner"] }}</td>
+
+                    <td>{{ action["deadline"] }}</td>
+
+                    <td class="{% if action['impact'] == 'HIGH' %}high{% endif %}">
+                        {{ action["impact"] }}
+                    </td>
+
+                    <td>{{ action["confidence"] }}%</td>
+
+                    <td>{{ action["status"] }}</td>
+
+                    <td>
+                        <a
+                            class="review"
+                            href="/review/{{ action['action_id'] }}"
+                        >
+                            Review
+                        </a>
+                    </td>
+
+                </tr>
+
+            {% endfor %}
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+</body>
+</html>

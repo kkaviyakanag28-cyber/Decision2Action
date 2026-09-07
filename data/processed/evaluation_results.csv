@@ -1,0 +1,12 @@
+metric,value
+Total Source Records,4000.0
+Baseline Decision Detection %,96.83
+Decision2Action Extraction %,100.0
+Owner Identification %,49.26
+Deadline Identification %,49.86
+High Impact Actions,0.0
+Human Review Required,5834.0
+Target Extraction %,85.0
+Target Owner Identification %,80.0
+Target Deadline Identification %,75.0
+Extraction Improvement %,3.17

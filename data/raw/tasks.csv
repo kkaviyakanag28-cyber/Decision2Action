@@ -1,0 +1,1501 @@
+task_id,decision_id,task,owner,deadline,status
+T00001,D00001,Prepare data quality report,Operations Team,2026-06-18,pending
+T00002,D00002,Verify model outputs,Data Engineering Team,2026-07-16,needs_review
+T00003,D00003,Prepare release checklist,QA Team,2026-08-06,needs_review
+T00004,D00004,Verify model outputs,Data Engineering Team,2026-06-10,completed
+T00005,D00005,Prepare data quality report,Platform Team,2026-09-09,pending
+T00006,D00006,Complete etl integration,Consulting Team,2026-07-06,needs_review
+T00007,D00007,Complete etl integration,Platform Team,2026-03-16,completed
+T00008,D00008,Prepare release checklist,Data Engineering Team,2026-02-18,completed
+T00009,D00009,Complete dashboard testing,Project Team,2026-05-17,completed
+T00010,D00010,Verify model outputs,Data Engineering Team,2026-06-19,needs_review
+T00011,D00011,Complete security review,Project Team,2026-07-14,needs_review
+T00012,D00012,Prepare data quality report,QA Team,2026-05-18,completed
+T00013,D00013,Complete dashboard testing,Migration Team,2026-07-07,completed
+T00014,D00014,Prepare release checklist,Project Team,2026-09-05,needs_review
+T00015,D00015,Update project documentation,Operations Team,2026-05-09,completed
+T00016,D00016,Complete security review,Consulting Team,2026-01-07,completed
+T00017,D00017,Complete api integration,Data Engineering Team,2026-06-29,in_progress
+T00018,D00018,Verify model outputs,Data Engineering Team,2026-08-24,in_progress
+T00019,D00019,Prepare release checklist,Platform Team,2026-09-03,in_progress
+T00020,D00020,Verify model outputs,Migration Team,2026-03-20,needs_review
+T00021,D00021,Complete api integration,Operations Team,2026-06-22,needs_review
+T00022,D00022,Prepare release checklist,Data Engineering Team,2026-05-25,in_progress
+T00023,D00023,Validate new metrics,Operations Team,2026-01-17,in_progress
+T00024,D00024,Validate new metrics,Operations Team,2026-01-21,in_progress
+T00025,D00025,Validate new metrics,Platform Team,2026-06-11,completed
+T00026,D00026,Complete security review,Migration Team,2026-06-01,in_progress
+T00027,D00027,Complete etl integration,Project Team,2026-02-03,needs_review
+T00028,D00028,Validate new metrics,Documentation Team,2026-02-27,needs_review
+T00029,D00029,Update project documentation,Project Team,2026-09-07,needs_review
+T00030,D00030,Verify model outputs,Platform Team,2026-05-17,in_progress
+T00031,D00031,Prepare data quality report,Unknown,Unknown,needs_review
+T00032,D00032,Complete api integration,Consulting Team,2026-02-08,pending
+T00033,D00033,Update project documentation,Operations Team,2026-08-13,completed
+T00034,D00034,Verify model outputs,Data Engineering Team,2026-09-04,in_progress
+T00035,D00035,Complete api integration,Project Team,2026-04-06,completed
+T00036,D00036,Validate migration results,Data Engineering Team,2026-07-23,pending
+T00037,D00037,Validate new metrics,Project Team,2026-09-06,pending
+T00038,D00038,Complete api integration,Platform Team,2026-09-23,in_progress
+T00039,D00039,Complete etl integration,QA Team,2026-09-07,pending
+T00040,D00040,Review client requirements,Data Engineering Team,2026-02-07,in_progress
+T00041,D00041,Prepare release checklist,QA Team,2026-06-12,pending
+T00042,D00042,Update project documentation,Security Team,2026-09-08,completed
+T00043,D00043,Complete security review,QA Team,2026-08-15,in_progress
+T00044,D00044,Complete api integration,Consulting Team,2026-05-30,pending
+T00045,D00045,Complete etl integration,Migration Team,2026-02-21,needs_review
+T00046,D00046,Verify model outputs,Documentation Team,2026-07-05,pending
+T00047,D00047,Verify model outputs,Analytics Team,2026-04-05,completed
+T00048,D00048,Complete dashboard testing,Operations Team,2026-01-26,in_progress
+T00049,D00049,Validate migration results,Analytics Team,2026-03-26,needs_review
+T00050,D00050,Validate migration results,Documentation Team,2026-05-20,needs_review
+T00051,D00051,Complete api integration,Project Team,2026-07-03,pending
+T00052,D00052,Verify model outputs,Analytics Team,2026-03-21,pending
+T00053,D00053,Update project documentation,QA Team,2026-02-05,completed
+T00054,D00054,Validate new metrics,Documentation Team,2026-08-15,needs_review
+T00055,D00055,Complete dashboard testing,Documentation Team,2026-03-25,in_progress
+T00056,D00056,Complete dashboard testing,Documentation Team,2026-04-12,in_progress
+T00057,D00057,Finalize deployment plan,Platform Team,2026-06-01,in_progress
+T00058,D00058,Review client requirements,Migration Team,2026-06-08,needs_review
+T00059,D00059,Prepare data quality report,QA Team,2026-09-08,in_progress
+T00060,D00060,Verify model outputs,Consulting Team,2026-06-21,pending
+T00061,D00061,Complete etl integration,QA Team,2026-04-07,needs_review
+T00062,D00062,Complete security review,Unknown,Unknown,needs_review
+T00063,D00063,Update project documentation,Documentation Team,2026-02-13,needs_review
+T00064,D00064,Finalize deployment plan,Security Team,2026-01-29,completed
+T00065,D00065,Update project documentation,Project Team,2026-03-27,needs_review
+T00066,D00066,Complete api integration,Platform Team,2026-03-21,completed
+T00067,D00067,Verify model outputs,Consulting Team,2026-09-24,in_progress
+T00068,D00068,Complete security review,Platform Team,2026-07-27,needs_review
+T00069,D00069,Complete api integration,Platform Team,2026-05-09,completed
+T00070,D00070,Validate migration results,Documentation Team,2026-04-03,needs_review
+T00071,D00071,Complete security review,Platform Team,2026-09-22,needs_review
+T00072,D00072,Complete dashboard testing,Platform Team,2026-09-17,needs_review
+T00073,D00073,Validate migration results,Documentation Team,2026-02-01,completed
+T00074,D00074,Prepare data quality report,Data Engineering Team,2026-07-19,in_progress
+T00075,D00075,Validate new metrics,Documentation Team,2026-07-20,completed
+T00076,D00076,Prepare release checklist,Security Team,2026-05-30,pending
+T00077,D00077,Prepare data quality report,Project Team,2026-04-28,pending
+T00078,D00078,Complete etl integration,Migration Team,2026-03-19,pending
+T00079,D00079,Complete etl integration,Consulting Team,2026-05-21,pending
+T00080,D00080,Prepare data quality report,Data Engineering Team,2026-02-27,pending
+T00081,D00081,Complete api integration,Security Team,2026-05-29,in_progress
+T00082,D00082,Prepare data quality report,QA Team,2026-02-03,in_progress
+T00083,D00083,Finalize deployment plan,Operations Team,2026-08-18,pending
+T00084,D00084,Complete api integration,Consulting Team,2026-07-27,in_progress
+T00085,D00085,Finalize deployment plan,Project Team,2026-01-21,pending
+T00086,D00086,Update project documentation,Documentation Team,2026-07-14,in_progress
+T00087,D00087,Verify model outputs,Analytics Team,2026-02-15,pending
+T00088,D00088,Prepare release checklist,Analytics Team,2026-06-20,completed
+T00089,D00089,Validate new metrics,Project Team,2026-08-20,in_progress
+T00090,D00090,Update project documentation,Analytics Team,2026-09-07,pending
+T00091,D00091,Prepare release checklist,Data Engineering Team,2026-02-08,needs_review
+T00092,D00092,Complete api integration,Consulting Team,2026-04-13,pending
+T00093,D00093,Finalize deployment plan,Unknown,Unknown,needs_review
+T00094,D00094,Update project documentation,Platform Team,2026-01-09,in_progress
+T00095,D00095,Prepare release checklist,Analytics Team,2026-08-21,in_progress
+T00096,D00096,Update project documentation,Platform Team,2026-05-06,needs_review
+T00097,D00097,Validate migration results,Data Engineering Team,2026-01-08,pending
+T00098,D00098,Complete api integration,Consulting Team,2026-04-03,needs_review
+T00099,D00099,Validate migration results,Security Team,2026-03-27,in_progress
+T00100,D00100,Complete etl integration,Consulting Team,2026-01-06,needs_review
+T00101,D00101,Update project documentation,Analytics Team,2026-07-20,completed
+T00102,D00102,Prepare release checklist,Consulting Team,2026-08-12,needs_review
+T00103,D00103,Complete security review,Data Engineering Team,2026-06-15,pending
+T00104,D00104,Update project documentation,Consulting Team,2026-06-29,pending
+T00105,D00105,Prepare data quality report,Consulting Team,2026-02-17,pending
+T00106,D00106,Prepare release checklist,Migration Team,2026-01-21,pending
+T00107,D00107,Finalize deployment plan,Consulting Team,2026-02-01,pending
+T00108,D00108,Prepare release checklist,Project Team,2026-05-10,pending
+T00109,D00109,Complete api integration,Analytics Team,2026-06-22,needs_review
+T00110,D00110,Complete security review,Data Engineering Team,2026-09-09,needs_review
+T00111,D00111,Update project documentation,Documentation Team,2026-05-26,needs_review
+T00112,D00112,Complete api integration,Platform Team,2026-08-17,needs_review
+T00113,D00113,Finalize deployment plan,Data Engineering Team,2026-05-17,completed
+T00114,D00114,Complete security review,Operations Team,2026-06-17,needs_review
+T00115,D00115,Complete etl integration,Project Team,2026-05-25,in_progress
+T00116,D00116,Complete dashboard testing,Security Team,2026-07-30,completed
+T00117,D00117,Validate new metrics,Data Engineering Team,2026-05-20,needs_review
+T00118,D00118,Prepare release checklist,Analytics Team,2026-09-14,completed
+T00119,D00119,Validate migration results,Consulting Team,2026-09-28,in_progress
+T00120,D00120,Prepare data quality report,Platform Team,2026-03-02,pending
+T00121,D00121,Review client requirements,Consulting Team,2026-02-24,needs_review
+T00122,D00122,Finalize deployment plan,Data Engineering Team,2026-01-16,pending
+T00123,D00123,Prepare data quality report,Documentation Team,2026-06-24,completed
+T00124,D00124,Complete etl integration,Unknown,Unknown,needs_review
+T00125,D00125,Prepare release checklist,Platform Team,2026-07-20,completed
+T00126,D00126,Complete dashboard testing,Data Engineering Team,2026-05-24,completed
+T00127,D00127,Complete dashboard testing,Analytics Team,2026-05-28,in_progress
+T00128,D00128,Complete dashboard testing,Documentation Team,2026-03-21,needs_review
+T00129,D00129,Verify model outputs,Platform Team,2026-01-15,pending
+T00130,D00130,Complete etl integration,Project Team,2026-02-08,completed
+T00131,D00131,Update project documentation,Analytics Team,2026-08-18,needs_review
+T00132,D00132,Validate new metrics,Security Team,2026-09-24,completed
+T00133,D00133,Prepare data quality report,Documentation Team,2026-01-28,completed
+T00134,D00134,Complete dashboard testing,Security Team,2026-02-07,needs_review
+T00135,D00135,Verify model outputs,Documentation Team,2026-09-21,pending
+T00136,D00136,Complete security review,Consulting Team,2026-01-08,needs_review
+T00137,D00137,Verify model outputs,Operations Team,2026-02-15,needs_review
+T00138,D00138,Complete etl integration,Data Engineering Team,2026-08-13,pending
+T00139,D00139,Update project documentation,Consulting Team,2026-08-12,completed
+T00140,D00140,Prepare data quality report,Documentation Team,2026-03-25,in_progress
+T00141,D00141,Prepare release checklist,Documentation Team,2026-09-02,needs_review
+T00142,D00142,Prepare release checklist,Operations Team,2026-02-28,pending
+T00143,D00143,Complete dashboard testing,Project Team,2026-03-09,needs_review
+T00144,D00144,Finalize deployment plan,Analytics Team,2026-01-25,pending
+T00145,D00145,Validate new metrics,Platform Team,2026-01-13,pending
+T00146,D00146,Finalize deployment plan,Platform Team,2026-03-03,pending
+T00147,D00147,Prepare data quality report,Data Engineering Team,2026-09-05,completed
+T00148,D00148,Review client requirements,Security Team,2026-05-31,completed
+T00149,D00149,Prepare data quality report,Project Team,2026-08-17,pending
+T00150,D00150,Verify model outputs,Migration Team,2026-08-13,needs_review
+T00151,D00151,Complete etl integration,Platform Team,2026-08-15,needs_review
+T00152,D00152,Complete security review,Platform Team,2026-02-22,in_progress
+T00153,D00153,Review client requirements,Security Team,2026-05-05,completed
+T00154,D00154,Validate migration results,Documentation Team,2026-05-18,in_progress
+T00155,D00155,Verify model outputs,Unknown,Unknown,needs_review
+T00156,D00156,Complete security review,Project Team,2026-08-25,in_progress
+T00157,D00157,Complete api integration,Project Team,2026-09-11,in_progress
+T00158,D00158,Validate new metrics,QA Team,2026-08-31,completed
+T00159,D00159,Review client requirements,Data Engineering Team,2026-02-27,in_progress
+T00160,D00160,Finalize deployment plan,Data Engineering Team,2026-05-23,completed
+T00161,D00161,Verify model outputs,Platform Team,2026-07-25,pending
+T00162,D00162,Complete security review,Analytics Team,2026-03-31,completed
+T00163,D00163,Complete security review,Operations Team,2026-02-06,in_progress
+T00164,D00164,Validate migration results,Operations Team,2026-01-13,pending
+T00165,D00165,Finalize deployment plan,Security Team,2026-09-14,pending
+T00166,D00166,Validate new metrics,Analytics Team,2026-04-02,pending
+T00167,D00167,Prepare release checklist,Operations Team,2026-05-09,needs_review
+T00168,D00168,Update project documentation,Data Engineering Team,2026-07-15,completed
+T00169,D00169,Finalize deployment plan,Documentation Team,2026-03-01,completed
+T00170,D00170,Validate new metrics,Analytics Team,2026-08-18,needs_review
+T00171,D00171,Validate new metrics,Analytics Team,2026-08-05,in_progress
+T00172,D00172,Validate new metrics,Documentation Team,2026-07-02,needs_review
+T00173,D00173,Validate new metrics,QA Team,2026-02-02,in_progress
+T00174,D00174,Update project documentation,Project Team,2026-07-17,needs_review
+T00175,D00175,Complete security review,QA Team,2026-02-06,in_progress
+T00176,D00176,Finalize deployment plan,Security Team,2026-05-27,completed
+T00177,D00177,Review client requirements,Data Engineering Team,2026-01-16,needs_review
+T00178,D00178,Complete dashboard testing,Documentation Team,2026-01-15,needs_review
+T00179,D00179,Prepare data quality report,Migration Team,2026-04-20,needs_review
+T00180,D00180,Review client requirements,Analytics Team,2026-04-18,completed
+T00181,D00181,Complete etl integration,Analytics Team,2026-02-01,pending
+T00182,D00182,Validate new metrics,Operations Team,2026-06-20,completed
+T00183,D00183,Complete dashboard testing,Migration Team,2026-05-09,in_progress
+T00184,D00184,Complete etl integration,Data Engineering Team,2026-05-27,needs_review
+T00185,D00185,Update project documentation,Data Engineering Team,2026-06-15,needs_review
+T00186,D00186,Prepare release checklist,Unknown,Unknown,needs_review
+T00187,D00187,Complete dashboard testing,Operations Team,2026-05-11,needs_review
+T00188,D00188,Complete api integration,Project Team,2026-01-08,completed
+T00189,D00189,Prepare data quality report,Consulting Team,2026-02-01,completed
+T00190,D00190,Update project documentation,Migration Team,2026-02-04,completed
+T00191,D00191,Complete etl integration,Platform Team,2026-03-11,needs_review
+T00192,D00192,Complete api integration,Migration Team,2026-01-18,in_progress
+T00193,D00193,Validate new metrics,Platform Team,2026-05-20,completed
+T00194,D00194,Update project documentation,Analytics Team,2026-01-08,pending
+T00195,D00195,Verify model outputs,Project Team,2026-01-31,pending
+T00196,D00196,Review client requirements,Documentation Team,2026-06-22,needs_review
+T00197,D00197,Complete dashboard testing,Project Team,2026-09-09,in_progress
+T00198,D00198,Review client requirements,Migration Team,2026-01-06,completed
+T00199,D00199,Prepare data quality report,Security Team,2026-06-12,pending
+T00200,D00200,Complete security review,Operations Team,2026-09-24,in_progress
+T00201,D00201,Finalize deployment plan,Migration Team,2026-01-07,needs_review
+T00202,D00202,Finalize deployment plan,Security Team,2026-06-16,in_progress
+T00203,D00203,Complete etl integration,Security Team,2026-07-14,in_progress
+T00204,D00204,Finalize deployment plan,Migration Team,2026-02-12,completed
+T00205,D00205,Complete etl integration,Project Team,2026-03-06,in_progress
+T00206,D00206,Complete security review,Project Team,2026-05-15,needs_review
+T00207,D00207,Validate migration results,Analytics Team,2026-08-18,needs_review
+T00208,D00208,Complete etl integration,Project Team,2026-07-10,pending
+T00209,D00209,Complete api integration,QA Team,2026-03-08,completed
+T00210,D00210,Review client requirements,Analytics Team,2026-01-18,completed
+T00211,D00211,Complete dashboard testing,Analytics Team,2026-02-27,in_progress
+T00212,D00212,Prepare release checklist,Data Engineering Team,2026-01-07,needs_review
+T00213,D00213,Verify model outputs,Consulting Team,2026-01-27,completed
+T00214,D00214,Validate migration results,Project Team,2026-06-24,needs_review
+T00215,D00215,Complete api integration,Documentation Team,2026-04-24,in_progress
+T00216,D00216,Prepare data quality report,Security Team,2026-08-02,in_progress
+T00217,D00217,Review client requirements,Unknown,Unknown,needs_review
+T00218,D00218,Review client requirements,QA Team,2026-09-01,in_progress
+T00219,D00219,Complete api integration,Data Engineering Team,2026-03-24,completed
+T00220,D00220,Update project documentation,Security Team,2026-01-30,needs_review
+T00221,D00221,Finalize deployment plan,Data Engineering Team,2026-08-05,in_progress
+T00222,D00222,Complete etl integration,Operations Team,2026-08-18,pending
+T00223,D00223,Complete dashboard testing,Security Team,2026-03-10,in_progress
+T00224,D00224,Update project documentation,Platform Team,2026-06-07,pending
+T00225,D00225,Verify model outputs,Security Team,2026-06-15,pending
+T00226,D00226,Update project documentation,Documentation Team,2026-08-14,needs_review
+T00227,D00227,Complete dashboard testing,Documentation Team,2026-04-13,needs_review
+T00228,D00228,Update project documentation,Consulting Team,2026-08-12,completed
+T00229,D00229,Validate migration results,QA Team,2026-06-11,completed
+T00230,D00230,Complete dashboard testing,Documentation Team,2026-07-15,needs_review
+T00231,D00231,Validate migration results,Migration Team,2026-07-13,pending
+T00232,D00232,Complete api integration,Migration Team,2026-06-18,pending
+T00233,D00233,Validate new metrics,Consulting Team,2026-05-05,pending
+T00234,D00234,Prepare data quality report,Migration Team,2026-09-08,needs_review
+T00235,D00235,Update project documentation,QA Team,2026-01-29,in_progress
+T00236,D00236,Complete etl integration,QA Team,2026-05-29,in_progress
+T00237,D00237,Update project documentation,QA Team,2026-04-29,in_progress
+T00238,D00238,Verify model outputs,Analytics Team,2026-07-22,pending
+T00239,D00239,Finalize deployment plan,Security Team,2026-01-19,in_progress
+T00240,D00240,Complete etl integration,Platform Team,2026-05-18,pending
+T00241,D00241,Complete dashboard testing,Data Engineering Team,2026-05-11,needs_review
+T00242,D00242,Validate new metrics,Operations Team,2026-09-26,completed
+T00243,D00243,Complete etl integration,Platform Team,2026-09-18,in_progress
+T00244,D00244,Complete etl integration,Operations Team,2026-03-29,needs_review
+T00245,D00245,Prepare data quality report,Project Team,2026-09-22,needs_review
+T00246,D00246,Update project documentation,Operations Team,2026-08-05,pending
+T00247,D00247,Update project documentation,Project Team,2026-09-11,in_progress
+T00248,D00248,Complete etl integration,Unknown,Unknown,needs_review
+T00249,D00249,Complete etl integration,QA Team,2026-08-29,pending
+T00250,D00250,Complete api integration,Analytics Team,2026-04-02,completed
+T00251,D00251,Prepare data quality report,Platform Team,2026-01-31,needs_review
+T00252,D00252,Validate migration results,Project Team,2026-07-27,in_progress
+T00253,D00253,Complete etl integration,Analytics Team,2026-09-22,needs_review
+T00254,D00254,Validate new metrics,QA Team,2026-08-29,in_progress
+T00255,D00255,Verify model outputs,Migration Team,2026-02-09,needs_review
+T00256,D00256,Complete api integration,Migration Team,2026-07-23,pending
+T00257,D00257,Validate new metrics,Data Engineering Team,2026-07-29,pending
+T00258,D00258,Prepare data quality report,Security Team,2026-01-30,completed
+T00259,D00259,Finalize deployment plan,Security Team,2026-04-03,completed
+T00260,D00260,Finalize deployment plan,Operations Team,2026-09-20,pending
+T00261,D00261,Review client requirements,Operations Team,2026-02-13,needs_review
+T00262,D00262,Complete security review,Documentation Team,2026-03-27,completed
+T00263,D00263,Verify model outputs,Analytics Team,2026-08-27,needs_review
+T00264,D00264,Update project documentation,Data Engineering Team,2026-03-10,pending
+T00265,D00265,Complete etl integration,Migration Team,2026-04-24,completed
+T00266,D00266,Prepare release checklist,Migration Team,2026-01-08,completed
+T00267,D00267,Complete dashboard testing,Consulting Team,2026-08-27,pending
+T00268,D00268,Review client requirements,Consulting Team,2026-05-12,in_progress
+T00269,D00269,Validate new metrics,Consulting Team,2026-06-17,needs_review
+T00270,D00270,Prepare release checklist,Platform Team,2026-03-16,needs_review
+T00271,D00271,Complete security review,Data Engineering Team,2026-02-26,in_progress
+T00272,D00272,Verify model outputs,Analytics Team,2026-09-21,pending
+T00273,D00273,Prepare release checklist,Operations Team,2026-08-10,needs_review
+T00274,D00274,Complete etl integration,Consulting Team,2026-06-18,needs_review
+T00275,D00275,Update project documentation,Consulting Team,2026-01-18,needs_review
+T00276,D00276,Complete etl integration,Migration Team,2026-04-24,needs_review
+T00277,D00277,Complete security review,Migration Team,2026-06-26,in_progress
+T00278,D00278,Validate migration results,Platform Team,2026-03-11,needs_review
+T00279,D00279,Review client requirements,Unknown,Unknown,needs_review
+T00280,D00280,Validate migration results,Consulting Team,2026-06-25,completed
+T00281,D00281,Review client requirements,Platform Team,2026-02-25,in_progress
+T00282,D00282,Update project documentation,Platform Team,2026-02-14,completed
+T00283,D00283,Validate migration results,Security Team,2026-09-07,completed
+T00284,D00284,Complete security review,Operations Team,2026-05-24,needs_review
+T00285,D00285,Complete api integration,Documentation Team,2026-05-27,completed
+T00286,D00286,Update project documentation,QA Team,2026-03-03,needs_review
+T00287,D00287,Complete security review,Migration Team,2026-08-24,in_progress
+T00288,D00288,Finalize deployment plan,Data Engineering Team,2026-09-07,needs_review
+T00289,D00289,Complete security review,Operations Team,2026-01-22,completed
+T00290,D00290,Prepare data quality report,Data Engineering Team,2026-05-26,needs_review
+T00291,D00291,Complete etl integration,Consulting Team,2026-03-05,completed
+T00292,D00292,Prepare data quality report,Platform Team,2026-06-05,needs_review
+T00293,D00293,Complete security review,Operations Team,2026-03-06,needs_review
+T00294,D00294,Verify model outputs,Migration Team,2026-06-17,needs_review
+T00295,D00295,Verify model outputs,Project Team,2026-03-11,completed
+T00296,D00296,Verify model outputs,Project Team,2026-06-08,in_progress
+T00297,D00297,Finalize deployment plan,Consulting Team,2026-08-10,needs_review
+T00298,D00298,Complete security review,Platform Team,2026-04-07,pending
+T00299,D00299,Complete security review,Platform Team,2026-03-16,needs_review
+T00300,D00300,Complete api integration,Platform Team,2026-05-24,pending
+T00301,D00301,Verify model outputs,Operations Team,2026-01-18,pending
+T00302,D00302,Complete dashboard testing,Project Team,2026-02-28,in_progress
+T00303,D00303,Complete security review,Migration Team,2026-08-18,in_progress
+T00304,D00304,Validate new metrics,Migration Team,2026-04-27,in_progress
+T00305,D00305,Complete security review,Documentation Team,2026-04-19,needs_review
+T00306,D00306,Complete security review,Security Team,2026-07-08,completed
+T00307,D00307,Verify model outputs,Operations Team,2026-09-19,needs_review
+T00308,D00308,Complete api integration,Security Team,2026-08-05,needs_review
+T00309,D00309,Complete etl integration,Analytics Team,2026-05-02,completed
+T00310,D00310,Finalize deployment plan,Unknown,Unknown,needs_review
+T00311,D00311,Complete etl integration,Migration Team,2026-06-14,in_progress
+T00312,D00312,Verify model outputs,Platform Team,2026-02-15,completed
+T00313,D00313,Complete security review,Documentation Team,2026-08-04,in_progress
+T00314,D00314,Update project documentation,Platform Team,2026-07-12,pending
+T00315,D00315,Complete etl integration,Operations Team,2026-02-01,pending
+T00316,D00316,Validate new metrics,Security Team,2026-08-05,completed
+T00317,D00317,Verify model outputs,Operations Team,2026-01-24,needs_review
+T00318,D00318,Complete dashboard testing,Analytics Team,2026-01-24,pending
+T00319,D00319,Complete etl integration,Data Engineering Team,2026-03-01,needs_review
+T00320,D00320,Finalize deployment plan,Operations Team,2026-06-20,completed
+T00321,D00321,Complete dashboard testing,Project Team,2026-05-13,pending
+T00322,D00322,Validate migration results,Data Engineering Team,2026-09-05,completed
+T00323,D00323,Complete security review,Operations Team,2026-09-14,completed
+T00324,D00324,Complete etl integration,Security Team,2026-06-16,in_progress
+T00325,D00325,Finalize deployment plan,Security Team,2026-09-22,needs_review
+T00326,D00326,Complete etl integration,QA Team,2026-09-18,in_progress
+T00327,D00327,Validate migration results,Security Team,2026-08-04,needs_review
+T00328,D00328,Validate new metrics,Project Team,2026-03-01,pending
+T00329,D00329,Complete etl integration,Platform Team,2026-07-31,pending
+T00330,D00330,Prepare data quality report,Analytics Team,2026-02-22,in_progress
+T00331,D00331,Complete etl integration,Consulting Team,2026-03-22,completed
+T00332,D00332,Complete etl integration,Data Engineering Team,2026-08-02,completed
+T00333,D00333,Complete security review,Security Team,2026-08-28,needs_review
+T00334,D00334,Update project documentation,Consulting Team,2026-06-13,completed
+T00335,D00335,Finalize deployment plan,Operations Team,2026-03-18,needs_review
+T00336,D00336,Complete etl integration,Project Team,2026-06-18,in_progress
+T00337,D00337,Prepare data quality report,Consulting Team,2026-09-14,completed
+T00338,D00338,Validate migration results,Analytics Team,2026-08-04,pending
+T00339,D00339,Review client requirements,Security Team,2026-07-16,completed
+T00340,D00340,Prepare release checklist,QA Team,2026-09-18,completed
+T00341,D00341,Complete api integration,Unknown,Unknown,needs_review
+T00342,D00342,Prepare release checklist,Documentation Team,2026-04-11,pending
+T00343,D00343,Prepare release checklist,Consulting Team,2026-02-10,completed
+T00344,D00344,Complete security review,Project Team,2026-03-31,in_progress
+T00345,D00345,Validate migration results,Data Engineering Team,2026-07-29,completed
+T00346,D00346,Complete etl integration,QA Team,2026-05-12,in_progress
+T00347,D00347,Prepare data quality report,Documentation Team,2026-08-28,completed
+T00348,D00348,Verify model outputs,Consulting Team,2026-06-02,in_progress
+T00349,D00349,Prepare release checklist,QA Team,2026-03-21,completed
+T00350,D00350,Verify model outputs,Project Team,2026-08-27,needs_review
+T00351,D00351,Prepare release checklist,Platform Team,2026-05-30,pending
+T00352,D00352,Prepare data quality report,Consulting Team,2026-08-26,in_progress
+T00353,D00353,Verify model outputs,Consulting Team,2026-07-26,completed
+T00354,D00354,Prepare data quality report,Documentation Team,2026-03-23,in_progress
+T00355,D00355,Validate migration results,Consulting Team,2026-01-11,needs_review
+T00356,D00356,Verify model outputs,Platform Team,2026-02-13,pending
+T00357,D00357,Complete api integration,Data Engineering Team,2026-08-20,completed
+T00358,D00358,Complete security review,Consulting Team,2026-09-23,in_progress
+T00359,D00359,Complete api integration,Documentation Team,2026-05-12,pending
+T00360,D00360,Verify model outputs,Operations Team,2026-05-18,in_progress
+T00361,D00361,Complete security review,Analytics Team,2026-09-20,in_progress
+T00362,D00362,Finalize deployment plan,Operations Team,2026-09-22,completed
+T00363,D00363,Prepare data quality report,Documentation Team,2026-01-31,in_progress
+T00364,D00364,Review client requirements,Consulting Team,2026-02-11,pending
+T00365,D00365,Verify model outputs,Project Team,2026-07-11,needs_review
+T00366,D00366,Complete api integration,Documentation Team,2026-02-20,completed
+T00367,D00367,Prepare release checklist,Migration Team,2026-05-19,in_progress
+T00368,D00368,Verify model outputs,Consulting Team,2026-07-04,needs_review
+T00369,D00369,Validate migration results,Project Team,2026-03-22,in_progress
+T00370,D00370,Update project documentation,Consulting Team,2026-05-21,completed
+T00371,D00371,Prepare release checklist,Data Engineering Team,2026-09-02,pending
+T00372,D00372,Complete etl integration,Unknown,Unknown,needs_review
+T00373,D00373,Prepare release checklist,Analytics Team,2026-05-08,completed
+T00374,D00374,Verify model outputs,Documentation Team,2026-06-04,in_progress
+T00375,D00375,Prepare data quality report,Project Team,2026-05-23,completed
+T00376,D00376,Complete etl integration,Documentation Team,2026-09-04,in_progress
+T00377,D00377,Complete security review,Analytics Team,2026-03-30,pending
+T00378,D00378,Validate migration results,Analytics Team,2026-04-09,needs_review
+T00379,D00379,Verify model outputs,Consulting Team,2026-03-24,pending
+T00380,D00380,Validate migration results,Migration Team,2026-06-18,completed
+T00381,D00381,Prepare data quality report,Consulting Team,2026-09-21,in_progress
+T00382,D00382,Verify model outputs,Platform Team,2026-08-27,pending
+T00383,D00383,Complete etl integration,Platform Team,2026-07-14,pending
+T00384,D00384,Complete etl integration,Platform Team,2026-07-14,pending
+T00385,D00385,Complete security review,Operations Team,2026-07-22,in_progress
+T00386,D00386,Prepare data quality report,Security Team,2026-08-01,in_progress
+T00387,D00387,Prepare release checklist,Consulting Team,2026-04-19,in_progress
+T00388,D00388,Finalize deployment plan,Operations Team,2026-08-25,in_progress
+T00389,D00389,Prepare data quality report,Data Engineering Team,2026-02-01,completed
+T00390,D00390,Complete etl integration,Platform Team,2026-09-09,in_progress
+T00391,D00391,Complete api integration,Platform Team,2026-09-27,needs_review
+T00392,D00392,Verify model outputs,Platform Team,2026-06-23,in_progress
+T00393,D00393,Complete api integration,QA Team,2026-08-16,in_progress
+T00394,D00394,Complete api integration,Operations Team,2026-03-02,completed
+T00395,D00395,Complete dashboard testing,Project Team,2026-05-23,pending
+T00396,D00396,Review client requirements,Documentation Team,2026-04-30,completed
+T00397,D00397,Prepare release checklist,Platform Team,2026-03-25,in_progress
+T00398,D00398,Complete security review,Operations Team,2026-01-15,pending
+T00399,D00399,Finalize deployment plan,Operations Team,2026-02-28,completed
+T00400,D00400,Prepare release checklist,Documentation Team,2026-06-15,in_progress
+T00401,D00401,Complete dashboard testing,Platform Team,2026-08-22,needs_review
+T00402,D00402,Finalize deployment plan,Analytics Team,2026-06-24,in_progress
+T00403,D00403,Update project documentation,Unknown,Unknown,needs_review
+T00404,D00404,Update project documentation,Documentation Team,2026-02-11,in_progress
+T00405,D00405,Prepare data quality report,Consulting Team,2026-06-23,needs_review
+T00406,D00406,Complete api integration,Analytics Team,2026-08-10,pending
+T00407,D00407,Validate new metrics,Platform Team,2026-07-09,pending
+T00408,D00408,Validate migration results,Security Team,2026-01-16,pending
+T00409,D00409,Complete security review,Data Engineering Team,2026-09-18,needs_review
+T00410,D00410,Verify model outputs,Consulting Team,2026-07-07,needs_review
+T00411,D00411,Complete etl integration,Data Engineering Team,2026-07-04,pending
+T00412,D00412,Finalize deployment plan,Security Team,2026-05-02,pending
+T00413,D00413,Update project documentation,Operations Team,2026-02-23,pending
+T00414,D00414,Update project documentation,Project Team,2026-09-16,needs_review
+T00415,D00415,Update project documentation,Documentation Team,2026-04-03,needs_review
+T00416,D00416,Verify model outputs,Documentation Team,2026-04-01,needs_review
+T00417,D00417,Verify model outputs,Consulting Team,2026-07-22,in_progress
+T00418,D00418,Validate new metrics,Security Team,2026-09-26,needs_review
+T00419,D00419,Update project documentation,Project Team,2026-02-20,pending
+T00420,D00420,Complete security review,Project Team,2026-05-19,in_progress
+T00421,D00421,Prepare data quality report,Migration Team,2026-03-15,pending
+T00422,D00422,Finalize deployment plan,Platform Team,2026-08-22,in_progress
+T00423,D00423,Complete dashboard testing,Analytics Team,2026-06-08,completed
+T00424,D00424,Complete dashboard testing,Documentation Team,2026-03-05,needs_review
+T00425,D00425,Finalize deployment plan,Consulting Team,2026-07-21,in_progress
+T00426,D00426,Verify model outputs,Consulting Team,2026-04-19,completed
+T00427,D00427,Complete api integration,Data Engineering Team,2026-03-19,needs_review
+T00428,D00428,Verify model outputs,Platform Team,2026-02-13,completed
+T00429,D00429,Update project documentation,Platform Team,2026-08-05,completed
+T00430,D00430,Verify model outputs,Data Engineering Team,2026-08-21,pending
+T00431,D00431,Verify model outputs,Project Team,2026-03-03,in_progress
+T00432,D00432,Validate migration results,Project Team,2026-03-07,pending
+T00433,D00433,Validate migration results,QA Team,2026-08-16,needs_review
+T00434,D00434,Complete etl integration,Unknown,Unknown,needs_review
+T00435,D00435,Validate migration results,Documentation Team,2026-05-26,completed
+T00436,D00436,Validate new metrics,Project Team,2026-08-13,pending
+T00437,D00437,Validate new metrics,Documentation Team,2026-07-31,needs_review
+T00438,D00438,Complete etl integration,Operations Team,2026-02-22,completed
+T00439,D00439,Prepare release checklist,Data Engineering Team,2026-05-24,in_progress
+T00440,D00440,Complete etl integration,Consulting Team,2026-02-16,pending
+T00441,D00441,Validate new metrics,Security Team,2026-07-15,completed
+T00442,D00442,Validate new metrics,Platform Team,2026-06-10,needs_review
+T00443,D00443,Validate new metrics,Project Team,2026-07-27,completed
+T00444,D00444,Update project documentation,Platform Team,2026-03-18,needs_review
+T00445,D00445,Complete dashboard testing,Platform Team,2026-02-17,pending
+T00446,D00446,Complete etl integration,Project Team,2026-08-15,completed
+T00447,D00447,Complete etl integration,Documentation Team,2026-03-24,in_progress
+T00448,D00448,Complete etl integration,QA Team,2026-06-07,needs_review
+T00449,D00449,Validate migration results,Security Team,2026-06-14,needs_review
+T00450,D00450,Validate new metrics,Data Engineering Team,2026-02-25,needs_review
+T00451,D00451,Update project documentation,Project Team,2026-08-30,in_progress
+T00452,D00452,Finalize deployment plan,Data Engineering Team,2026-04-20,completed
+T00453,D00453,Review client requirements,Security Team,2026-01-06,needs_review
+T00454,D00454,Validate migration results,Migration Team,2026-08-07,in_progress
+T00455,D00455,Update project documentation,Documentation Team,2026-02-06,needs_review
+T00456,D00456,Finalize deployment plan,Analytics Team,2026-02-03,needs_review
+T00457,D00457,Complete etl integration,Analytics Team,2026-08-15,needs_review
+T00458,D00458,Validate new metrics,Analytics Team,2026-02-02,in_progress
+T00459,D00459,Prepare data quality report,Operations Team,2026-02-04,completed
+T00460,D00460,Complete etl integration,Documentation Team,2026-05-23,pending
+T00461,D00461,Prepare data quality report,Analytics Team,2026-09-03,needs_review
+T00462,D00462,Validate new metrics,Documentation Team,2026-04-19,pending
+T00463,D00463,Complete api integration,Documentation Team,2026-05-31,needs_review
+T00464,D00464,Complete etl integration,Platform Team,2026-07-23,pending
+T00465,D00465,Prepare data quality report,Unknown,Unknown,needs_review
+T00466,D00466,Complete security review,Analytics Team,2026-03-23,in_progress
+T00467,D00467,Review client requirements,Data Engineering Team,2026-09-13,completed
+T00468,D00468,Prepare data quality report,Platform Team,2026-09-23,in_progress
+T00469,D00469,Update project documentation,Consulting Team,2026-08-27,completed
+T00470,D00470,Validate new metrics,Documentation Team,2026-07-25,needs_review
+T00471,D00471,Prepare data quality report,Security Team,2026-05-15,in_progress
+T00472,D00472,Complete etl integration,QA Team,2026-01-24,needs_review
+T00473,D00473,Finalize deployment plan,Analytics Team,2026-05-17,needs_review
+T00474,D00474,Complete api integration,Project Team,2026-07-06,pending
+T00475,D00475,Update project documentation,Analytics Team,2026-04-26,needs_review
+T00476,D00476,Complete security review,Platform Team,2026-02-19,pending
+T00477,D00477,Validate new metrics,Project Team,2026-08-22,pending
+T00478,D00478,Complete etl integration,Consulting Team,2026-03-28,in_progress
+T00479,D00479,Validate new metrics,Consulting Team,2026-06-12,pending
+T00480,D00480,Prepare data quality report,QA Team,2026-02-15,needs_review
+T00481,D00481,Complete etl integration,Project Team,2026-05-28,in_progress
+T00482,D00482,Verify model outputs,QA Team,2026-03-01,completed
+T00483,D00483,Validate new metrics,Documentation Team,2026-05-06,needs_review
+T00484,D00484,Validate migration results,Migration Team,2026-04-30,pending
+T00485,D00485,Validate migration results,Documentation Team,2026-07-11,pending
+T00486,D00486,Prepare release checklist,Migration Team,2026-02-13,in_progress
+T00487,D00487,Complete api integration,Operations Team,2026-01-17,pending
+T00488,D00488,Prepare data quality report,Consulting Team,2026-01-30,completed
+T00489,D00489,Prepare release checklist,Operations Team,2026-06-11,completed
+T00490,D00490,Complete dashboard testing,Documentation Team,2026-02-05,completed
+T00491,D00491,Validate migration results,Migration Team,2026-06-23,pending
+T00492,D00492,Update project documentation,Documentation Team,2026-05-16,in_progress
+T00493,D00493,Review client requirements,Platform Team,2026-02-22,pending
+T00494,D00494,Verify model outputs,Documentation Team,2026-03-29,needs_review
+T00495,D00495,Complete api integration,Migration Team,2026-02-02,pending
+T00496,D00496,Review client requirements,Unknown,Unknown,needs_review
+T00497,D00497,Review client requirements,Operations Team,2026-02-12,completed
+T00498,D00498,Validate migration results,Consulting Team,2026-08-13,needs_review
+T00499,D00499,Validate migration results,Operations Team,2026-02-27,needs_review
+T00500,D00500,Verify model outputs,Platform Team,2026-03-24,completed
+T00501,D00501,Complete etl integration,Security Team,2026-08-03,needs_review
+T00502,D00502,Review client requirements,Data Engineering Team,2026-01-21,completed
+T00503,D00503,Prepare release checklist,Migration Team,2026-07-01,in_progress
+T00504,D00504,Verify model outputs,Consulting Team,2026-01-11,completed
+T00505,D00505,Verify model outputs,Documentation Team,2026-09-08,needs_review
+T00506,D00506,Prepare release checklist,Documentation Team,2026-06-20,needs_review
+T00507,D00507,Complete dashboard testing,Security Team,2026-01-09,pending
+T00508,D00508,Complete etl integration,QA Team,2026-04-17,pending
+T00509,D00509,Validate migration results,Project Team,2026-08-05,pending
+T00510,D00510,Finalize deployment plan,Platform Team,2026-08-16,in_progress
+T00511,D00511,Verify model outputs,Security Team,2026-06-13,completed
+T00512,D00512,Validate new metrics,Platform Team,2026-05-21,pending
+T00513,D00513,Complete dashboard testing,Documentation Team,2026-07-02,in_progress
+T00514,D00514,Finalize deployment plan,Security Team,2026-02-13,pending
+T00515,D00515,Complete etl integration,Analytics Team,2026-03-16,needs_review
+T00516,D00516,Update project documentation,QA Team,2026-05-20,in_progress
+T00517,D00517,Prepare data quality report,Security Team,2026-09-11,needs_review
+T00518,D00518,Review client requirements,Data Engineering Team,2026-06-22,completed
+T00519,D00519,Validate new metrics,Security Team,2026-09-22,in_progress
+T00520,D00520,Complete api integration,QA Team,2026-07-09,completed
+T00521,D00521,Update project documentation,Consulting Team,2026-05-28,completed
+T00522,D00522,Complete security review,Migration Team,2026-02-21,in_progress
+T00523,D00523,Verify model outputs,Migration Team,2026-01-08,pending
+T00524,D00524,Finalize deployment plan,Analytics Team,2026-06-28,needs_review
+T00525,D00525,Complete api integration,Operations Team,2026-05-27,pending
+T00526,D00526,Validate migration results,Project Team,2026-04-23,completed
+T00527,D00527,Update project documentation,Unknown,Unknown,needs_review
+T00528,D00528,Finalize deployment plan,Platform Team,2026-01-13,in_progress
+T00529,D00529,Prepare data quality report,Documentation Team,2026-05-10,pending
+T00530,D00530,Finalize deployment plan,Platform Team,2026-04-01,completed
+T00531,D00531,Verify model outputs,Security Team,2026-04-28,in_progress
+T00532,D00532,Update project documentation,Consulting Team,2026-05-14,in_progress
+T00533,D00533,Prepare release checklist,Analytics Team,2026-04-20,completed
+T00534,D00534,Complete api integration,Platform Team,2026-08-15,completed
+T00535,D00535,Complete security review,Operations Team,2026-01-09,needs_review
+T00536,D00536,Update project documentation,QA Team,2026-07-16,pending
+T00537,D00537,Validate new metrics,Data Engineering Team,2026-05-18,completed
+T00538,D00538,Prepare release checklist,Project Team,2026-01-28,completed
+T00539,D00539,Complete security review,Migration Team,2026-06-04,pending
+T00540,D00540,Verify model outputs,Platform Team,2026-03-28,needs_review
+T00541,D00541,Finalize deployment plan,Security Team,2026-07-02,needs_review
+T00542,D00542,Complete api integration,Security Team,2026-04-12,needs_review
+T00543,D00543,Validate new metrics,Data Engineering Team,2026-03-27,completed
+T00544,D00544,Prepare data quality report,Migration Team,2026-04-27,needs_review
+T00545,D00545,Review client requirements,Data Engineering Team,2026-02-05,completed
+T00546,D00546,Review client requirements,Project Team,2026-03-15,in_progress
+T00547,D00547,Complete security review,Operations Team,2026-04-19,pending
+T00548,D00548,Prepare data quality report,Operations Team,2026-07-16,pending
+T00549,D00549,Validate migration results,Analytics Team,2026-07-14,in_progress
+T00550,D00550,Verify model outputs,Security Team,2026-08-24,pending
+T00551,D00551,Complete dashboard testing,QA Team,2026-02-23,completed
+T00552,D00552,Prepare data quality report,Platform Team,2026-06-27,needs_review
+T00553,D00553,Review client requirements,Migration Team,2026-08-09,in_progress
+T00554,D00554,Validate migration results,Platform Team,2026-05-07,needs_review
+T00555,D00555,Complete api integration,Documentation Team,2026-09-04,pending
+T00556,D00556,Complete etl integration,Migration Team,2026-06-25,in_progress
+T00557,D00557,Complete security review,Migration Team,2026-02-13,in_progress
+T00558,D00558,Verify model outputs,Unknown,Unknown,needs_review
+T00559,D00559,Prepare data quality report,Project Team,2026-07-11,in_progress
+T00560,D00560,Validate new metrics,Platform Team,2026-05-24,completed
+T00561,D00561,Validate migration results,Project Team,2026-03-28,completed
+T00562,D00562,Complete security review,Operations Team,2026-04-02,in_progress
+T00563,D00563,Review client requirements,Data Engineering Team,2026-04-21,completed
+T00564,D00564,Complete dashboard testing,Operations Team,2026-05-23,in_progress
+T00565,D00565,Complete api integration,Documentation Team,2026-07-22,pending
+T00566,D00566,Review client requirements,QA Team,2026-02-04,needs_review
+T00567,D00567,Review client requirements,Analytics Team,2026-07-17,pending
+T00568,D00568,Complete api integration,Operations Team,2026-04-19,completed
+T00569,D00569,Validate migration results,Project Team,2026-01-24,needs_review
+T00570,D00570,Update project documentation,Migration Team,2026-09-28,in_progress
+T00571,D00571,Complete security review,Documentation Team,2026-02-11,needs_review
+T00572,D00572,Complete api integration,Security Team,2026-09-27,needs_review
+T00573,D00573,Complete dashboard testing,Data Engineering Team,2026-04-10,needs_review
+T00574,D00574,Finalize deployment plan,Migration Team,2026-09-16,pending
+T00575,D00575,Update project documentation,Data Engineering Team,2026-08-09,in_progress
+T00576,D00576,Finalize deployment plan,Data Engineering Team,2026-07-17,completed
+T00577,D00577,Complete security review,Operations Team,2026-06-16,pending
+T00578,D00578,Validate new metrics,Documentation Team,2026-06-08,pending
+T00579,D00579,Update project documentation,Security Team,2026-06-18,in_progress
+T00580,D00580,Review client requirements,Migration Team,2026-01-06,needs_review
+T00581,D00581,Review client requirements,Data Engineering Team,2026-02-10,pending
+T00582,D00582,Prepare data quality report,Data Engineering Team,2026-02-25,completed
+T00583,D00583,Prepare release checklist,Documentation Team,2026-04-05,in_progress
+T00584,D00584,Complete etl integration,Operations Team,2026-05-11,needs_review
+T00585,D00585,Complete etl integration,Migration Team,2026-09-22,completed
+T00586,D00586,Verify model outputs,Migration Team,2026-09-21,completed
+T00587,D00587,Complete dashboard testing,Consulting Team,2026-04-23,needs_review
+T00588,D00588,Validate migration results,Security Team,2026-04-17,in_progress
+T00589,D00589,Prepare release checklist,Unknown,Unknown,needs_review
+T00590,D00590,Update project documentation,Operations Team,2026-04-30,pending
+T00591,D00591,Validate migration results,Documentation Team,2026-09-21,pending
+T00592,D00592,Update project documentation,Consulting Team,2026-09-25,completed
+T00593,D00593,Complete etl integration,QA Team,2026-09-03,needs_review
+T00594,D00594,Validate new metrics,Project Team,2026-09-25,completed
+T00595,D00595,Validate migration results,Security Team,2026-03-09,pending
+T00596,D00596,Review client requirements,Analytics Team,2026-09-04,completed
+T00597,D00597,Complete security review,Platform Team,2026-02-21,in_progress
+T00598,D00598,Validate migration results,Analytics Team,2026-03-28,needs_review
+T00599,D00599,Complete api integration,Project Team,2026-08-19,completed
+T00600,D00600,Complete etl integration,Operations Team,2026-04-27,pending
+T00601,D00601,Verify model outputs,Security Team,2026-04-24,pending
+T00602,D00602,Validate migration results,Security Team,2026-09-13,pending
+T00603,D00603,Complete etl integration,Platform Team,2026-06-12,in_progress
+T00604,D00604,Complete security review,QA Team,2026-09-15,completed
+T00605,D00605,Review client requirements,Migration Team,2026-02-22,pending
+T00606,D00606,Finalize deployment plan,Migration Team,2026-04-01,pending
+T00607,D00607,Update project documentation,Operations Team,2026-01-18,completed
+T00608,D00608,Validate new metrics,Analytics Team,2026-07-01,in_progress
+T00609,D00609,Complete security review,Platform Team,2026-07-27,pending
+T00610,D00610,Complete api integration,Migration Team,2026-02-27,pending
+T00611,D00611,Finalize deployment plan,Documentation Team,2026-05-01,pending
+T00612,D00612,Complete etl integration,Data Engineering Team,2026-02-10,needs_review
+T00613,D00613,Verify model outputs,Documentation Team,2026-04-08,completed
+T00614,D00614,Update project documentation,Analytics Team,2026-07-28,in_progress
+T00615,D00615,Update project documentation,Security Team,2026-01-15,pending
+T00616,D00616,Verify model outputs,QA Team,2026-08-23,pending
+T00617,D00617,Complete etl integration,Security Team,2026-02-21,completed
+T00618,D00618,Validate migration results,Data Engineering Team,2026-05-27,needs_review
+T00619,D00619,Validate new metrics,Documentation Team,2026-02-17,in_progress
+T00620,D00620,Complete etl integration,Unknown,Unknown,needs_review
+T00621,D00621,Prepare data quality report,Security Team,2026-03-27,pending
+T00622,D00622,Finalize deployment plan,Consulting Team,2026-01-30,pending
+T00623,D00623,Prepare release checklist,Operations Team,2026-04-20,completed
+T00624,D00624,Update project documentation,QA Team,2026-04-21,completed
+T00625,D00625,Validate migration results,Data Engineering Team,2026-07-30,in_progress
+T00626,D00626,Complete security review,Operations Team,2026-06-21,pending
+T00627,D00627,Complete dashboard testing,Data Engineering Team,2026-05-25,needs_review
+T00628,D00628,Prepare data quality report,Analytics Team,2026-05-11,pending
+T00629,D00629,Verify model outputs,Project Team,2026-02-13,completed
+T00630,D00630,Update project documentation,Analytics Team,2026-04-29,in_progress
+T00631,D00631,Complete api integration,Data Engineering Team,2026-07-27,needs_review
+T00632,D00632,Complete etl integration,QA Team,2026-03-23,completed
+T00633,D00633,Prepare data quality report,Data Engineering Team,2026-06-13,pending
+T00634,D00634,Finalize deployment plan,QA Team,2026-08-08,needs_review
+T00635,D00635,Update project documentation,Project Team,2026-05-07,pending
+T00636,D00636,Validate new metrics,QA Team,2026-05-01,completed
+T00637,D00637,Complete dashboard testing,Platform Team,2026-04-18,in_progress
+T00638,D00638,Validate migration results,Documentation Team,2026-06-18,pending
+T00639,D00639,Complete etl integration,Data Engineering Team,2026-06-07,pending
+T00640,D00640,Complete security review,Operations Team,2026-07-18,needs_review
+T00641,D00641,Complete etl integration,Project Team,2026-02-22,completed
+T00642,D00642,Review client requirements,Operations Team,2026-05-09,pending
+T00643,D00643,Validate new metrics,Consulting Team,2026-07-10,pending
+T00644,D00644,Update project documentation,Data Engineering Team,2026-05-16,completed
+T00645,D00645,Review client requirements,Project Team,2026-06-03,needs_review
+T00646,D00646,Verify model outputs,Consulting Team,2026-03-29,pending
+T00647,D00647,Review client requirements,Analytics Team,2026-03-01,pending
+T00648,D00648,Update project documentation,Security Team,2026-04-02,pending
+T00649,D00649,Validate new metrics,Analytics Team,2026-07-03,pending
+T00650,D00650,Review client requirements,Documentation Team,2026-01-09,needs_review
+T00651,D00651,Complete api integration,Unknown,Unknown,needs_review
+T00652,D00652,Complete etl integration,Project Team,2026-08-27,completed
+T00653,D00653,Prepare release checklist,Analytics Team,2026-03-29,needs_review
+T00654,D00654,Prepare data quality report,Platform Team,2026-07-06,pending
+T00655,D00655,Validate new metrics,Consulting Team,2026-02-23,needs_review
+T00656,D00656,Verify model outputs,Security Team,2026-03-21,completed
+T00657,D00657,Prepare release checklist,QA Team,2026-08-14,completed
+T00658,D00658,Review client requirements,Operations Team,2026-09-18,in_progress
+T00659,D00659,Complete security review,Data Engineering Team,2026-01-07,completed
+T00660,D00660,Prepare data quality report,Migration Team,2026-02-16,pending
+T00661,D00661,Validate new metrics,QA Team,2026-06-28,in_progress
+T00662,D00662,Prepare data quality report,Consulting Team,2026-07-17,completed
+T00663,D00663,Complete dashboard testing,Analytics Team,2026-06-04,in_progress
+T00664,D00664,Validate migration results,Platform Team,2026-08-18,completed
+T00665,D00665,Update project documentation,Project Team,2026-02-07,completed
+T00666,D00666,Complete api integration,Project Team,2026-07-13,completed
+T00667,D00667,Review client requirements,Data Engineering Team,2026-02-01,pending
+T00668,D00668,Verify model outputs,Security Team,2026-01-15,needs_review
+T00669,D00669,Finalize deployment plan,Documentation Team,2026-06-11,needs_review
+T00670,D00670,Finalize deployment plan,QA Team,2026-08-11,completed
+T00671,D00671,Prepare data quality report,Security Team,2026-03-18,completed
+T00672,D00672,Validate new metrics,QA Team,2026-02-22,pending
+T00673,D00673,Complete etl integration,Documentation Team,2026-03-28,completed
+T00674,D00674,Complete etl integration,Project Team,2026-03-06,completed
+T00675,D00675,Verify model outputs,Operations Team,2026-06-07,needs_review
+T00676,D00676,Complete security review,Data Engineering Team,2026-04-17,needs_review
+T00677,D00677,Prepare data quality report,Data Engineering Team,2026-06-06,pending
+T00678,D00678,Complete etl integration,Platform Team,2026-08-13,pending
+T00679,D00679,Complete security review,Security Team,2026-07-10,in_progress
+T00680,D00680,Finalize deployment plan,Project Team,2026-04-19,pending
+T00681,D00681,Complete dashboard testing,QA Team,2026-02-22,needs_review
+T00682,D00682,Complete security review,Unknown,Unknown,needs_review
+T00683,D00683,Finalize deployment plan,Documentation Team,2026-06-08,pending
+T00684,D00684,Finalize deployment plan,Platform Team,2026-05-22,pending
+T00685,D00685,Validate new metrics,Analytics Team,2026-05-12,needs_review
+T00686,D00686,Complete etl integration,Documentation Team,2026-07-04,completed
+T00687,D00687,Complete security review,Migration Team,2026-03-05,needs_review
+T00688,D00688,Complete api integration,QA Team,2026-04-20,in_progress
+T00689,D00689,Prepare release checklist,Documentation Team,2026-08-01,pending
+T00690,D00690,Review client requirements,Data Engineering Team,2026-03-30,needs_review
+T00691,D00691,Validate new metrics,Project Team,2026-03-02,in_progress
+T00692,D00692,Validate new metrics,Data Engineering Team,2026-05-31,needs_review
+T00693,D00693,Prepare release checklist,Consulting Team,2026-08-03,needs_review
+T00694,D00694,Complete dashboard testing,Operations Team,2026-08-31,completed
+T00695,D00695,Complete security review,Operations Team,2026-06-24,pending
+T00696,D00696,Complete dashboard testing,Migration Team,2026-07-05,pending
+T00697,D00697,Verify model outputs,Analytics Team,2026-06-11,in_progress
+T00698,D00698,Complete api integration,Documentation Team,2026-03-26,completed
+T00699,D00699,Complete etl integration,Platform Team,2026-04-03,needs_review
+T00700,D00700,Complete etl integration,Analytics Team,2026-03-20,completed
+T00701,D00701,Validate migration results,Project Team,2026-05-14,in_progress
+T00702,D00702,Verify model outputs,Migration Team,2026-03-25,completed
+T00703,D00703,Complete security review,Project Team,2026-01-11,in_progress
+T00704,D00704,Verify model outputs,Security Team,2026-08-03,completed
+T00705,D00705,Validate migration results,Documentation Team,2026-03-09,pending
+T00706,D00706,Complete security review,Project Team,2026-04-21,pending
+T00707,D00707,Update project documentation,Project Team,2026-01-13,needs_review
+T00708,D00708,Update project documentation,Platform Team,2026-01-13,in_progress
+T00709,D00709,Update project documentation,Data Engineering Team,2026-06-03,pending
+T00710,D00710,Prepare release checklist,Analytics Team,2026-08-14,needs_review
+T00711,D00711,Validate new metrics,Platform Team,2026-03-19,pending
+T00712,D00712,Verify model outputs,Documentation Team,2026-03-09,pending
+T00713,D00713,Complete etl integration,Unknown,Unknown,needs_review
+T00714,D00714,Prepare data quality report,Documentation Team,2026-01-23,completed
+T00715,D00715,Complete dashboard testing,Platform Team,2026-06-11,completed
+T00716,D00716,Complete etl integration,Consulting Team,2026-08-17,pending
+T00717,D00717,Update project documentation,Consulting Team,2026-09-24,needs_review
+T00718,D00718,Prepare data quality report,Operations Team,2026-04-22,completed
+T00719,D00719,Validate migration results,QA Team,2026-06-17,completed
+T00720,D00720,Prepare data quality report,Operations Team,2026-08-11,completed
+T00721,D00721,Prepare data quality report,Documentation Team,2026-03-30,needs_review
+T00722,D00722,Prepare release checklist,Security Team,2026-08-03,in_progress
+T00723,D00723,Prepare release checklist,Security Team,2026-09-06,in_progress
+T00724,D00724,Complete dashboard testing,Security Team,2026-05-02,needs_review
+T00725,D00725,Update project documentation,Data Engineering Team,2026-02-15,pending
+T00726,D00726,Validate new metrics,Project Team,2026-08-01,completed
+T00727,D00727,Complete dashboard testing,Analytics Team,2026-02-07,in_progress
+T00728,D00728,Update project documentation,Consulting Team,2026-01-16,needs_review
+T00729,D00729,Review client requirements,Operations Team,2026-05-04,in_progress
+T00730,D00730,Review client requirements,Documentation Team,2026-08-21,needs_review
+T00731,D00731,Validate migration results,Migration Team,2026-08-14,pending
+T00732,D00732,Prepare release checklist,Project Team,2026-02-19,pending
+T00733,D00733,Complete etl integration,Platform Team,2026-03-28,completed
+T00734,D00734,Update project documentation,Security Team,2026-08-13,in_progress
+T00735,D00735,Complete dashboard testing,Platform Team,2026-04-26,needs_review
+T00736,D00736,Review client requirements,QA Team,2026-01-29,pending
+T00737,D00737,Validate migration results,QA Team,2026-05-20,in_progress
+T00738,D00738,Validate migration results,Consulting Team,2026-04-12,completed
+T00739,D00739,Prepare release checklist,Platform Team,2026-03-08,needs_review
+T00740,D00740,Complete security review,Migration Team,2026-08-05,pending
+T00741,D00741,Validate migration results,Analytics Team,2026-06-01,needs_review
+T00742,D00742,Complete security review,Operations Team,2026-01-18,needs_review
+T00743,D00743,Complete dashboard testing,QA Team,2026-08-30,needs_review
+T00744,D00744,Prepare release checklist,Unknown,Unknown,needs_review
+T00745,D00745,Complete dashboard testing,Analytics Team,2026-06-20,completed
+T00746,D00746,Complete dashboard testing,Operations Team,2026-08-25,in_progress
+T00747,D00747,Verify model outputs,Analytics Team,2026-02-25,needs_review
+T00748,D00748,Review client requirements,Migration Team,2026-06-22,in_progress
+T00749,D00749,Validate new metrics,Operations Team,2026-05-04,needs_review
+T00750,D00750,Complete etl integration,Data Engineering Team,2026-05-23,in_progress
+T00751,D00751,Update project documentation,Migration Team,2026-01-29,pending
+T00752,D00752,Review client requirements,Consulting Team,2026-07-12,needs_review
+T00753,D00753,Prepare release checklist,Migration Team,2026-02-28,needs_review
+T00754,D00754,Validate new metrics,Project Team,2026-01-11,pending
+T00755,D00755,Validate migration results,Consulting Team,2026-09-23,pending
+T00756,D00756,Complete dashboard testing,Security Team,2026-05-31,needs_review
+T00757,D00757,Review client requirements,Security Team,2026-04-03,needs_review
+T00758,D00758,Prepare data quality report,Analytics Team,2026-04-21,completed
+T00759,D00759,Complete etl integration,Operations Team,2026-08-28,in_progress
+T00760,D00760,Update project documentation,Operations Team,2026-02-15,completed
+T00761,D00761,Update project documentation,Documentation Team,2026-02-22,pending
+T00762,D00762,Prepare data quality report,QA Team,2026-03-15,in_progress
+T00763,D00763,Prepare release checklist,Documentation Team,2026-04-19,pending
+T00764,D00764,Finalize deployment plan,Consulting Team,2026-01-09,in_progress
+T00765,D00765,Verify model outputs,Data Engineering Team,2026-05-03,completed
+T00766,D00766,Validate migration results,Documentation Team,2026-02-16,needs_review
+T00767,D00767,Prepare data quality report,Consulting Team,2026-08-05,completed
+T00768,D00768,Complete security review,Documentation Team,2026-09-07,in_progress
+T00769,D00769,Prepare release checklist,Migration Team,2026-08-02,pending
+T00770,D00770,Update project documentation,QA Team,2026-09-06,in_progress
+T00771,D00771,Verify model outputs,Security Team,2026-09-12,pending
+T00772,D00772,Validate migration results,Migration Team,2026-07-11,completed
+T00773,D00773,Verify model outputs,QA Team,2026-04-10,completed
+T00774,D00774,Review client requirements,Migration Team,2026-05-13,pending
+T00775,D00775,Validate migration results,Unknown,Unknown,needs_review
+T00776,D00776,Validate migration results,Platform Team,2026-08-02,pending
+T00777,D00777,Update project documentation,QA Team,2026-09-20,completed
+T00778,D00778,Prepare release checklist,Analytics Team,2026-09-05,needs_review
+T00779,D00779,Complete etl integration,Operations Team,2026-03-26,needs_review
+T00780,D00780,Complete api integration,Consulting Team,2026-01-13,needs_review
+T00781,D00781,Validate new metrics,Security Team,2026-05-14,pending
+T00782,D00782,Finalize deployment plan,Data Engineering Team,2026-01-21,in_progress
+T00783,D00783,Validate migration results,Documentation Team,2026-08-07,needs_review
+T00784,D00784,Validate migration results,Migration Team,2026-04-04,in_progress
+T00785,D00785,Complete api integration,Platform Team,2026-04-29,completed
+T00786,D00786,Update project documentation,Documentation Team,2026-02-04,in_progress
+T00787,D00787,Prepare data quality report,Security Team,2026-09-27,pending
+T00788,D00788,Validate new metrics,Consulting Team,2026-07-03,in_progress
+T00789,D00789,Finalize deployment plan,Documentation Team,2026-05-11,needs_review
+T00790,D00790,Review client requirements,Documentation Team,2026-03-23,in_progress
+T00791,D00791,Complete etl integration,Security Team,2026-08-18,in_progress
+T00792,D00792,Review client requirements,Consulting Team,2026-08-06,pending
+T00793,D00793,Finalize deployment plan,Analytics Team,2026-08-15,in_progress
+T00794,D00794,Complete etl integration,QA Team,2026-07-24,needs_review
+T00795,D00795,Complete etl integration,Migration Team,2026-02-08,completed
+T00796,D00796,Prepare data quality report,Operations Team,2026-01-25,pending
+T00797,D00797,Prepare release checklist,Consulting Team,2026-02-14,in_progress
+T00798,D00798,Complete etl integration,Migration Team,2026-05-16,completed
+T00799,D00799,Validate migration results,Platform Team,2026-03-28,pending
+T00800,D00800,Update project documentation,Migration Team,2026-08-08,in_progress
+T00801,D00801,Review client requirements,Consulting Team,2026-08-22,completed
+T00802,D00802,Finalize deployment plan,Migration Team,2026-07-31,in_progress
+T00803,D00803,Prepare data quality report,QA Team,2026-08-11,pending
+T00804,D00804,Update project documentation,Platform Team,2026-03-13,needs_review
+T00805,D00805,Validate new metrics,Platform Team,2026-01-18,needs_review
+T00806,D00806,Complete api integration,Unknown,Unknown,needs_review
+T00807,D00807,Validate new metrics,QA Team,2026-01-31,needs_review
+T00808,D00808,Prepare data quality report,Project Team,2026-06-04,pending
+T00809,D00809,Complete api integration,Operations Team,2026-05-14,in_progress
+T00810,D00810,Validate new metrics,Operations Team,2026-05-10,in_progress
+T00811,D00811,Prepare release checklist,Platform Team,2026-07-15,needs_review
+T00812,D00812,Review client requirements,Analytics Team,2026-05-25,completed
+T00813,D00813,Finalize deployment plan,QA Team,2026-09-09,needs_review
+T00814,D00814,Prepare release checklist,Platform Team,2026-09-16,completed
+T00815,D00815,Complete security review,Documentation Team,2026-05-27,completed
+T00816,D00816,Update project documentation,Migration Team,2026-08-05,pending
+T00817,D00817,Verify model outputs,Migration Team,2026-09-25,in_progress
+T00818,D00818,Complete dashboard testing,Platform Team,2026-06-14,in_progress
+T00819,D00819,Complete api integration,QA Team,2026-07-18,pending
+T00820,D00820,Complete security review,Consulting Team,2026-05-23,completed
+T00821,D00821,Complete etl integration,Project Team,2026-04-09,completed
+T00822,D00822,Prepare data quality report,Operations Team,2026-02-06,in_progress
+T00823,D00823,Prepare data quality report,Analytics Team,2026-09-27,in_progress
+T00824,D00824,Finalize deployment plan,Documentation Team,2026-02-11,needs_review
+T00825,D00825,Prepare release checklist,Analytics Team,2026-01-07,in_progress
+T00826,D00826,Prepare release checklist,Platform Team,2026-08-04,in_progress
+T00827,D00827,Complete api integration,Security Team,2026-06-04,pending
+T00828,D00828,Review client requirements,QA Team,2026-01-21,completed
+T00829,D00829,Prepare data quality report,QA Team,2026-05-16,pending
+T00830,D00830,Validate new metrics,Security Team,2026-01-10,needs_review
+T00831,D00831,Finalize deployment plan,Project Team,2026-03-08,pending
+T00832,D00832,Validate new metrics,Migration Team,2026-02-27,needs_review
+T00833,D00833,Prepare data quality report,Data Engineering Team,2026-09-20,in_progress
+T00834,D00834,Update project documentation,Documentation Team,2026-02-15,in_progress
+T00835,D00835,Complete api integration,Security Team,2026-06-10,pending
+T00836,D00836,Verify model outputs,Security Team,2026-09-04,completed
+T00837,D00837,Complete dashboard testing,Unknown,Unknown,needs_review
+T00838,D00838,Validate migration results,Data Engineering Team,2026-07-31,completed
+T00839,D00839,Finalize deployment plan,Platform Team,2026-07-11,completed
+T00840,D00840,Complete dashboard testing,Platform Team,2026-07-18,in_progress
+T00841,D00841,Review client requirements,Security Team,2026-02-11,pending
+T00842,D00842,Verify model outputs,Platform Team,2026-01-07,completed
+T00843,D00843,Complete etl integration,Operations Team,2026-06-27,completed
+T00844,D00844,Update project documentation,Platform Team,2026-05-31,pending
+T00845,D00845,Complete api integration,Data Engineering Team,2026-08-01,pending
+T00846,D00846,Prepare release checklist,Data Engineering Team,2026-08-14,needs_review
+T00847,D00847,Validate new metrics,Analytics Team,2026-02-09,completed
+T00848,D00848,Validate migration results,QA Team,2026-08-19,needs_review
+T00849,D00849,Complete etl integration,Operations Team,2026-03-31,completed
+T00850,D00850,Prepare release checklist,Consulting Team,2026-07-16,needs_review
+T00851,D00851,Prepare data quality report,Documentation Team,2026-02-21,pending
+T00852,D00852,Update project documentation,Consulting Team,2026-05-03,needs_review
+T00853,D00853,Prepare data quality report,Documentation Team,2026-06-23,needs_review
+T00854,D00854,Finalize deployment plan,Project Team,2026-05-20,needs_review
+T00855,D00855,Validate new metrics,Data Engineering Team,2026-04-13,completed
+T00856,D00856,Validate new metrics,Security Team,2026-01-16,completed
+T00857,D00857,Update project documentation,QA Team,2026-03-27,completed
+T00858,D00858,Prepare release checklist,Documentation Team,2026-08-16,needs_review
+T00859,D00859,Prepare release checklist,Operations Team,2026-01-31,pending
+T00860,D00860,Prepare data quality report,Migration Team,2026-06-18,pending
+T00861,D00861,Validate migration results,Consulting Team,2026-06-03,pending
+T00862,D00862,Validate new metrics,QA Team,2026-04-30,completed
+T00863,D00863,Prepare data quality report,Migration Team,2026-05-19,completed
+T00864,D00864,Complete security review,Analytics Team,2026-07-24,pending
+T00865,D00865,Update project documentation,Documentation Team,2026-08-24,pending
+T00866,D00866,Complete security review,Security Team,2026-04-22,pending
+T00867,D00867,Verify model outputs,Documentation Team,2026-06-04,completed
+T00868,D00868,Validate migration results,Unknown,Unknown,needs_review
+T00869,D00869,Complete dashboard testing,QA Team,2026-06-20,completed
+T00870,D00870,Complete api integration,Platform Team,2026-01-21,pending
+T00871,D00871,Complete security review,Platform Team,2026-06-30,needs_review
+T00872,D00872,Review client requirements,Operations Team,2026-09-11,in_progress
+T00873,D00873,Complete etl integration,QA Team,2026-07-20,in_progress
+T00874,D00874,Finalize deployment plan,Operations Team,2026-08-22,in_progress
+T00875,D00875,Prepare release checklist,Platform Team,2026-02-12,completed
+T00876,D00876,Complete etl integration,Analytics Team,2026-05-31,pending
+T00877,D00877,Validate new metrics,QA Team,2026-09-11,needs_review
+T00878,D00878,Validate new metrics,Platform Team,2026-09-12,completed
+T00879,D00879,Verify model outputs,Documentation Team,2026-04-19,in_progress
+T00880,D00880,Complete dashboard testing,Security Team,2026-07-21,needs_review
+T00881,D00881,Prepare data quality report,QA Team,2026-02-15,needs_review
+T00882,D00882,Finalize deployment plan,Platform Team,2026-06-23,needs_review
+T00883,D00883,Validate migration results,Documentation Team,2026-03-14,pending
+T00884,D00884,Complete dashboard testing,Documentation Team,2026-06-26,completed
+T00885,D00885,Complete security review,Data Engineering Team,2026-05-28,completed
+T00886,D00886,Review client requirements,QA Team,2026-03-17,needs_review
+T00887,D00887,Prepare data quality report,Documentation Team,2026-07-31,completed
+T00888,D00888,Update project documentation,Analytics Team,2026-07-23,needs_review
+T00889,D00889,Complete dashboard testing,Platform Team,2026-08-12,needs_review
+T00890,D00890,Complete etl integration,Documentation Team,2026-09-28,needs_review
+T00891,D00891,Validate new metrics,Migration Team,2026-05-04,pending
+T00892,D00892,Validate migration results,Consulting Team,2026-05-08,completed
+T00893,D00893,Complete etl integration,Documentation Team,2026-06-01,pending
+T00894,D00894,Complete dashboard testing,Consulting Team,2026-05-19,needs_review
+T00895,D00895,Complete security review,Consulting Team,2026-08-28,pending
+T00896,D00896,Complete security review,Platform Team,2026-07-10,completed
+T00897,D00897,Finalize deployment plan,Consulting Team,2026-03-24,needs_review
+T00898,D00898,Validate new metrics,Migration Team,2026-02-07,pending
+T00899,D00899,Finalize deployment plan,Unknown,Unknown,needs_review
+T00900,D00900,Review client requirements,Security Team,2026-09-06,completed
+T00901,D00901,Prepare data quality report,Data Engineering Team,2026-06-17,pending
+T00902,D00902,Update project documentation,Documentation Team,2026-03-10,completed
+T00903,D00903,Complete etl integration,Operations Team,2026-05-08,needs_review
+T00904,D00904,Complete security review,Migration Team,2026-01-21,in_progress
+T00905,D00905,Validate new metrics,Project Team,2026-03-05,pending
+T00906,D00906,Verify model outputs,Migration Team,2026-07-15,needs_review
+T00907,D00907,Prepare data quality report,Platform Team,2026-01-06,needs_review
+T00908,D00908,Complete etl integration,Project Team,2026-03-01,in_progress
+T00909,D00909,Verify model outputs,Documentation Team,2026-04-26,in_progress
+T00910,D00910,Validate new metrics,Project Team,2026-08-25,needs_review
+T00911,D00911,Verify model outputs,Consulting Team,2026-07-26,in_progress
+T00912,D00912,Prepare data quality report,Analytics Team,2026-09-09,pending
+T00913,D00913,Validate new metrics,Migration Team,2026-04-08,needs_review
+T00914,D00914,Prepare release checklist,Operations Team,2026-08-19,needs_review
+T00915,D00915,Validate new metrics,Analytics Team,2026-05-05,in_progress
+T00916,D00916,Validate new metrics,Migration Team,2026-04-22,pending
+T00917,D00917,Complete etl integration,QA Team,2026-04-17,in_progress
+T00918,D00918,Complete security review,Operations Team,2026-06-10,needs_review
+T00919,D00919,Complete etl integration,Consulting Team,2026-05-15,needs_review
+T00920,D00920,Finalize deployment plan,Operations Team,2026-05-27,needs_review
+T00921,D00921,Complete etl integration,Platform Team,2026-06-15,in_progress
+T00922,D00922,Complete dashboard testing,Operations Team,2026-05-23,in_progress
+T00923,D00923,Complete api integration,Consulting Team,2026-06-27,completed
+T00924,D00924,Complete security review,Analytics Team,2026-03-02,needs_review
+T00925,D00925,Complete security review,Operations Team,2026-01-30,pending
+T00926,D00926,Prepare release checklist,Analytics Team,2026-04-06,in_progress
+T00927,D00927,Review client requirements,Consulting Team,2026-03-30,pending
+T00928,D00928,Verify model outputs,Data Engineering Team,2026-03-30,pending
+T00929,D00929,Update project documentation,Project Team,2026-07-22,completed
+T00930,D00930,Complete dashboard testing,Unknown,Unknown,needs_review
+T00931,D00931,Validate new metrics,Migration Team,2026-08-08,pending
+T00932,D00932,Validate migration results,Data Engineering Team,2026-04-02,in_progress
+T00933,D00933,Validate migration results,QA Team,2026-06-16,in_progress
+T00934,D00934,Complete etl integration,Consulting Team,2026-05-25,pending
+T00935,D00935,Verify model outputs,Project Team,2026-08-27,completed
+T00936,D00936,Prepare release checklist,Migration Team,2026-05-22,in_progress
+T00937,D00937,Validate new metrics,Platform Team,2026-09-27,needs_review
+T00938,D00938,Verify model outputs,Analytics Team,2026-04-05,needs_review
+T00939,D00939,Prepare release checklist,Platform Team,2026-04-17,in_progress
+T00940,D00940,Update project documentation,QA Team,2026-06-23,needs_review
+T00941,D00941,Complete dashboard testing,Documentation Team,2026-03-26,pending
+T00942,D00942,Review client requirements,Analytics Team,2026-05-23,completed
+T00943,D00943,Prepare data quality report,Project Team,2026-07-26,needs_review
+T00944,D00944,Validate new metrics,Analytics Team,2026-04-05,completed
+T00945,D00945,Prepare release checklist,Data Engineering Team,2026-08-06,completed
+T00946,D00946,Complete etl integration,Analytics Team,2026-04-25,pending
+T00947,D00947,Complete dashboard testing,Migration Team,2026-02-07,needs_review
+T00948,D00948,Verify model outputs,QA Team,2026-04-08,needs_review
+T00949,D00949,Complete security review,Project Team,2026-04-24,completed
+T00950,D00950,Finalize deployment plan,Operations Team,2026-07-10,completed
+T00951,D00951,Prepare release checklist,Operations Team,2026-02-07,in_progress
+T00952,D00952,Update project documentation,Data Engineering Team,2026-05-29,needs_review
+T00953,D00953,Verify model outputs,Platform Team,2026-04-04,needs_review
+T00954,D00954,Complete dashboard testing,Consulting Team,2026-02-01,pending
+T00955,D00955,Review client requirements,Documentation Team,2026-04-04,pending
+T00956,D00956,Verify model outputs,Consulting Team,2026-04-23,completed
+T00957,D00957,Finalize deployment plan,QA Team,2026-05-20,in_progress
+T00958,D00958,Verify model outputs,Project Team,2026-08-14,in_progress
+T00959,D00959,Verify model outputs,Migration Team,2026-08-10,pending
+T00960,D00960,Prepare release checklist,Platform Team,2026-09-24,pending
+T00961,D00961,Review client requirements,Unknown,Unknown,needs_review
+T00962,D00962,Validate migration results,Project Team,2026-05-11,completed
+T00963,D00963,Prepare data quality report,Data Engineering Team,2026-05-25,pending
+T00964,D00964,Prepare release checklist,Migration Team,2026-06-17,pending
+T00965,D00965,Prepare release checklist,Project Team,2026-03-17,completed
+T00966,D00966,Finalize deployment plan,Data Engineering Team,2026-06-16,completed
+T00967,D00967,Prepare release checklist,Operations Team,2026-07-04,pending
+T00968,D00968,Complete etl integration,Security Team,2026-07-30,pending
+T00969,D00969,Validate migration results,Operations Team,2026-02-24,completed
+T00970,D00970,Prepare data quality report,Documentation Team,2026-04-27,needs_review
+T00971,D00971,Finalize deployment plan,Security Team,2026-05-08,pending
+T00972,D00972,Validate migration results,QA Team,2026-06-16,completed
+T00973,D00973,Complete dashboard testing,Operations Team,2026-05-02,completed
+T00974,D00974,Complete security review,Consulting Team,2026-01-14,completed
+T00975,D00975,Verify model outputs,Consulting Team,2026-01-14,pending
+T00976,D00976,Complete security review,Documentation Team,2026-04-23,pending
+T00977,D00977,Finalize deployment plan,Documentation Team,2026-01-30,needs_review
+T00978,D00978,Prepare data quality report,Migration Team,2026-05-10,pending
+T00979,D00979,Verify model outputs,Project Team,2026-04-12,pending
+T00980,D00980,Update project documentation,Data Engineering Team,2026-05-25,in_progress
+T00981,D00981,Prepare release checklist,Security Team,2026-03-28,needs_review
+T00982,D00982,Complete etl integration,Security Team,2026-06-24,completed
+T00983,D00983,Prepare release checklist,Project Team,2026-07-02,needs_review
+T00984,D00984,Review client requirements,Security Team,2026-06-09,needs_review
+T00985,D00985,Validate new metrics,Project Team,2026-07-01,needs_review
+T00986,D00986,Prepare release checklist,Migration Team,2026-04-28,in_progress
+T00987,D00987,Update project documentation,Documentation Team,2026-06-03,in_progress
+T00988,D00988,Complete etl integration,Analytics Team,2026-07-04,pending
+T00989,D00989,Review client requirements,Migration Team,2026-09-23,completed
+T00990,D00990,Review client requirements,Platform Team,2026-08-19,in_progress
+T00991,D00991,Complete etl integration,Migration Team,2026-06-29,needs_review
+T00992,D00992,Prepare release checklist,Unknown,Unknown,needs_review
+T00993,D00993,Prepare data quality report,Documentation Team,2026-09-28,in_progress
+T00994,D00994,Verify model outputs,Data Engineering Team,2026-02-11,needs_review
+T00995,D00995,Verify model outputs,Project Team,2026-06-04,needs_review
+T00996,D00996,Prepare data quality report,Data Engineering Team,2026-06-04,completed
+T00997,D00997,Complete security review,Operations Team,2026-06-18,needs_review
+T00998,D00998,Complete etl integration,Platform Team,2026-04-23,in_progress
+T00999,D00999,Validate migration results,Platform Team,2026-09-22,needs_review
+T01000,D01000,Review client requirements,Project Team,2026-08-25,completed
+T01001,D01001,Complete api integration,Data Engineering Team,2026-01-22,in_progress
+T01002,D01002,Prepare data quality report,Data Engineering Team,2026-06-29,in_progress
+T01003,D01003,Complete dashboard testing,Data Engineering Team,2026-07-29,pending
+T01004,D01004,Complete dashboard testing,Platform Team,2026-04-22,pending
+T01005,D01005,Complete dashboard testing,Operations Team,2026-05-14,needs_review
+T01006,D01006,Update project documentation,Platform Team,2026-04-01,pending
+T01007,D01007,Complete dashboard testing,Security Team,2026-05-16,completed
+T01008,D01008,Verify model outputs,Data Engineering Team,2026-09-07,in_progress
+T01009,D01009,Complete api integration,Analytics Team,2026-09-10,pending
+T01010,D01010,Verify model outputs,Migration Team,2026-01-06,pending
+T01011,D01011,Complete security review,Analytics Team,2026-02-04,in_progress
+T01012,D01012,Prepare data quality report,Operations Team,2026-04-08,pending
+T01013,D01013,Complete api integration,Operations Team,2026-05-15,in_progress
+T01014,D01014,Validate migration results,Operations Team,2026-07-25,needs_review
+T01015,D01015,Complete dashboard testing,Operations Team,2026-09-10,pending
+T01016,D01016,Prepare data quality report,Data Engineering Team,2026-04-28,completed
+T01017,D01017,Prepare data quality report,Security Team,2026-06-29,needs_review
+T01018,D01018,Complete security review,Project Team,2026-01-18,in_progress
+T01019,D01019,Verify model outputs,Analytics Team,2026-04-14,pending
+T01020,D01020,Validate migration results,Data Engineering Team,2026-07-22,pending
+T01021,D01021,Update project documentation,Migration Team,2026-04-07,pending
+T01022,D01022,Complete security review,Project Team,2026-01-29,pending
+T01023,D01023,Complete dashboard testing,Unknown,Unknown,needs_review
+T01024,D01024,Prepare release checklist,Operations Team,2026-05-23,in_progress
+T01025,D01025,Review client requirements,Data Engineering Team,2026-07-18,pending
+T01026,D01026,Complete security review,Consulting Team,2026-05-06,pending
+T01027,D01027,Prepare data quality report,Operations Team,2026-03-18,in_progress
+T01028,D01028,Complete dashboard testing,Security Team,2026-07-20,completed
+T01029,D01029,Prepare data quality report,Consulting Team,2026-03-06,pending
+T01030,D01030,Complete etl integration,Operations Team,2026-07-26,pending
+T01031,D01031,Prepare data quality report,Operations Team,2026-05-07,needs_review
+T01032,D01032,Review client requirements,Platform Team,2026-03-31,pending
+T01033,D01033,Validate migration results,Consulting Team,2026-03-07,pending
+T01034,D01034,Prepare data quality report,Data Engineering Team,2026-03-29,pending
+T01035,D01035,Verify model outputs,Migration Team,2026-05-17,needs_review
+T01036,D01036,Review client requirements,Documentation Team,2026-01-29,pending
+T01037,D01037,Prepare data quality report,Analytics Team,2026-02-06,completed
+T01038,D01038,Complete dashboard testing,Operations Team,2026-09-01,needs_review
+T01039,D01039,Review client requirements,Project Team,2026-07-14,needs_review
+T01040,D01040,Prepare data quality report,Project Team,2026-01-16,in_progress
+T01041,D01041,Validate new metrics,QA Team,2026-08-30,completed
+T01042,D01042,Prepare release checklist,Documentation Team,2026-05-29,needs_review
+T01043,D01043,Validate migration results,Documentation Team,2026-01-16,in_progress
+T01044,D01044,Review client requirements,Platform Team,2026-05-30,needs_review
+T01045,D01045,Complete security review,Project Team,2026-04-27,pending
+T01046,D01046,Complete etl integration,Migration Team,2026-06-02,completed
+T01047,D01047,Update project documentation,QA Team,2026-05-21,in_progress
+T01048,D01048,Complete dashboard testing,Data Engineering Team,2026-04-05,pending
+T01049,D01049,Complete etl integration,Platform Team,2026-01-07,pending
+T01050,D01050,Validate new metrics,Security Team,2026-09-02,completed
+T01051,D01051,Complete dashboard testing,Project Team,2026-08-22,completed
+T01052,D01052,Prepare release checklist,QA Team,2026-08-16,completed
+T01053,D01053,Validate new metrics,Analytics Team,2026-04-23,in_progress
+T01054,D01054,Validate migration results,Unknown,Unknown,needs_review
+T01055,D01055,Verify model outputs,Security Team,2026-04-19,pending
+T01056,D01056,Finalize deployment plan,QA Team,2026-09-22,in_progress
+T01057,D01057,Prepare data quality report,Analytics Team,2026-04-05,needs_review
+T01058,D01058,Verify model outputs,QA Team,2026-05-13,pending
+T01059,D01059,Complete etl integration,Migration Team,2026-05-18,pending
+T01060,D01060,Prepare release checklist,Migration Team,2026-09-26,needs_review
+T01061,D01061,Validate migration results,Analytics Team,2026-04-01,completed
+T01062,D01062,Complete etl integration,Migration Team,2026-06-09,completed
+T01063,D01063,Complete etl integration,QA Team,2026-07-28,completed
+T01064,D01064,Prepare data quality report,Platform Team,2026-03-11,pending
+T01065,D01065,Complete security review,Analytics Team,2026-08-21,pending
+T01066,D01066,Review client requirements,Operations Team,2026-03-01,pending
+T01067,D01067,Review client requirements,Documentation Team,2026-02-23,needs_review
+T01068,D01068,Validate new metrics,Operations Team,2026-05-05,completed
+T01069,D01069,Validate migration results,Security Team,2026-06-25,in_progress
+T01070,D01070,Prepare data quality report,Operations Team,2026-04-19,needs_review
+T01071,D01071,Validate migration results,Analytics Team,2026-01-12,needs_review
+T01072,D01072,Validate new metrics,Data Engineering Team,2026-08-04,needs_review
+T01073,D01073,Validate new metrics,Consulting Team,2026-06-12,pending
+T01074,D01074,Prepare data quality report,Consulting Team,2026-05-06,completed
+T01075,D01075,Complete dashboard testing,Documentation Team,2026-08-12,completed
+T01076,D01076,Verify model outputs,QA Team,2026-09-01,completed
+T01077,D01077,Finalize deployment plan,Security Team,2026-04-04,completed
+T01078,D01078,Prepare data quality report,Platform Team,2026-07-19,needs_review
+T01079,D01079,Update project documentation,Platform Team,2026-07-16,pending
+T01080,D01080,Verify model outputs,Operations Team,2026-07-22,pending
+T01081,D01081,Prepare release checklist,QA Team,2026-03-29,in_progress
+T01082,D01082,Prepare release checklist,Platform Team,2026-01-21,pending
+T01083,D01083,Verify model outputs,Consulting Team,2026-01-14,completed
+T01084,D01084,Verify model outputs,Data Engineering Team,2026-08-19,pending
+T01085,D01085,Verify model outputs,Unknown,Unknown,needs_review
+T01086,D01086,Complete security review,QA Team,2026-04-30,pending
+T01087,D01087,Prepare data quality report,Consulting Team,2026-09-14,in_progress
+T01088,D01088,Prepare release checklist,Project Team,2026-08-08,pending
+T01089,D01089,Finalize deployment plan,Analytics Team,2026-07-01,in_progress
+T01090,D01090,Review client requirements,QA Team,2026-06-04,pending
+T01091,D01091,Complete security review,Operations Team,2026-01-14,needs_review
+T01092,D01092,Review client requirements,Security Team,2026-09-23,pending
+T01093,D01093,Prepare release checklist,Project Team,2026-08-03,needs_review
+T01094,D01094,Verify model outputs,Data Engineering Team,2026-04-14,pending
+T01095,D01095,Review client requirements,Documentation Team,2026-02-04,completed
+T01096,D01096,Verify model outputs,Analytics Team,2026-04-26,completed
+T01097,D01097,Complete dashboard testing,QA Team,2026-04-20,needs_review
+T01098,D01098,Finalize deployment plan,QA Team,2026-08-16,pending
+T01099,D01099,Prepare data quality report,Migration Team,2026-08-20,in_progress
+T01100,D01100,Prepare data quality report,Consulting Team,2026-03-21,completed
+T01101,D01101,Validate migration results,Consulting Team,2026-08-11,needs_review
+T01102,D01102,Complete security review,Operations Team,2026-02-23,needs_review
+T01103,D01103,Update project documentation,Consulting Team,2026-01-16,needs_review
+T01104,D01104,Prepare data quality report,Consulting Team,2026-06-09,in_progress
+T01105,D01105,Verify model outputs,Documentation Team,2026-04-18,in_progress
+T01106,D01106,Review client requirements,Operations Team,2026-05-06,completed
+T01107,D01107,Prepare data quality report,Migration Team,2026-01-18,in_progress
+T01108,D01108,Finalize deployment plan,Documentation Team,2026-02-28,needs_review
+T01109,D01109,Review client requirements,Security Team,2026-01-26,completed
+T01110,D01110,Complete dashboard testing,Project Team,2026-03-26,needs_review
+T01111,D01111,Prepare data quality report,Security Team,2026-09-07,in_progress
+T01112,D01112,Validate migration results,QA Team,2026-04-11,completed
+T01113,D01113,Validate migration results,Migration Team,2026-03-13,needs_review
+T01114,D01114,Validate new metrics,Operations Team,2026-04-30,completed
+T01115,D01115,Complete dashboard testing,Data Engineering Team,2026-02-28,needs_review
+T01116,D01116,Complete dashboard testing,Unknown,Unknown,needs_review
+T01117,D01117,Prepare release checklist,Project Team,2026-04-09,in_progress
+T01118,D01118,Validate new metrics,Consulting Team,2026-07-30,completed
+T01119,D01119,Validate new metrics,Analytics Team,2026-04-07,pending
+T01120,D01120,Finalize deployment plan,Platform Team,2026-02-11,needs_review
+T01121,D01121,Update project documentation,Analytics Team,2026-07-15,in_progress
+T01122,D01122,Complete dashboard testing,Migration Team,2026-06-22,completed
+T01123,D01123,Complete etl integration,Platform Team,2026-06-22,pending
+T01124,D01124,Finalize deployment plan,Data Engineering Team,2026-08-19,completed
+T01125,D01125,Prepare release checklist,Project Team,2026-01-28,needs_review
+T01126,D01126,Validate new metrics,Operations Team,2026-06-14,needs_review
+T01127,D01127,Complete dashboard testing,Migration Team,2026-03-05,in_progress
+T01128,D01128,Verify model outputs,Migration Team,2026-05-13,pending
+T01129,D01129,Prepare data quality report,Security Team,2026-08-17,pending
+T01130,D01130,Review client requirements,Platform Team,2026-05-06,in_progress
+T01131,D01131,Complete api integration,Project Team,2026-06-01,in_progress
+T01132,D01132,Complete dashboard testing,Security Team,2026-07-10,in_progress
+T01133,D01133,Review client requirements,Consulting Team,2026-03-07,needs_review
+T01134,D01134,Verify model outputs,Data Engineering Team,2026-04-12,completed
+T01135,D01135,Complete dashboard testing,QA Team,2026-03-02,needs_review
+T01136,D01136,Prepare release checklist,Operations Team,2026-07-05,completed
+T01137,D01137,Validate migration results,Operations Team,2026-05-20,pending
+T01138,D01138,Verify model outputs,Analytics Team,2026-03-02,pending
+T01139,D01139,Complete dashboard testing,Analytics Team,2026-08-30,in_progress
+T01140,D01140,Verify model outputs,Documentation Team,2026-02-15,in_progress
+T01141,D01141,Review client requirements,Documentation Team,2026-05-06,completed
+T01142,D01142,Complete dashboard testing,Migration Team,2026-05-30,pending
+T01143,D01143,Complete security review,Analytics Team,2026-08-28,needs_review
+T01144,D01144,Complete security review,Analytics Team,2026-08-20,needs_review
+T01145,D01145,Finalize deployment plan,Analytics Team,2026-07-22,completed
+T01146,D01146,Complete api integration,QA Team,2026-01-08,pending
+T01147,D01147,Complete dashboard testing,Unknown,Unknown,needs_review
+T01148,D01148,Complete dashboard testing,Documentation Team,2026-01-13,pending
+T01149,D01149,Complete etl integration,QA Team,2026-03-28,in_progress
+T01150,D01150,Verify model outputs,Documentation Team,2026-01-28,needs_review
+T01151,D01151,Validate migration results,Consulting Team,2026-07-24,completed
+T01152,D01152,Prepare release checklist,Migration Team,2026-06-06,pending
+T01153,D01153,Prepare release checklist,Security Team,2026-05-11,needs_review
+T01154,D01154,Complete dashboard testing,Operations Team,2026-06-19,in_progress
+T01155,D01155,Verify model outputs,Operations Team,2026-06-18,needs_review
+T01156,D01156,Review client requirements,Security Team,2026-01-13,in_progress
+T01157,D01157,Review client requirements,QA Team,2026-07-22,completed
+T01158,D01158,Complete security review,Operations Team,2026-08-05,pending
+T01159,D01159,Review client requirements,Data Engineering Team,2026-01-10,completed
+T01160,D01160,Review client requirements,Documentation Team,2026-01-19,pending
+T01161,D01161,Review client requirements,Migration Team,2026-09-24,pending
+T01162,D01162,Prepare release checklist,Data Engineering Team,2026-05-12,pending
+T01163,D01163,Finalize deployment plan,Data Engineering Team,2026-04-15,needs_review
+T01164,D01164,Complete security review,Migration Team,2026-07-28,needs_review
+T01165,D01165,Prepare release checklist,Security Team,2026-03-26,pending
+T01166,D01166,Complete etl integration,QA Team,2026-08-26,pending
+T01167,D01167,Review client requirements,Data Engineering Team,2026-02-07,needs_review
+T01168,D01168,Prepare release checklist,Documentation Team,2026-04-03,in_progress
+T01169,D01169,Prepare release checklist,QA Team,2026-09-02,needs_review
+T01170,D01170,Complete security review,Operations Team,2026-03-04,completed
+T01171,D01171,Validate migration results,Consulting Team,2026-07-03,pending
+T01172,D01172,Review client requirements,Documentation Team,2026-02-05,needs_review
+T01173,D01173,Verify model outputs,Data Engineering Team,2026-03-11,needs_review
+T01174,D01174,Complete api integration,Security Team,2026-04-01,completed
+T01175,D01175,Verify model outputs,Security Team,2026-08-03,in_progress
+T01176,D01176,Review client requirements,Project Team,2026-05-07,completed
+T01177,D01177,Complete security review,Documentation Team,2026-07-24,in_progress
+T01178,D01178,Complete api integration,Unknown,Unknown,needs_review
+T01179,D01179,Finalize deployment plan,Documentation Team,2026-07-04,pending
+T01180,D01180,Complete api integration,Data Engineering Team,2026-03-19,in_progress
+T01181,D01181,Finalize deployment plan,QA Team,2026-07-10,completed
+T01182,D01182,Complete security review,Platform Team,2026-09-26,in_progress
+T01183,D01183,Validate new metrics,Consulting Team,2026-04-26,pending
+T01184,D01184,Validate migration results,Operations Team,2026-01-19,completed
+T01185,D01185,Review client requirements,Project Team,2026-09-12,completed
+T01186,D01186,Complete etl integration,QA Team,2026-03-23,needs_review
+T01187,D01187,Complete dashboard testing,Analytics Team,2026-02-04,completed
+T01188,D01188,Validate new metrics,Analytics Team,2026-09-02,completed
+T01189,D01189,Verify model outputs,Security Team,2026-01-27,in_progress
+T01190,D01190,Complete api integration,Platform Team,2026-09-23,pending
+T01191,D01191,Finalize deployment plan,Consulting Team,2026-05-20,pending
+T01192,D01192,Review client requirements,Analytics Team,2026-03-08,needs_review
+T01193,D01193,Review client requirements,Security Team,2026-05-29,completed
+T01194,D01194,Complete dashboard testing,Migration Team,2026-09-10,completed
+T01195,D01195,Complete dashboard testing,Documentation Team,2026-01-27,pending
+T01196,D01196,Complete security review,Documentation Team,2026-08-09,in_progress
+T01197,D01197,Review client requirements,Migration Team,2026-07-28,completed
+T01198,D01198,Complete etl integration,Migration Team,2026-09-15,in_progress
+T01199,D01199,Complete etl integration,Data Engineering Team,2026-01-17,completed
+T01200,D01200,Complete etl integration,Platform Team,2026-02-16,needs_review
+T01201,D01201,Update project documentation,Consulting Team,2026-06-19,needs_review
+T01202,D01202,Verify model outputs,Project Team,2026-03-22,in_progress
+T01203,D01203,Finalize deployment plan,Project Team,2026-07-16,needs_review
+T01204,D01204,Complete etl integration,Migration Team,2026-05-23,needs_review
+T01205,D01205,Prepare release checklist,Documentation Team,2026-01-12,pending
+T01206,D01206,Finalize deployment plan,Analytics Team,2026-03-03,in_progress
+T01207,D01207,Validate new metrics,QA Team,2026-03-25,completed
+T01208,D01208,Complete dashboard testing,Security Team,2026-06-01,needs_review
+T01209,D01209,Complete etl integration,Unknown,Unknown,needs_review
+T01210,D01210,Complete api integration,Analytics Team,2026-01-26,needs_review
+T01211,D01211,Complete security review,Platform Team,2026-06-12,completed
+T01212,D01212,Complete etl integration,Operations Team,2026-07-09,needs_review
+T01213,D01213,Complete security review,Platform Team,2026-06-02,needs_review
+T01214,D01214,Complete dashboard testing,Platform Team,2026-08-28,needs_review
+T01215,D01215,Complete etl integration,QA Team,2026-04-24,completed
+T01216,D01216,Complete security review,Platform Team,2026-01-21,pending
+T01217,D01217,Complete etl integration,Data Engineering Team,2026-08-07,in_progress
+T01218,D01218,Verify model outputs,Consulting Team,2026-08-29,completed
+T01219,D01219,Review client requirements,Analytics Team,2026-01-13,completed
+T01220,D01220,Complete etl integration,Security Team,2026-03-25,in_progress
+T01221,D01221,Complete etl integration,QA Team,2026-06-16,needs_review
+T01222,D01222,Prepare data quality report,Project Team,2026-05-13,in_progress
+T01223,D01223,Review client requirements,Operations Team,2026-04-11,needs_review
+T01224,D01224,Finalize deployment plan,Operations Team,2026-08-24,completed
+T01225,D01225,Finalize deployment plan,Project Team,2026-03-18,completed
+T01226,D01226,Validate new metrics,Migration Team,2026-06-20,needs_review
+T01227,D01227,Finalize deployment plan,Migration Team,2026-01-18,needs_review
+T01228,D01228,Complete dashboard testing,Operations Team,2026-09-19,needs_review
+T01229,D01229,Complete security review,Migration Team,2026-07-30,completed
+T01230,D01230,Prepare data quality report,Migration Team,2026-03-04,in_progress
+T01231,D01231,Complete etl integration,Data Engineering Team,2026-02-02,in_progress
+T01232,D01232,Finalize deployment plan,Project Team,2026-05-19,needs_review
+T01233,D01233,Finalize deployment plan,Consulting Team,2026-05-13,in_progress
+T01234,D01234,Prepare data quality report,Consulting Team,2026-09-23,completed
+T01235,D01235,Complete api integration,Security Team,2026-05-21,completed
+T01236,D01236,Prepare data quality report,Consulting Team,2026-01-09,completed
+T01237,D01237,Prepare release checklist,Analytics Team,2026-06-14,completed
+T01238,D01238,Finalize deployment plan,Data Engineering Team,2026-07-22,in_progress
+T01239,D01239,Prepare data quality report,QA Team,2026-01-26,needs_review
+T01240,D01240,Finalize deployment plan,Unknown,Unknown,needs_review
+T01241,D01241,Validate migration results,Migration Team,2026-07-26,pending
+T01242,D01242,Review client requirements,QA Team,2026-08-19,completed
+T01243,D01243,Finalize deployment plan,Documentation Team,2026-06-21,completed
+T01244,D01244,Complete security review,Security Team,2026-02-27,in_progress
+T01245,D01245,Verify model outputs,QA Team,2026-03-24,completed
+T01246,D01246,Complete api integration,Analytics Team,2026-08-29,needs_review
+T01247,D01247,Validate migration results,Analytics Team,2026-01-08,pending
+T01248,D01248,Prepare data quality report,Operations Team,2026-08-29,completed
+T01249,D01249,Validate new metrics,QA Team,2026-02-01,completed
+T01250,D01250,Complete api integration,Migration Team,2026-01-07,completed
+T01251,D01251,Complete security review,Documentation Team,2026-08-18,pending
+T01252,D01252,Update project documentation,Consulting Team,2026-08-06,completed
+T01253,D01253,Complete dashboard testing,Platform Team,2026-04-21,completed
+T01254,D01254,Validate new metrics,Platform Team,2026-09-27,in_progress
+T01255,D01255,Validate new metrics,Migration Team,2026-02-16,needs_review
+T01256,D01256,Prepare release checklist,Analytics Team,2026-09-09,needs_review
+T01257,D01257,Complete dashboard testing,Operations Team,2026-06-16,pending
+T01258,D01258,Complete dashboard testing,Migration Team,2026-04-12,pending
+T01259,D01259,Validate new metrics,Documentation Team,2026-06-17,in_progress
+T01260,D01260,Prepare release checklist,Analytics Team,2026-08-22,pending
+T01261,D01261,Finalize deployment plan,Data Engineering Team,2026-04-15,pending
+T01262,D01262,Validate new metrics,Security Team,2026-01-16,completed
+T01263,D01263,Prepare release checklist,Project Team,2026-09-13,completed
+T01264,D01264,Complete security review,Data Engineering Team,2026-06-09,completed
+T01265,D01265,Finalize deployment plan,Documentation Team,2026-08-20,needs_review
+T01266,D01266,Finalize deployment plan,Documentation Team,2026-07-16,pending
+T01267,D01267,Validate new metrics,Security Team,2026-09-27,pending
+T01268,D01268,Complete etl integration,QA Team,2026-09-16,in_progress
+T01269,D01269,Update project documentation,Platform Team,2026-03-02,in_progress
+T01270,D01270,Complete api integration,Project Team,2026-06-12,pending
+T01271,D01271,Prepare release checklist,Unknown,Unknown,needs_review
+T01272,D01272,Complete api integration,Project Team,2026-04-04,in_progress
+T01273,D01273,Finalize deployment plan,Security Team,2026-09-27,pending
+T01274,D01274,Complete dashboard testing,Security Team,2026-07-02,completed
+T01275,D01275,Validate migration results,Platform Team,2026-02-27,needs_review
+T01276,D01276,Prepare release checklist,Security Team,2026-09-01,completed
+T01277,D01277,Finalize deployment plan,QA Team,2026-02-27,completed
+T01278,D01278,Complete security review,Documentation Team,2026-09-26,needs_review
+T01279,D01279,Complete security review,QA Team,2026-09-16,pending
+T01280,D01280,Update project documentation,Security Team,2026-02-26,needs_review
+T01281,D01281,Verify model outputs,Consulting Team,2026-01-23,in_progress
+T01282,D01282,Prepare release checklist,Migration Team,2026-02-13,pending
+T01283,D01283,Complete etl integration,Operations Team,2026-09-11,needs_review
+T01284,D01284,Complete dashboard testing,QA Team,2026-05-26,in_progress
+T01285,D01285,Complete dashboard testing,QA Team,2026-08-06,pending
+T01286,D01286,Verify model outputs,Security Team,2026-07-17,in_progress
+T01287,D01287,Prepare release checklist,QA Team,2026-07-12,needs_review
+T01288,D01288,Validate migration results,Consulting Team,2026-07-31,in_progress
+T01289,D01289,Review client requirements,Documentation Team,2026-09-16,pending
+T01290,D01290,Finalize deployment plan,Security Team,2026-03-24,pending
+T01291,D01291,Prepare release checklist,Project Team,2026-02-20,completed
+T01292,D01292,Finalize deployment plan,QA Team,2026-02-23,needs_review
+T01293,D01293,Verify model outputs,Security Team,2026-04-17,needs_review
+T01294,D01294,Finalize deployment plan,Migration Team,2026-01-28,completed
+T01295,D01295,Review client requirements,Consulting Team,2026-07-11,in_progress
+T01296,D01296,Complete etl integration,Operations Team,2026-03-19,in_progress
+T01297,D01297,Complete dashboard testing,Project Team,2026-09-03,in_progress
+T01298,D01298,Complete dashboard testing,Security Team,2026-01-24,completed
+T01299,D01299,Update project documentation,Project Team,2026-01-29,needs_review
+T01300,D01300,Validate migration results,Analytics Team,2026-05-01,pending
+T01301,D01301,Complete dashboard testing,Data Engineering Team,2026-07-12,in_progress
+T01302,D01302,Finalize deployment plan,Unknown,Unknown,needs_review
+T01303,D01303,Complete etl integration,Consulting Team,2026-09-22,needs_review
+T01304,D01304,Finalize deployment plan,Data Engineering Team,2026-08-08,in_progress
+T01305,D01305,Finalize deployment plan,QA Team,2026-07-12,completed
+T01306,D01306,Update project documentation,Operations Team,2026-09-23,completed
+T01307,D01307,Review client requirements,Documentation Team,2026-02-07,in_progress
+T01308,D01308,Complete dashboard testing,Migration Team,2026-04-23,needs_review
+T01309,D01309,Review client requirements,Consulting Team,2026-07-24,pending
+T01310,D01310,Finalize deployment plan,Data Engineering Team,2026-07-09,needs_review
+T01311,D01311,Update project documentation,QA Team,2026-01-07,needs_review
+T01312,D01312,Prepare release checklist,Documentation Team,2026-03-11,needs_review
+T01313,D01313,Complete etl integration,Operations Team,2026-06-02,pending
+T01314,D01314,Complete dashboard testing,Consulting Team,2026-08-27,completed
+T01315,D01315,Validate migration results,Data Engineering Team,2026-08-26,completed
+T01316,D01316,Finalize deployment plan,Data Engineering Team,2026-08-05,needs_review
+T01317,D01317,Finalize deployment plan,Project Team,2026-09-27,pending
+T01318,D01318,Finalize deployment plan,Operations Team,2026-07-28,needs_review
+T01319,D01319,Complete security review,Security Team,2026-04-19,in_progress
+T01320,D01320,Complete security review,Consulting Team,2026-01-27,completed
+T01321,D01321,Complete etl integration,QA Team,2026-02-06,needs_review
+T01322,D01322,Prepare release checklist,QA Team,2026-02-07,pending
+T01323,D01323,Validate new metrics,Data Engineering Team,2026-09-03,pending
+T01324,D01324,Validate new metrics,QA Team,2026-05-09,completed
+T01325,D01325,Validate migration results,Documentation Team,2026-02-21,completed
+T01326,D01326,Complete etl integration,Security Team,2026-03-25,needs_review
+T01327,D01327,Complete security review,Analytics Team,2026-03-20,in_progress
+T01328,D01328,Review client requirements,Security Team,2026-08-04,pending
+T01329,D01329,Complete etl integration,Consulting Team,2026-03-14,completed
+T01330,D01330,Complete dashboard testing,Project Team,2026-03-16,in_progress
+T01331,D01331,Prepare release checklist,Consulting Team,2026-03-26,in_progress
+T01332,D01332,Update project documentation,Consulting Team,2026-01-17,in_progress
+T01333,D01333,Prepare release checklist,Unknown,Unknown,needs_review
+T01334,D01334,Complete etl integration,Data Engineering Team,2026-02-24,in_progress
+T01335,D01335,Prepare data quality report,Security Team,2026-04-03,in_progress
+T01336,D01336,Verify model outputs,Consulting Team,2026-05-06,completed
+T01337,D01337,Verify model outputs,Data Engineering Team,2026-09-13,pending
+T01338,D01338,Finalize deployment plan,QA Team,2026-05-03,in_progress
+T01339,D01339,Finalize deployment plan,Documentation Team,2026-07-19,pending
+T01340,D01340,Validate new metrics,Platform Team,2026-04-10,completed
+T01341,D01341,Complete dashboard testing,Migration Team,2026-08-02,needs_review
+T01342,D01342,Complete dashboard testing,Operations Team,2026-02-03,needs_review
+T01343,D01343,Complete api integration,Platform Team,2026-07-10,in_progress
+T01344,D01344,Validate migration results,Operations Team,2026-05-26,pending
+T01345,D01345,Update project documentation,Migration Team,2026-01-06,needs_review
+T01346,D01346,Complete api integration,Data Engineering Team,2026-02-02,needs_review
+T01347,D01347,Update project documentation,QA Team,2026-07-17,pending
+T01348,D01348,Prepare data quality report,Security Team,2026-04-12,pending
+T01349,D01349,Validate new metrics,Project Team,2026-09-03,in_progress
+T01350,D01350,Validate migration results,Operations Team,2026-09-13,in_progress
+T01351,D01351,Complete security review,Operations Team,2026-03-21,completed
+T01352,D01352,Complete api integration,Project Team,2026-09-03,needs_review
+T01353,D01353,Update project documentation,Platform Team,2026-04-09,completed
+T01354,D01354,Review client requirements,QA Team,2026-03-26,pending
+T01355,D01355,Validate new metrics,Consulting Team,2026-04-01,in_progress
+T01356,D01356,Complete security review,Security Team,2026-03-29,in_progress
+T01357,D01357,Review client requirements,QA Team,2026-02-17,in_progress
+T01358,D01358,Finalize deployment plan,Migration Team,2026-04-06,in_progress
+T01359,D01359,Finalize deployment plan,QA Team,2026-01-20,needs_review
+T01360,D01360,Prepare data quality report,Security Team,2026-01-20,completed
+T01361,D01361,Prepare release checklist,Data Engineering Team,2026-02-24,completed
+T01362,D01362,Validate migration results,Consulting Team,2026-04-03,completed
+T01363,D01363,Complete security review,Project Team,2026-04-10,in_progress
+T01364,D01364,Finalize deployment plan,Unknown,Unknown,needs_review
+T01365,D01365,Review client requirements,Data Engineering Team,2026-04-28,in_progress
+T01366,D01366,Complete etl integration,Project Team,2026-05-29,needs_review
+T01367,D01367,Prepare release checklist,Security Team,2026-04-12,in_progress
+T01368,D01368,Complete dashboard testing,Platform Team,2026-03-04,completed
+T01369,D01369,Finalize deployment plan,QA Team,2026-05-05,in_progress
+T01370,D01370,Prepare data quality report,Migration Team,2026-09-23,completed
+T01371,D01371,Validate migration results,Documentation Team,2026-01-17,completed
+T01372,D01372,Complete etl integration,QA Team,2026-05-23,completed
+T01373,D01373,Prepare data quality report,Migration Team,2026-07-10,completed
+T01374,D01374,Review client requirements,Data Engineering Team,2026-04-10,completed
+T01375,D01375,Complete security review,Platform Team,2026-05-01,in_progress
+T01376,D01376,Complete etl integration,QA Team,2026-01-08,needs_review
+T01377,D01377,Review client requirements,Data Engineering Team,2026-08-09,pending
+T01378,D01378,Validate new metrics,Migration Team,2026-06-10,completed
+T01379,D01379,Verify model outputs,Operations Team,2026-08-27,completed
+T01380,D01380,Prepare release checklist,Platform Team,2026-07-04,in_progress
+T01381,D01381,Validate migration results,Documentation Team,2026-05-23,in_progress
+T01382,D01382,Verify model outputs,Project Team,2026-07-19,completed
+T01383,D01383,Review client requirements,Data Engineering Team,2026-07-20,in_progress
+T01384,D01384,Prepare data quality report,Security Team,2026-01-06,in_progress
+T01385,D01385,Complete security review,Project Team,2026-07-13,completed
+T01386,D01386,Validate migration results,Analytics Team,2026-02-06,completed
+T01387,D01387,Prepare release checklist,Project Team,2026-08-04,in_progress
+T01388,D01388,Validate migration results,Consulting Team,2026-03-20,needs_review
+T01389,D01389,Prepare data quality report,Operations Team,2026-08-09,pending
+T01390,D01390,Complete dashboard testing,Documentation Team,2026-01-31,completed
+T01391,D01391,Validate new metrics,Documentation Team,2026-06-09,needs_review
+T01392,D01392,Update project documentation,Data Engineering Team,2026-04-18,needs_review
+T01393,D01393,Complete security review,Consulting Team,2026-06-02,completed
+T01394,D01394,Prepare release checklist,QA Team,2026-03-26,pending
+T01395,D01395,Finalize deployment plan,Unknown,Unknown,needs_review
+T01396,D01396,Validate new metrics,Security Team,2026-02-09,completed
+T01397,D01397,Complete dashboard testing,QA Team,2026-02-05,in_progress
+T01398,D01398,Validate migration results,Platform Team,2026-07-01,in_progress
+T01399,D01399,Update project documentation,Consulting Team,2026-03-08,pending
+T01400,D01400,Validate migration results,Documentation Team,2026-06-26,needs_review
+T01401,D01401,Update project documentation,Migration Team,2026-01-21,completed
+T01402,D01402,Prepare release checklist,QA Team,2026-02-14,in_progress
+T01403,D01403,Finalize deployment plan,Security Team,2026-03-30,needs_review
+T01404,D01404,Complete api integration,Consulting Team,2026-08-21,completed
+T01405,D01405,Review client requirements,Platform Team,2026-08-31,pending
+T01406,D01406,Prepare data quality report,Operations Team,2026-07-20,completed
+T01407,D01407,Complete security review,Consulting Team,2026-09-22,needs_review
+T01408,D01408,Complete etl integration,QA Team,2026-09-01,pending
+T01409,D01409,Review client requirements,Platform Team,2026-02-15,pending
+T01410,D01410,Prepare release checklist,Analytics Team,2026-01-24,pending
+T01411,D01411,Complete dashboard testing,Security Team,2026-06-03,pending
+T01412,D01412,Validate new metrics,Project Team,2026-06-07,in_progress
+T01413,D01413,Validate migration results,Analytics Team,2026-09-23,needs_review
+T01414,D01414,Prepare release checklist,Consulting Team,2026-01-16,pending
+T01415,D01415,Complete dashboard testing,Consulting Team,2026-02-10,pending
+T01416,D01416,Prepare data quality report,Data Engineering Team,2026-04-02,in_progress
+T01417,D01417,Prepare release checklist,Analytics Team,2026-06-05,in_progress
+T01418,D01418,Complete dashboard testing,Data Engineering Team,2026-04-22,pending
+T01419,D01419,Complete dashboard testing,Operations Team,2026-02-03,completed
+T01420,D01420,Complete security review,Analytics Team,2026-02-12,pending
+T01421,D01421,Complete etl integration,Platform Team,2026-05-26,in_progress
+T01422,D01422,Complete etl integration,Analytics Team,2026-07-03,completed
+T01423,D01423,Update project documentation,Data Engineering Team,2026-02-20,completed
+T01424,D01424,Review client requirements,Migration Team,2026-08-27,completed
+T01425,D01425,Validate new metrics,Data Engineering Team,2026-08-06,pending
+T01426,D01426,Prepare data quality report,Unknown,Unknown,needs_review
+T01427,D01427,Validate migration results,Consulting Team,2026-05-21,in_progress
+T01428,D01428,Validate migration results,Project Team,2026-06-25,needs_review
+T01429,D01429,Complete api integration,Data Engineering Team,2026-07-04,pending
+T01430,D01430,Prepare release checklist,Consulting Team,2026-03-14,needs_review
+T01431,D01431,Complete etl integration,Platform Team,2026-03-26,pending
+T01432,D01432,Update project documentation,Project Team,2026-07-23,pending
+T01433,D01433,Finalize deployment plan,Analytics Team,2026-03-09,pending
+T01434,D01434,Prepare release checklist,Analytics Team,2026-08-16,in_progress
+T01435,D01435,Validate migration results,Platform Team,2026-05-17,in_progress
+T01436,D01436,Complete api integration,Project Team,2026-04-14,completed
+T01437,D01437,Complete etl integration,Analytics Team,2026-07-26,pending
+T01438,D01438,Finalize deployment plan,Operations Team,2026-01-11,completed
+T01439,D01439,Complete security review,Platform Team,2026-06-17,completed
+T01440,D01440,Validate migration results,QA Team,2026-01-24,needs_review
+T01441,D01441,Prepare data quality report,QA Team,2026-02-13,in_progress
+T01442,D01442,Complete etl integration,Security Team,2026-08-18,in_progress
+T01443,D01443,Prepare release checklist,Project Team,2026-01-22,completed
+T01444,D01444,Prepare release checklist,Project Team,2026-04-06,completed
+T01445,D01445,Review client requirements,Data Engineering Team,2026-09-27,needs_review
+T01446,D01446,Prepare release checklist,Data Engineering Team,2026-08-13,in_progress
+T01447,D01447,Update project documentation,Project Team,2026-05-06,needs_review
+T01448,D01448,Validate migration results,Data Engineering Team,2026-01-13,in_progress
+T01449,D01449,Complete api integration,Analytics Team,2026-02-25,completed
+T01450,D01450,Complete etl integration,Data Engineering Team,2026-09-21,pending
+T01451,D01451,Prepare release checklist,Security Team,2026-08-25,pending
+T01452,D01452,Complete security review,Documentation Team,2026-04-10,needs_review
+T01453,D01453,Prepare release checklist,Consulting Team,2026-02-14,completed
+T01454,D01454,Complete dashboard testing,Documentation Team,2026-03-23,completed
+T01455,D01455,Verify model outputs,Consulting Team,2026-04-14,completed
+T01456,D01456,Complete etl integration,Project Team,2026-03-23,needs_review
+T01457,D01457,Complete dashboard testing,Unknown,Unknown,needs_review
+T01458,D01458,Review client requirements,QA Team,2026-08-15,needs_review
+T01459,D01459,Complete dashboard testing,Operations Team,2026-02-07,pending
+T01460,D01460,Finalize deployment plan,Data Engineering Team,2026-02-10,in_progress
+T01461,D01461,Verify model outputs,Documentation Team,2026-03-16,needs_review
+T01462,D01462,Complete dashboard testing,Security Team,2026-04-12,pending
+T01463,D01463,Prepare data quality report,Operations Team,2026-09-04,needs_review
+T01464,D01464,Review client requirements,Documentation Team,2026-05-05,needs_review
+T01465,D01465,Prepare data quality report,Platform Team,2026-09-22,pending
+T01466,D01466,Prepare data quality report,Data Engineering Team,2026-01-07,in_progress
+T01467,D01467,Complete etl integration,Consulting Team,2026-09-20,in_progress
+T01468,D01468,Validate migration results,Project Team,2026-04-28,in_progress
+T01469,D01469,Finalize deployment plan,Analytics Team,2026-08-26,in_progress
+T01470,D01470,Review client requirements,Data Engineering Team,2026-04-08,in_progress
+T01471,D01471,Validate new metrics,Operations Team,2026-02-17,needs_review
+T01472,D01472,Complete etl integration,Security Team,2026-02-17,needs_review
+T01473,D01473,Complete api integration,Security Team,2026-06-21,pending
+T01474,D01474,Validate new metrics,Security Team,2026-07-30,pending
+T01475,D01475,Validate new metrics,Migration Team,2026-08-10,pending
+T01476,D01476,Complete etl integration,Analytics Team,2026-05-24,pending
+T01477,D01477,Complete api integration,QA Team,2026-01-19,in_progress
+T01478,D01478,Validate new metrics,Platform Team,2026-09-10,in_progress
+T01479,D01479,Complete etl integration,Operations Team,2026-08-07,in_progress
+T01480,D01480,Update project documentation,QA Team,2026-07-02,pending
+T01481,D01481,Validate new metrics,Operations Team,2026-08-01,needs_review
+T01482,D01482,Complete etl integration,Operations Team,2026-06-29,completed
+T01483,D01483,Review client requirements,Data Engineering Team,2026-01-19,pending
+T01484,D01484,Complete etl integration,Project Team,2026-02-02,in_progress
+T01485,D01485,Validate new metrics,Data Engineering Team,2026-04-11,completed
+T01486,D01486,Prepare release checklist,Data Engineering Team,2026-09-21,pending
+T01487,D01487,Finalize deployment plan,Project Team,2026-08-14,completed
+T01488,D01488,Validate migration results,Unknown,Unknown,needs_review
+T01489,D01489,Complete dashboard testing,Security Team,2026-04-24,needs_review
+T01490,D01490,Validate new metrics,Analytics Team,2026-01-30,completed
+T01491,D01491,Prepare release checklist,Data Engineering Team,2026-04-08,pending
+T01492,D01492,Validate new metrics,Platform Team,2026-02-22,pending
+T01493,D01493,Validate migration results,Migration Team,2026-06-13,in_progress
+T01494,D01494,Prepare data quality report,Operations Team,2026-05-20,pending
+T01495,D01495,Complete security review,QA Team,2026-02-22,needs_review
+T01496,D01496,Complete dashboard testing,Platform Team,2026-02-22,pending
+T01497,D01497,Validate new metrics,Platform Team,2026-08-18,completed
+T01498,D01498,Complete etl integration,Project Team,2026-01-26,completed
+T01499,D01499,Prepare data quality report,QA Team,2026-06-28,in_progress
+T01500,D01500,Finalize deployment plan,Analytics Team,2026-08-22,completed
