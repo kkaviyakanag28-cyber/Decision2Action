@@ -1,0 +1,24 @@
+DECISION2ACTION - NEXT 70% RUN GUIDE
+
+pip install -r requirements.txt
+python src/generate_dataset.py
+python src/extractor.py
+python src/rule_engine.py
+python src/load_database.py
+python app.py
+
+Open http://127.0.0.1:5000
+
+Validation:
+python tests/evaluation.py
+python tests/error_analysis.py
+python tests/final_validation.py
+
+GitHub:
+git init
+git branch -M main
+git remote add origin https://github.com/kkaviyakanag28-cyber/Decision2Action.git
+git add .
+git commit -m "Add next 70 percent Decision2Action project"
+git pull --rebase origin main
+git push -u origin main
