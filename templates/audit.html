@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Audit Log</title>
+
+    <style>
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+        }
+
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 22px 40px;
+        }
+
+        .nav {
+            background: white;
+            padding: 15px 40px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .nav a {
+            margin-right: 25px;
+            color: #1e3a8a;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: auto;
+            padding: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th {
+            background: #eef2ff;
+            padding: 12px;
+            text-align: left;
+        }
+
+        td {
+            padding: 11px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="header">
+
+    <h1>Decision2Action</h1>
+
+    <p>Audit & Evidence Trail</p>
+
+</div>
+
+
+<div class="nav">
+
+    <a href="/">Dashboard</a>
+
+    <a href="/actions">All Actions</a>
+
+    <a href="/audit">Audit Log</a>
+
+</div>
+
+
+<div class="container">
+
+    <div class="card">
+
+        <h2>Audit Log</h2>
+
+        <table>
+
+            <thead>
+
+                <tr>
+                    <th>Log ID</th>
+                    <th>Action ID</th>
+                    <th>Event</th>
+                    <th>Old Status</th>
+                    <th>New Status</th>
+                    <th>Reason</th>
+                    <th>Timestamp</th>
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+            {% for log in logs %}
+
+                <tr>
+
+                    <td>{{ log["log_id"] }}</td>
+
+                    <td>{{ log["action_id"] }}</td>
+
+                    <td>{{ log["event"] }}</td>
+
+                    <td>{{ log["old_status"] }}</td>
+
+                    <td>{{ log["new_status"] }}</td>
+
+                    <td>{{ log["reason"] }}</td>
+
+                    <td>{{ log["timestamp"] }}</td>
+
+                </tr>
+
+            {% endfor %}
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+</body>
+</html>

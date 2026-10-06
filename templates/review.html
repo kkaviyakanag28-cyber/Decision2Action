@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Review Action</title>
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            margin: 0;
+        }
+
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 22px 40px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        .row {
+            margin-bottom: 18px;
+        }
+
+        .label {
+            font-weight: bold;
+            color: #6b7280;
+            margin-bottom: 5px;
+        }
+
+        .value {
+            font-size: 17px;
+        }
+
+        .evidence {
+            background: #f1f5f9;
+            padding: 18px;
+            border-left: 4px solid #2563eb;
+            margin-top: 10px;
+        }
+
+        .high {
+            color: #b91c1c;
+            font-weight: bold;
+        }
+
+        button {
+            border: none;
+            padding: 12px 22px;
+            border-radius: 7px;
+            cursor: pointer;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .approve {
+            background: #16a34a;
+            color: white;
+        }
+
+        .override {
+            background: #dc2626;
+            color: white;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 100px;
+            padding: 10px;
+            margin-top: 8px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            resize: vertical;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="header">
+
+        <h1>Decision2Action - Human Review</h1>
+
+    </div>
+
+
+    <div class="container">
+
+        <div class="card">
+
+            <h2>Action Review</h2>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Action ID
+                </div>
+
+                <div class="value">
+                    {{ action["action_id"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Decision ID
+                </div>
+
+                <div class="value">
+                    {{ action["decision_id"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Action
+                </div>
+
+                <div class="value">
+                    {{ action["action_text"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Evidence
+                </div>
+
+                <div class="evidence">
+                    {{ action["evidence"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Source
+                </div>
+
+                <div class="value">
+                    {{ action["source_id"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Owner
+                </div>
+
+                <div class="value">
+                    {{ action["owner"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Deadline
+                </div>
+
+                <div class="value">
+                    {{ action["deadline"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Impact
+                </div>
+
+                <div class="value {% if action['impact'] == 'HIGH' %}high{% endif %}">
+                    {{ action["impact"] }}
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Confidence
+                </div>
+
+                <div class="value">
+                    {{ action["confidence"] }}%
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="label">
+                    Current Status
+                </div>
+
+                <div class="value">
+                    {{ action["status"] }}
+                </div>
+
+            </div>
+
+
+            <hr>
+
+
+            {% if action["status"] not in ["APPROVED", "OVERRIDDEN"] %}
+
+            <h3>Human Confirmation</h3>
+
+
+            <form
+                method="POST"
+                action="/approve/{{ action['action_id'] }}"
+                style="display:inline;"
+            >
+
+                <button
+                    type="submit"
+                    class="approve"
+                >
+                    APPROVE ACTION
+                </button>
+
+            </form>
+
+
+            <br><br>
+
+
+            <form
+                method="POST"
+                action="/override/{{ action['action_id'] }}"
+            >
+
+                <label>
+                    <strong>
+                        Override Reason (Required)
+                    </strong>
+                </label>
+
+                <textarea
+                    name="reason"
+                    placeholder="Enter the reason for overriding this recommendation..."
+                    required
+                ></textarea>
+
+                <br>
+
+                <button
+                    type="submit"
+                    class="override"
+                >
+                    OVERRIDE ACTION
+                </button>
+
+            </form>
+
+            {% else %}
+
+            <h3>
+                This action has already been reviewed.
+            </h3>
+
+            {% endif %}
+
+
+            <br><br>
+
+            <a href="/">
+                ← Back to Dashboard
+            </a>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

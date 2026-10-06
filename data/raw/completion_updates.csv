@@ -1,0 +1,1001 @@
+update_id,task_id,update_text,status,timestamp
+U00001,T01321,Task is still pending and requires follow-up.,pending,2026-08-21 00:00
+U00002,T00364,Task is currently in progress.,in_progress,2026-01-18 00:00
+U00003,T01467,Task is still pending and requires follow-up.,pending,2026-08-03 00:00
+U00004,T01145,Task is blocked pending clarification or approval.,blocked,2026-01-14 00:00
+U00005,T00406,Task completed successfully and evidence was recorded.,completed,2026-02-28 00:00
+U00006,T00870,Task is blocked pending clarification or approval.,blocked,2026-03-20 00:00
+U00007,T01138,Task is blocked pending clarification or approval.,blocked,2026-04-28 00:00
+U00008,T00738,Task is blocked pending clarification or approval.,blocked,2026-05-05 00:00
+U00009,T00753,Task is still pending and requires follow-up.,pending,2026-07-21 00:00
+U00010,T00666,Task completed successfully and evidence was recorded.,completed,2026-08-20 00:00
+U00011,T00647,Task is still pending and requires follow-up.,pending,2026-03-12 00:00
+U00012,T01355,Task is blocked pending clarification or approval.,blocked,2026-03-18 00:00
+U00013,T00414,Task is still pending and requires follow-up.,pending,2026-05-12 00:00
+U00014,T00003,Task completed successfully and evidence was recorded.,completed,2026-02-17 00:00
+U00015,T00117,Task is blocked pending clarification or approval.,blocked,2026-05-24 00:00
+U00016,T00092,Task completed successfully and evidence was recorded.,completed,2026-02-27 00:00
+U00017,T01009,Task completed successfully and evidence was recorded.,completed,2026-08-12 00:00
+U00018,T00005,Task completed successfully and evidence was recorded.,completed,2026-01-05 00:00
+U00019,T00511,Task is still pending and requires follow-up.,pending,2026-07-29 00:00
+U00020,T00012,Task is still pending and requires follow-up.,pending,2026-08-09 00:00
+U00021,T00491,Task is currently in progress.,in_progress,2026-08-25 00:00
+U00022,T00199,Task is blocked pending clarification or approval.,blocked,2026-01-07 00:00
+U00023,T01224,Task completed successfully and evidence was recorded.,completed,2026-06-01 00:00
+U00024,T00951,Task is currently in progress.,in_progress,2026-05-10 00:00
+U00025,T01443,Task is currently in progress.,in_progress,2026-02-03 00:00
+U00026,T00821,Task is blocked pending clarification or approval.,blocked,2026-01-26 00:00
+U00027,T01153,Task completed successfully and evidence was recorded.,completed,2026-05-12 00:00
+U00028,T00812,Task is currently in progress.,in_progress,2026-03-25 00:00
+U00029,T00545,Task completed successfully and evidence was recorded.,completed,2026-03-17 00:00
+U00030,T00458,Task is currently in progress.,in_progress,2026-07-14 00:00
+U00031,T01376,Task is blocked pending clarification or approval.,blocked,2026-07-07 00:00
+U00032,T00154,Task is blocked pending clarification or approval.,blocked,2026-09-07 00:00
+U00033,T01325,Task is still pending and requires follow-up.,pending,2026-02-06 00:00
+U00034,T01413,Task is still pending and requires follow-up.,pending,2026-05-04 00:00
+U00035,T01413,Task is blocked pending clarification or approval.,blocked,2026-02-07 00:00
+U00036,T00884,Task completed successfully and evidence was recorded.,completed,2026-01-09 00:00
+U00037,T00698,Task is currently in progress.,in_progress,2026-07-23 00:00
+U00038,T01328,Task completed successfully and evidence was recorded.,completed,2026-02-17 00:00
+U00039,T01484,Task is blocked pending clarification or approval.,blocked,2026-01-09 00:00
+U00040,T00369,Task is currently in progress.,in_progress,2026-08-10 00:00
+U00041,T00845,Task is currently in progress.,in_progress,2026-07-08 00:00
+U00042,T00679,Task is still pending and requires follow-up.,pending,2026-08-24 00:00
+U00043,T00187,Task is currently in progress.,in_progress,2026-04-13 00:00
+U00044,T01108,Task is blocked pending clarification or approval.,blocked,2026-08-24 00:00
+U00045,T00513,Task is still pending and requires follow-up.,pending,2026-08-10 00:00
+U00046,T00394,Task is blocked pending clarification or approval.,blocked,2026-09-12 00:00
+U00047,T00563,Task is currently in progress.,in_progress,2026-02-22 00:00
+U00048,T01243,Task completed successfully and evidence was recorded.,completed,2026-05-21 00:00
+U00049,T00088,Task is still pending and requires follow-up.,pending,2026-03-05 00:00
+U00050,T01109,Task is currently in progress.,in_progress,2026-05-27 00:00
+U00051,T00903,Task is blocked pending clarification or approval.,blocked,2026-01-26 00:00
+U00052,T01309,Task is currently in progress.,in_progress,2026-03-23 00:00
+U00053,T00523,Task is still pending and requires follow-up.,pending,2026-07-11 00:00
+U00054,T01467,Task is still pending and requires follow-up.,pending,2026-06-25 00:00
+U00055,T01385,Task is blocked pending clarification or approval.,blocked,2026-08-24 00:00
+U00056,T00475,Task is blocked pending clarification or approval.,blocked,2026-07-21 00:00
+U00057,T01320,Task completed successfully and evidence was recorded.,completed,2026-06-12 00:00
+U00058,T00127,Task is currently in progress.,in_progress,2026-04-27 00:00
+U00059,T00696,Task is still pending and requires follow-up.,pending,2026-07-23 00:00
+U00060,T00959,Task is currently in progress.,in_progress,2026-04-28 00:00
+U00061,T00804,Task is still pending and requires follow-up.,pending,2026-01-31 00:00
+U00062,T01083,Task is still pending and requires follow-up.,pending,2026-06-21 00:00
+U00063,T00523,Task is still pending and requires follow-up.,pending,2026-07-05 00:00
+U00064,T01173,Task completed successfully and evidence was recorded.,completed,2026-01-08 00:00
+U00065,T00325,Task is currently in progress.,in_progress,2026-08-31 00:00
+U00066,T01216,Task is still pending and requires follow-up.,pending,2026-06-18 00:00
+U00067,T00998,Task is currently in progress.,in_progress,2026-02-14 00:00
+U00068,T00416,Task is currently in progress.,in_progress,2026-04-17 00:00
+U00069,T01484,Task completed successfully and evidence was recorded.,completed,2026-03-27 00:00
+U00070,T00143,Task is still pending and requires follow-up.,pending,2026-02-02 00:00
+U00071,T00874,Task is blocked pending clarification or approval.,blocked,2026-04-18 00:00
+U00072,T00010,Task is blocked pending clarification or approval.,blocked,2026-01-16 00:00
+U00073,T00182,Task completed successfully and evidence was recorded.,completed,2026-04-11 00:00
+U00074,T00875,Task is currently in progress.,in_progress,2026-05-14 00:00
+U00075,T01274,Task is blocked pending clarification or approval.,blocked,2026-05-13 00:00
+U00076,T01388,Task is still pending and requires follow-up.,pending,2026-07-04 00:00
+U00077,T00636,Task is still pending and requires follow-up.,pending,2026-07-12 00:00
+U00078,T00757,Task is blocked pending clarification or approval.,blocked,2026-04-07 00:00
+U00079,T01132,Task is still pending and requires follow-up.,pending,2026-07-17 00:00
+U00080,T01181,Task is still pending and requires follow-up.,pending,2026-05-27 00:00
+U00081,T00676,Task is currently in progress.,in_progress,2026-07-03 00:00
+U00082,T01308,Task completed successfully and evidence was recorded.,completed,2026-06-14 00:00
+U00083,T01350,Task is currently in progress.,in_progress,2026-07-08 00:00
+U00084,T00604,Task is currently in progress.,in_progress,2026-01-09 00:00
+U00085,T01412,Task is still pending and requires follow-up.,pending,2026-08-18 00:00
+U00086,T01177,Task is blocked pending clarification or approval.,blocked,2026-02-23 00:00
+U00087,T01080,Task is still pending and requires follow-up.,pending,2026-07-15 00:00
+U00088,T00520,Task is blocked pending clarification or approval.,blocked,2026-09-12 00:00
+U00089,T00799,Task completed successfully and evidence was recorded.,completed,2026-05-18 00:00
+U00090,T00246,Task is currently in progress.,in_progress,2026-03-21 00:00
+U00091,T01244,Task is blocked pending clarification or approval.,blocked,2026-01-16 00:00
+U00092,T00282,Task is blocked pending clarification or approval.,blocked,2026-07-27 00:00
+U00093,T00678,Task is still pending and requires follow-up.,pending,2026-02-20 00:00
+U00094,T01408,Task is still pending and requires follow-up.,pending,2026-08-14 00:00
+U00095,T00158,Task is currently in progress.,in_progress,2026-06-23 00:00
+U00096,T00413,Task completed successfully and evidence was recorded.,completed,2026-05-07 00:00
+U00097,T00035,Task is blocked pending clarification or approval.,blocked,2026-08-21 00:00
+U00098,T01231,Task completed successfully and evidence was recorded.,completed,2026-06-12 00:00
+U00099,T00087,Task is currently in progress.,in_progress,2026-07-04 00:00
+U00100,T01080,Task is blocked pending clarification or approval.,blocked,2026-05-17 00:00
+U00101,T00871,Task completed successfully and evidence was recorded.,completed,2026-01-24 00:00
+U00102,T00736,Task completed successfully and evidence was recorded.,completed,2026-05-16 00:00
+U00103,T01456,Task is still pending and requires follow-up.,pending,2026-08-26 00:00
+U00104,T00489,Task is currently in progress.,in_progress,2026-07-31 00:00
+U00105,T00653,Task completed successfully and evidence was recorded.,completed,2026-02-19 00:00
+U00106,T01242,Task is still pending and requires follow-up.,pending,2026-06-08 00:00
+U00107,T01323,Task is currently in progress.,in_progress,2026-04-03 00:00
+U00108,T00560,Task completed successfully and evidence was recorded.,completed,2026-05-15 00:00
+U00109,T00428,Task is still pending and requires follow-up.,pending,2026-07-23 00:00
+U00110,T01017,Task completed successfully and evidence was recorded.,completed,2026-03-23 00:00
+U00111,T01333,Task is blocked pending clarification or approval.,blocked,2026-07-16 00:00
+U00112,T01451,Task is currently in progress.,in_progress,2026-02-11 00:00
+U00113,T00717,Task completed successfully and evidence was recorded.,completed,2026-05-02 00:00
+U00114,T00632,Task is still pending and requires follow-up.,pending,2026-05-19 00:00
+U00115,T00273,Task completed successfully and evidence was recorded.,completed,2026-08-03 00:00
+U00116,T00410,Task is currently in progress.,in_progress,2026-08-04 00:00
+U00117,T01379,Task completed successfully and evidence was recorded.,completed,2026-06-20 00:00
+U00118,T01457,Task completed successfully and evidence was recorded.,completed,2026-04-28 00:00
+U00119,T01042,Task is blocked pending clarification or approval.,blocked,2026-04-29 00:00
+U00120,T00915,Task is currently in progress.,in_progress,2026-03-31 00:00
+U00121,T00002,Task completed successfully and evidence was recorded.,completed,2026-07-22 00:00
+U00122,T00658,Task is still pending and requires follow-up.,pending,2026-09-10 00:00
+U00123,T00653,Task is blocked pending clarification or approval.,blocked,2026-07-27 00:00
+U00124,T01305,Task is blocked pending clarification or approval.,blocked,2026-07-06 00:00
+U00125,T00123,Task is still pending and requires follow-up.,pending,2026-04-15 00:00
+U00126,T00927,Task is still pending and requires follow-up.,pending,2026-03-01 00:00
+U00127,T00797,Task completed successfully and evidence was recorded.,completed,2026-03-14 00:00
+U00128,T00371,Task is currently in progress.,in_progress,2026-05-05 00:00
+U00129,T00576,Task completed successfully and evidence was recorded.,completed,2026-04-06 00:00
+U00130,T00191,Task is blocked pending clarification or approval.,blocked,2026-07-12 00:00
+U00131,T00459,Task is still pending and requires follow-up.,pending,2026-06-11 00:00
+U00132,T00648,Task is blocked pending clarification or approval.,blocked,2026-04-21 00:00
+U00133,T01452,Task completed successfully and evidence was recorded.,completed,2026-06-18 00:00
+U00134,T00564,Task is still pending and requires follow-up.,pending,2026-09-07 00:00
+U00135,T01433,Task is currently in progress.,in_progress,2026-06-21 00:00
+U00136,T00496,Task is blocked pending clarification or approval.,blocked,2026-03-23 00:00
+U00137,T01118,Task is currently in progress.,in_progress,2026-01-24 00:00
+U00138,T00909,Task is still pending and requires follow-up.,pending,2026-07-02 00:00
+U00139,T00921,Task is currently in progress.,in_progress,2026-07-14 00:00
+U00140,T01015,Task is blocked pending clarification or approval.,blocked,2026-02-25 00:00
+U00141,T00124,Task is blocked pending clarification or approval.,blocked,2026-01-22 00:00
+U00142,T00534,Task is blocked pending clarification or approval.,blocked,2026-01-12 00:00
+U00143,T00164,Task is blocked pending clarification or approval.,blocked,2026-06-25 00:00
+U00144,T00523,Task completed successfully and evidence was recorded.,completed,2026-06-06 00:00
+U00145,T00774,Task is currently in progress.,in_progress,2026-01-11 00:00
+U00146,T01487,Task completed successfully and evidence was recorded.,completed,2026-01-20 00:00
+U00147,T01492,Task is still pending and requires follow-up.,pending,2026-03-29 00:00
+U00148,T00845,Task is still pending and requires follow-up.,pending,2026-08-24 00:00
+U00149,T01387,Task is currently in progress.,in_progress,2026-08-30 00:00
+U00150,T01230,Task is blocked pending clarification or approval.,blocked,2026-08-05 00:00
+U00151,T00259,Task is blocked pending clarification or approval.,blocked,2026-05-18 00:00
+U00152,T00511,Task is blocked pending clarification or approval.,blocked,2026-05-07 00:00
+U00153,T00981,Task is blocked pending clarification or approval.,blocked,2026-03-30 00:00
+U00154,T00534,Task completed successfully and evidence was recorded.,completed,2026-02-08 00:00
+U00155,T00460,Task is currently in progress.,in_progress,2026-09-02 00:00
+U00156,T00965,Task completed successfully and evidence was recorded.,completed,2026-03-18 00:00
+U00157,T00706,Task completed successfully and evidence was recorded.,completed,2026-08-19 00:00
+U00158,T00396,Task is blocked pending clarification or approval.,blocked,2026-03-15 00:00
+U00159,T01350,Task completed successfully and evidence was recorded.,completed,2026-07-23 00:00
+U00160,T00262,Task is still pending and requires follow-up.,pending,2026-04-22 00:00
+U00161,T00730,Task is blocked pending clarification or approval.,blocked,2026-09-08 00:00
+U00162,T00701,Task is still pending and requires follow-up.,pending,2026-05-30 00:00
+U00163,T00457,Task is blocked pending clarification or approval.,blocked,2026-05-07 00:00
+U00164,T00742,Task is blocked pending clarification or approval.,blocked,2026-02-19 00:00
+U00165,T00931,Task is currently in progress.,in_progress,2026-07-18 00:00
+U00166,T00516,Task is currently in progress.,in_progress,2026-06-26 00:00
+U00167,T00530,Task completed successfully and evidence was recorded.,completed,2026-03-05 00:00
+U00168,T00625,Task is still pending and requires follow-up.,pending,2026-06-08 00:00
+U00169,T00920,Task is currently in progress.,in_progress,2026-06-12 00:00
+U00170,T00734,Task is currently in progress.,in_progress,2026-03-06 00:00
+U00171,T00818,Task is currently in progress.,in_progress,2026-06-14 00:00
+U00172,T00348,Task is still pending and requires follow-up.,pending,2026-06-29 00:00
+U00173,T00101,Task is currently in progress.,in_progress,2026-04-27 00:00
+U00174,T00069,Task is currently in progress.,in_progress,2026-03-11 00:00
+U00175,T00533,Task is blocked pending clarification or approval.,blocked,2026-08-14 00:00
+U00176,T00815,Task is currently in progress.,in_progress,2026-05-14 00:00
+U00177,T01452,Task is still pending and requires follow-up.,pending,2026-06-10 00:00
+U00178,T01355,Task completed successfully and evidence was recorded.,completed,2026-01-22 00:00
+U00179,T01152,Task is blocked pending clarification or approval.,blocked,2026-04-13 00:00
+U00180,T01416,Task is still pending and requires follow-up.,pending,2026-08-06 00:00
+U00181,T00914,Task completed successfully and evidence was recorded.,completed,2026-03-15 00:00
+U00182,T00492,Task is currently in progress.,in_progress,2026-08-24 00:00
+U00183,T01481,Task is still pending and requires follow-up.,pending,2026-08-14 00:00
+U00184,T01064,Task is blocked pending clarification or approval.,blocked,2026-01-21 00:00
+U00185,T00724,Task is still pending and requires follow-up.,pending,2026-03-15 00:00
+U00186,T01335,Task is currently in progress.,in_progress,2026-03-03 00:00
+U00187,T00051,Task is still pending and requires follow-up.,pending,2026-08-03 00:00
+U00188,T01194,Task is blocked pending clarification or approval.,blocked,2026-08-23 00:00
+U00189,T01469,Task is still pending and requires follow-up.,pending,2026-05-25 00:00
+U00190,T00652,Task is currently in progress.,in_progress,2026-03-15 00:00
+U00191,T00362,Task is currently in progress.,in_progress,2026-01-20 00:00
+U00192,T00320,Task is currently in progress.,in_progress,2026-08-02 00:00
+U00193,T01097,Task completed successfully and evidence was recorded.,completed,2026-03-23 00:00
+U00194,T01432,Task is blocked pending clarification or approval.,blocked,2026-05-16 00:00
+U00195,T01076,Task is blocked pending clarification or approval.,blocked,2026-07-03 00:00
+U00196,T01483,Task completed successfully and evidence was recorded.,completed,2026-05-23 00:00
+U00197,T01459,Task is blocked pending clarification or approval.,blocked,2026-04-17 00:00
+U00198,T00409,Task is currently in progress.,in_progress,2026-09-02 00:00
+U00199,T01346,Task is still pending and requires follow-up.,pending,2026-05-09 00:00
+U00200,T00340,Task is currently in progress.,in_progress,2026-04-27 00:00
+U00201,T00954,Task completed successfully and evidence was recorded.,completed,2026-02-02 00:00
+U00202,T00719,Task is blocked pending clarification or approval.,blocked,2026-05-25 00:00
+U00203,T00935,Task is still pending and requires follow-up.,pending,2026-05-07 00:00
+U00204,T01100,Task completed successfully and evidence was recorded.,completed,2026-04-02 00:00
+U00205,T00833,Task completed successfully and evidence was recorded.,completed,2026-08-07 00:00
+U00206,T00827,Task is still pending and requires follow-up.,pending,2026-01-21 00:00
+U00207,T01002,Task is still pending and requires follow-up.,pending,2026-04-11 00:00
+U00208,T00971,Task completed successfully and evidence was recorded.,completed,2026-03-06 00:00
+U00209,T01081,Task is blocked pending clarification or approval.,blocked,2026-02-24 00:00
+U00210,T00130,Task is currently in progress.,in_progress,2026-01-10 00:00
+U00211,T01431,Task is still pending and requires follow-up.,pending,2026-08-24 00:00
+U00212,T00155,Task completed successfully and evidence was recorded.,completed,2026-04-16 00:00
+U00213,T00871,Task is blocked pending clarification or approval.,blocked,2026-08-14 00:00
+U00214,T01472,Task completed successfully and evidence was recorded.,completed,2026-04-23 00:00
+U00215,T00348,Task is currently in progress.,in_progress,2026-07-15 00:00
+U00216,T01382,Task is blocked pending clarification or approval.,blocked,2026-06-12 00:00
+U00217,T01484,Task is blocked pending clarification or approval.,blocked,2026-05-07 00:00
+U00218,T00806,Task is still pending and requires follow-up.,pending,2026-09-01 00:00
+U00219,T00156,Task is still pending and requires follow-up.,pending,2026-02-20 00:00
+U00220,T00640,Task is blocked pending clarification or approval.,blocked,2026-05-30 00:00
+U00221,T01289,Task is still pending and requires follow-up.,pending,2026-02-06 00:00
+U00222,T00528,Task is blocked pending clarification or approval.,blocked,2026-04-18 00:00
+U00223,T01336,Task is blocked pending clarification or approval.,blocked,2026-04-27 00:00
+U00224,T00087,Task is blocked pending clarification or approval.,blocked,2026-01-31 00:00
+U00225,T00804,Task is blocked pending clarification or approval.,blocked,2026-01-28 00:00
+U00226,T01307,Task is currently in progress.,in_progress,2026-05-17 00:00
+U00227,T01364,Task is currently in progress.,in_progress,2026-05-02 00:00
+U00228,T01249,Task is still pending and requires follow-up.,pending,2026-03-31 00:00
+U00229,T00935,Task is currently in progress.,in_progress,2026-07-01 00:00
+U00230,T00354,Task is still pending and requires follow-up.,pending,2026-09-06 00:00
+U00231,T00647,Task is still pending and requires follow-up.,pending,2026-06-06 00:00
+U00232,T01030,Task completed successfully and evidence was recorded.,completed,2026-01-11 00:00
+U00233,T01271,Task is still pending and requires follow-up.,pending,2026-03-20 00:00
+U00234,T00144,Task is still pending and requires follow-up.,pending,2026-07-22 00:00
+U00235,T00905,Task is still pending and requires follow-up.,pending,2026-03-10 00:00
+U00236,T00699,Task is currently in progress.,in_progress,2026-02-06 00:00
+U00237,T00586,Task is blocked pending clarification or approval.,blocked,2026-08-06 00:00
+U00238,T00197,Task completed successfully and evidence was recorded.,completed,2026-04-03 00:00
+U00239,T00645,Task is still pending and requires follow-up.,pending,2026-08-12 00:00
+U00240,T00371,Task completed successfully and evidence was recorded.,completed,2026-05-27 00:00
+U00241,T00232,Task is currently in progress.,in_progress,2026-01-26 00:00
+U00242,T00911,Task completed successfully and evidence was recorded.,completed,2026-07-24 00:00
+U00243,T01237,Task completed successfully and evidence was recorded.,completed,2026-04-30 00:00
+U00244,T00054,Task is blocked pending clarification or approval.,blocked,2026-05-01 00:00
+U00245,T00967,Task is blocked pending clarification or approval.,blocked,2026-09-11 00:00
+U00246,T01367,Task is still pending and requires follow-up.,pending,2026-08-04 00:00
+U00247,T00240,Task is still pending and requires follow-up.,pending,2026-01-29 00:00
+U00248,T00802,Task is currently in progress.,in_progress,2026-03-26 00:00
+U00249,T00500,Task is still pending and requires follow-up.,pending,2026-02-23 00:00
+U00250,T00820,Task is currently in progress.,in_progress,2026-02-15 00:00
+U00251,T00715,Task is currently in progress.,in_progress,2026-01-07 00:00
+U00252,T00457,Task is currently in progress.,in_progress,2026-03-08 00:00
+U00253,T00498,Task is still pending and requires follow-up.,pending,2026-08-01 00:00
+U00254,T00182,Task completed successfully and evidence was recorded.,completed,2026-01-30 00:00
+U00255,T00329,Task is currently in progress.,in_progress,2026-09-04 00:00
+U00256,T00615,Task is blocked pending clarification or approval.,blocked,2026-04-30 00:00
+U00257,T00671,Task completed successfully and evidence was recorded.,completed,2026-03-20 00:00
+U00258,T01187,Task is currently in progress.,in_progress,2026-08-10 00:00
+U00259,T01170,Task is blocked pending clarification or approval.,blocked,2026-05-05 00:00
+U00260,T00087,Task is still pending and requires follow-up.,pending,2026-01-29 00:00
+U00261,T01440,Task is blocked pending clarification or approval.,blocked,2026-01-05 00:00
+U00262,T00739,Task is blocked pending clarification or approval.,blocked,2026-05-21 00:00
+U00263,T01348,Task is still pending and requires follow-up.,pending,2026-04-09 00:00
+U00264,T01131,Task is still pending and requires follow-up.,pending,2026-02-21 00:00
+U00265,T00085,Task completed successfully and evidence was recorded.,completed,2026-08-23 00:00
+U00266,T00545,Task is still pending and requires follow-up.,pending,2026-03-30 00:00
+U00267,T00628,Task is currently in progress.,in_progress,2026-04-14 00:00
+U00268,T00396,Task is blocked pending clarification or approval.,blocked,2026-08-16 00:00
+U00269,T00965,Task is still pending and requires follow-up.,pending,2026-04-26 00:00
+U00270,T01026,Task is blocked pending clarification or approval.,blocked,2026-03-06 00:00
+U00271,T00859,Task is currently in progress.,in_progress,2026-06-25 00:00
+U00272,T00639,Task is currently in progress.,in_progress,2026-08-22 00:00
+U00273,T01187,Task completed successfully and evidence was recorded.,completed,2026-01-12 00:00
+U00274,T01356,Task is blocked pending clarification or approval.,blocked,2026-08-31 00:00
+U00275,T00398,Task is still pending and requires follow-up.,pending,2026-07-24 00:00
+U00276,T00845,Task is blocked pending clarification or approval.,blocked,2026-07-18 00:00
+U00277,T00396,Task is still pending and requires follow-up.,pending,2026-06-16 00:00
+U00278,T00056,Task is blocked pending clarification or approval.,blocked,2026-08-03 00:00
+U00279,T01454,Task completed successfully and evidence was recorded.,completed,2026-03-16 00:00
+U00280,T00288,Task is currently in progress.,in_progress,2026-02-11 00:00
+U00281,T01262,Task is still pending and requires follow-up.,pending,2026-07-17 00:00
+U00282,T00157,Task completed successfully and evidence was recorded.,completed,2026-06-11 00:00
+U00283,T00359,Task is currently in progress.,in_progress,2026-04-29 00:00
+U00284,T00538,Task is still pending and requires follow-up.,pending,2026-06-18 00:00
+U00285,T01292,Task is currently in progress.,in_progress,2026-01-17 00:00
+U00286,T00883,Task is blocked pending clarification or approval.,blocked,2026-05-23 00:00
+U00287,T00348,Task completed successfully and evidence was recorded.,completed,2026-06-01 00:00
+U00288,T01186,Task is still pending and requires follow-up.,pending,2026-05-13 00:00
+U00289,T00984,Task is still pending and requires follow-up.,pending,2026-08-16 00:00
+U00290,T00244,Task completed successfully and evidence was recorded.,completed,2026-02-09 00:00
+U00291,T00038,Task is still pending and requires follow-up.,pending,2026-05-15 00:00
+U00292,T00310,Task is still pending and requires follow-up.,pending,2026-06-04 00:00
+U00293,T01221,Task completed successfully and evidence was recorded.,completed,2026-01-31 00:00
+U00294,T00756,Task completed successfully and evidence was recorded.,completed,2026-07-23 00:00
+U00295,T01365,Task is currently in progress.,in_progress,2026-06-13 00:00
+U00296,T00716,Task is currently in progress.,in_progress,2026-05-10 00:00
+U00297,T00873,Task completed successfully and evidence was recorded.,completed,2026-04-26 00:00
+U00298,T01145,Task completed successfully and evidence was recorded.,completed,2026-07-09 00:00
+U00299,T01287,Task is blocked pending clarification or approval.,blocked,2026-05-16 00:00
+U00300,T00071,Task is still pending and requires follow-up.,pending,2026-01-14 00:00
+U00301,T00636,Task completed successfully and evidence was recorded.,completed,2026-01-06 00:00
+U00302,T00670,Task is currently in progress.,in_progress,2026-08-15 00:00
+U00303,T00861,Task completed successfully and evidence was recorded.,completed,2026-01-25 00:00
+U00304,T01436,Task is still pending and requires follow-up.,pending,2026-02-04 00:00
+U00305,T00562,Task is still pending and requires follow-up.,pending,2026-08-27 00:00
+U00306,T00493,Task is blocked pending clarification or approval.,blocked,2026-01-05 00:00
+U00307,T00733,Task is blocked pending clarification or approval.,blocked,2026-03-13 00:00
+U00308,T00402,Task is still pending and requires follow-up.,pending,2026-01-31 00:00
+U00309,T00221,Task completed successfully and evidence was recorded.,completed,2026-08-25 00:00
+U00310,T00705,Task is currently in progress.,in_progress,2026-06-01 00:00
+U00311,T00681,Task is still pending and requires follow-up.,pending,2026-06-01 00:00
+U00312,T00168,Task is blocked pending clarification or approval.,blocked,2026-06-06 00:00
+U00313,T00221,Task is blocked pending clarification or approval.,blocked,2026-08-08 00:00
+U00314,T01273,Task completed successfully and evidence was recorded.,completed,2026-06-08 00:00
+U00315,T00137,Task is still pending and requires follow-up.,pending,2026-04-12 00:00
+U00316,T00600,Task completed successfully and evidence was recorded.,completed,2026-05-10 00:00
+U00317,T01318,Task is blocked pending clarification or approval.,blocked,2026-03-27 00:00
+U00318,T01433,Task is still pending and requires follow-up.,pending,2026-01-09 00:00
+U00319,T00755,Task is currently in progress.,in_progress,2026-05-23 00:00
+U00320,T01300,Task is still pending and requires follow-up.,pending,2026-07-25 00:00
+U00321,T00815,Task completed successfully and evidence was recorded.,completed,2026-08-23 00:00
+U00322,T01168,Task completed successfully and evidence was recorded.,completed,2026-08-20 00:00
+U00323,T00153,Task is blocked pending clarification or approval.,blocked,2026-08-04 00:00
+U00324,T01065,Task completed successfully and evidence was recorded.,completed,2026-02-01 00:00
+U00325,T00169,Task is currently in progress.,in_progress,2026-08-21 00:00
+U00326,T01356,Task is still pending and requires follow-up.,pending,2026-07-13 00:00
+U00327,T00853,Task completed successfully and evidence was recorded.,completed,2026-06-13 00:00
+U00328,T00789,Task is currently in progress.,in_progress,2026-02-27 00:00
+U00329,T01247,Task is currently in progress.,in_progress,2026-04-08 00:00
+U00330,T01294,Task is still pending and requires follow-up.,pending,2026-06-21 00:00
+U00331,T00547,Task is blocked pending clarification or approval.,blocked,2026-02-27 00:00
+U00332,T00259,Task completed successfully and evidence was recorded.,completed,2026-01-05 00:00
+U00333,T01195,Task is blocked pending clarification or approval.,blocked,2026-01-13 00:00
+U00334,T00239,Task is currently in progress.,in_progress,2026-02-24 00:00
+U00335,T00686,Task is still pending and requires follow-up.,pending,2026-07-29 00:00
+U00336,T01292,Task completed successfully and evidence was recorded.,completed,2026-04-06 00:00
+U00337,T00452,Task is still pending and requires follow-up.,pending,2026-07-27 00:00
+U00338,T00705,Task is blocked pending clarification or approval.,blocked,2026-07-14 00:00
+U00339,T00354,Task is currently in progress.,in_progress,2026-06-27 00:00
+U00340,T01149,Task completed successfully and evidence was recorded.,completed,2026-08-14 00:00
+U00341,T00616,Task is blocked pending clarification or approval.,blocked,2026-01-16 00:00
+U00342,T00543,Task is blocked pending clarification or approval.,blocked,2026-03-16 00:00
+U00343,T01130,Task is currently in progress.,in_progress,2026-03-28 00:00
+U00344,T00730,Task completed successfully and evidence was recorded.,completed,2026-06-28 00:00
+U00345,T00829,Task is still pending and requires follow-up.,pending,2026-02-15 00:00
+U00346,T01470,Task is currently in progress.,in_progress,2026-01-13 00:00
+U00347,T00682,Task is blocked pending clarification or approval.,blocked,2026-07-17 00:00
+U00348,T01377,Task is currently in progress.,in_progress,2026-01-30 00:00
+U00349,T00165,Task is still pending and requires follow-up.,pending,2026-04-09 00:00
+U00350,T00408,Task completed successfully and evidence was recorded.,completed,2026-06-14 00:00
+U00351,T00004,Task is still pending and requires follow-up.,pending,2026-05-16 00:00
+U00352,T01319,Task completed successfully and evidence was recorded.,completed,2026-07-01 00:00
+U00353,T00812,Task is blocked pending clarification or approval.,blocked,2026-05-12 00:00
+U00354,T00903,Task completed successfully and evidence was recorded.,completed,2026-06-13 00:00
+U00355,T01389,Task is currently in progress.,in_progress,2026-02-13 00:00
+U00356,T00149,Task is currently in progress.,in_progress,2026-06-27 00:00
+U00357,T01033,Task is blocked pending clarification or approval.,blocked,2026-05-20 00:00
+U00358,T01467,Task completed successfully and evidence was recorded.,completed,2026-03-12 00:00
+U00359,T01424,Task is still pending and requires follow-up.,pending,2026-06-09 00:00
+U00360,T00534,Task is still pending and requires follow-up.,pending,2026-06-05 00:00
+U00361,T00029,Task completed successfully and evidence was recorded.,completed,2026-07-26 00:00
+U00362,T01055,Task is still pending and requires follow-up.,pending,2026-03-29 00:00
+U00363,T01106,Task is currently in progress.,in_progress,2026-05-08 00:00
+U00364,T01053,Task is still pending and requires follow-up.,pending,2026-06-09 00:00
+U00365,T01465,Task completed successfully and evidence was recorded.,completed,2026-02-23 00:00
+U00366,T00980,Task completed successfully and evidence was recorded.,completed,2026-02-28 00:00
+U00367,T00927,Task is blocked pending clarification or approval.,blocked,2026-02-26 00:00
+U00368,T00170,Task is still pending and requires follow-up.,pending,2026-01-18 00:00
+U00369,T00755,Task is blocked pending clarification or approval.,blocked,2026-05-30 00:00
+U00370,T01316,Task is currently in progress.,in_progress,2026-05-17 00:00
+U00371,T00727,Task is still pending and requires follow-up.,pending,2026-07-01 00:00
+U00372,T00127,Task is blocked pending clarification or approval.,blocked,2026-03-10 00:00
+U00373,T01066,Task is blocked pending clarification or approval.,blocked,2026-09-04 00:00
+U00374,T01129,Task completed successfully and evidence was recorded.,completed,2026-07-29 00:00
+U00375,T00387,Task is currently in progress.,in_progress,2026-09-11 00:00
+U00376,T00046,Task is currently in progress.,in_progress,2026-06-30 00:00
+U00377,T01340,Task completed successfully and evidence was recorded.,completed,2026-08-29 00:00
+U00378,T00561,Task completed successfully and evidence was recorded.,completed,2026-03-27 00:00
+U00379,T00118,Task completed successfully and evidence was recorded.,completed,2026-05-26 00:00
+U00380,T00207,Task is still pending and requires follow-up.,pending,2026-07-05 00:00
+U00381,T01454,Task is blocked pending clarification or approval.,blocked,2026-01-24 00:00
+U00382,T01013,Task completed successfully and evidence was recorded.,completed,2026-01-05 00:00
+U00383,T00077,Task is currently in progress.,in_progress,2026-05-16 00:00
+U00384,T00733,Task is currently in progress.,in_progress,2026-07-10 00:00
+U00385,T01346,Task completed successfully and evidence was recorded.,completed,2026-07-09 00:00
+U00386,T00277,Task is still pending and requires follow-up.,pending,2026-06-24 00:00
+U00387,T00514,Task completed successfully and evidence was recorded.,completed,2026-01-07 00:00
+U00388,T01486,Task is currently in progress.,in_progress,2026-06-27 00:00
+U00389,T00667,Task is still pending and requires follow-up.,pending,2026-03-27 00:00
+U00390,T00670,Task is still pending and requires follow-up.,pending,2026-07-03 00:00
+U00391,T01172,Task is blocked pending clarification or approval.,blocked,2026-02-11 00:00
+U00392,T00662,Task is currently in progress.,in_progress,2026-04-25 00:00
+U00393,T00161,Task is currently in progress.,in_progress,2026-03-14 00:00
+U00394,T00208,Task is still pending and requires follow-up.,pending,2026-06-23 00:00
+U00395,T01468,Task is blocked pending clarification or approval.,blocked,2026-01-20 00:00
+U00396,T00129,Task completed successfully and evidence was recorded.,completed,2026-06-10 00:00
+U00397,T00391,Task is still pending and requires follow-up.,pending,2026-02-05 00:00
+U00398,T00683,Task is still pending and requires follow-up.,pending,2026-06-04 00:00
+U00399,T00524,Task completed successfully and evidence was recorded.,completed,2026-05-12 00:00
+U00400,T00884,Task completed successfully and evidence was recorded.,completed,2026-02-02 00:00
+U00401,T00198,Task is currently in progress.,in_progress,2026-05-16 00:00
+U00402,T00480,Task is still pending and requires follow-up.,pending,2026-03-10 00:00
+U00403,T01441,Task completed successfully and evidence was recorded.,completed,2026-06-07 00:00
+U00404,T00832,Task is currently in progress.,in_progress,2026-08-30 00:00
+U00405,T00278,Task is blocked pending clarification or approval.,blocked,2026-08-01 00:00
+U00406,T00157,Task is still pending and requires follow-up.,pending,2026-02-05 00:00
+U00407,T00795,Task is blocked pending clarification or approval.,blocked,2026-07-06 00:00
+U00408,T01155,Task is currently in progress.,in_progress,2026-05-17 00:00
+U00409,T00181,Task completed successfully and evidence was recorded.,completed,2026-01-05 00:00
+U00410,T00158,Task completed successfully and evidence was recorded.,completed,2026-02-16 00:00
+U00411,T01454,Task is still pending and requires follow-up.,pending,2026-03-02 00:00
+U00412,T01426,Task completed successfully and evidence was recorded.,completed,2026-02-05 00:00
+U00413,T00860,Task is blocked pending clarification or approval.,blocked,2026-06-02 00:00
+U00414,T00782,Task is currently in progress.,in_progress,2026-04-09 00:00
+U00415,T01282,Task is blocked pending clarification or approval.,blocked,2026-06-20 00:00
+U00416,T00952,Task is still pending and requires follow-up.,pending,2026-02-21 00:00
+U00417,T00454,Task is still pending and requires follow-up.,pending,2026-04-14 00:00
+U00418,T01035,Task is currently in progress.,in_progress,2026-01-30 00:00
+U00419,T00601,Task is still pending and requires follow-up.,pending,2026-03-24 00:00
+U00420,T00577,Task is blocked pending clarification or approval.,blocked,2026-08-21 00:00
+U00421,T00348,Task is still pending and requires follow-up.,pending,2026-07-29 00:00
+U00422,T01035,Task completed successfully and evidence was recorded.,completed,2026-07-15 00:00
+U00423,T00997,Task is currently in progress.,in_progress,2026-06-23 00:00
+U00424,T01235,Task completed successfully and evidence was recorded.,completed,2026-03-26 00:00
+U00425,T00410,Task completed successfully and evidence was recorded.,completed,2026-04-02 00:00
+U00426,T01496,Task is currently in progress.,in_progress,2026-01-06 00:00
+U00427,T01260,Task is currently in progress.,in_progress,2026-02-15 00:00
+U00428,T01075,Task completed successfully and evidence was recorded.,completed,2026-04-26 00:00
+U00429,T01113,Task is still pending and requires follow-up.,pending,2026-04-16 00:00
+U00430,T00313,Task is currently in progress.,in_progress,2026-09-05 00:00
+U00431,T00913,Task is blocked pending clarification or approval.,blocked,2026-02-19 00:00
+U00432,T00176,Task completed successfully and evidence was recorded.,completed,2026-07-03 00:00
+U00433,T01028,Task is blocked pending clarification or approval.,blocked,2026-02-21 00:00
+U00434,T00957,Task is currently in progress.,in_progress,2026-09-06 00:00
+U00435,T00251,Task completed successfully and evidence was recorded.,completed,2026-08-06 00:00
+U00436,T00764,Task completed successfully and evidence was recorded.,completed,2026-08-27 00:00
+U00437,T00717,Task is blocked pending clarification or approval.,blocked,2026-08-24 00:00
+U00438,T01173,Task completed successfully and evidence was recorded.,completed,2026-04-10 00:00
+U00439,T00696,Task is currently in progress.,in_progress,2026-01-28 00:00
+U00440,T01131,Task is currently in progress.,in_progress,2026-06-05 00:00
+U00441,T00732,Task is currently in progress.,in_progress,2026-02-16 00:00
+U00442,T01276,Task is blocked pending clarification or approval.,blocked,2026-03-11 00:00
+U00443,T00506,Task is currently in progress.,in_progress,2026-02-09 00:00
+U00444,T00283,Task completed successfully and evidence was recorded.,completed,2026-05-08 00:00
+U00445,T00407,Task is still pending and requires follow-up.,pending,2026-05-26 00:00
+U00446,T00626,Task is still pending and requires follow-up.,pending,2026-03-13 00:00
+U00447,T01075,Task is blocked pending clarification or approval.,blocked,2026-08-30 00:00
+U00448,T01318,Task is still pending and requires follow-up.,pending,2026-05-30 00:00
+U00449,T01096,Task completed successfully and evidence was recorded.,completed,2026-06-23 00:00
+U00450,T00332,Task completed successfully and evidence was recorded.,completed,2026-08-21 00:00
+U00451,T00318,Task completed successfully and evidence was recorded.,completed,2026-06-18 00:00
+U00452,T00940,Task is still pending and requires follow-up.,pending,2026-04-13 00:00
+U00453,T00644,Task completed successfully and evidence was recorded.,completed,2026-06-21 00:00
+U00454,T01327,Task is still pending and requires follow-up.,pending,2026-07-08 00:00
+U00455,T00539,Task is still pending and requires follow-up.,pending,2026-01-13 00:00
+U00456,T00640,Task is currently in progress.,in_progress,2026-08-08 00:00
+U00457,T01005,Task completed successfully and evidence was recorded.,completed,2026-03-08 00:00
+U00458,T00219,Task is currently in progress.,in_progress,2026-04-07 00:00
+U00459,T00778,Task is still pending and requires follow-up.,pending,2026-07-08 00:00
+U00460,T00764,Task is still pending and requires follow-up.,pending,2026-01-20 00:00
+U00461,T00448,Task completed successfully and evidence was recorded.,completed,2026-08-19 00:00
+U00462,T00284,Task is currently in progress.,in_progress,2026-08-10 00:00
+U00463,T00134,Task is still pending and requires follow-up.,pending,2026-01-09 00:00
+U00464,T00032,Task completed successfully and evidence was recorded.,completed,2026-02-02 00:00
+U00465,T00432,Task completed successfully and evidence was recorded.,completed,2026-03-18 00:00
+U00466,T00869,Task is currently in progress.,in_progress,2026-08-06 00:00
+U00467,T00630,Task is still pending and requires follow-up.,pending,2026-01-26 00:00
+U00468,T00578,Task is still pending and requires follow-up.,pending,2026-05-04 00:00
+U00469,T01316,Task is blocked pending clarification or approval.,blocked,2026-05-13 00:00
+U00470,T01389,Task completed successfully and evidence was recorded.,completed,2026-09-08 00:00
+U00471,T00761,Task is currently in progress.,in_progress,2026-06-23 00:00
+U00472,T01264,Task is still pending and requires follow-up.,pending,2026-07-13 00:00
+U00473,T00273,Task is blocked pending clarification or approval.,blocked,2026-09-09 00:00
+U00474,T00972,Task completed successfully and evidence was recorded.,completed,2026-09-03 00:00
+U00475,T01353,Task is still pending and requires follow-up.,pending,2026-04-24 00:00
+U00476,T00109,Task is currently in progress.,in_progress,2026-05-29 00:00
+U00477,T00956,Task is blocked pending clarification or approval.,blocked,2026-06-13 00:00
+U00478,T01333,Task is blocked pending clarification or approval.,blocked,2026-06-10 00:00
+U00479,T01196,Task is blocked pending clarification or approval.,blocked,2026-07-02 00:00
+U00480,T00377,Task is currently in progress.,in_progress,2026-04-18 00:00
+U00481,T01376,Task is blocked pending clarification or approval.,blocked,2026-06-19 00:00
+U00482,T00627,Task completed successfully and evidence was recorded.,completed,2026-01-21 00:00
+U00483,T00434,Task is currently in progress.,in_progress,2026-01-08 00:00
+U00484,T00918,Task is blocked pending clarification or approval.,blocked,2026-07-25 00:00
+U00485,T00594,Task is blocked pending clarification or approval.,blocked,2026-04-30 00:00
+U00486,T00344,Task is blocked pending clarification or approval.,blocked,2026-07-04 00:00
+U00487,T00826,Task is still pending and requires follow-up.,pending,2026-03-01 00:00
+U00488,T01157,Task is blocked pending clarification or approval.,blocked,2026-05-14 00:00
+U00489,T00054,Task completed successfully and evidence was recorded.,completed,2026-04-28 00:00
+U00490,T00232,Task completed successfully and evidence was recorded.,completed,2026-06-11 00:00
+U00491,T00579,Task is blocked pending clarification or approval.,blocked,2026-03-26 00:00
+U00492,T00098,Task is currently in progress.,in_progress,2026-06-16 00:00
+U00493,T00377,Task is still pending and requires follow-up.,pending,2026-01-16 00:00
+U00494,T00195,Task completed successfully and evidence was recorded.,completed,2026-02-10 00:00
+U00495,T00991,Task completed successfully and evidence was recorded.,completed,2026-07-11 00:00
+U00496,T00578,Task is still pending and requires follow-up.,pending,2026-02-06 00:00
+U00497,T01433,Task is currently in progress.,in_progress,2026-08-31 00:00
+U00498,T01168,Task is still pending and requires follow-up.,pending,2026-03-06 00:00
+U00499,T01330,Task is still pending and requires follow-up.,pending,2026-02-27 00:00
+U00500,T01131,Task completed successfully and evidence was recorded.,completed,2026-07-30 00:00
+U00501,T00624,Task is still pending and requires follow-up.,pending,2026-02-28 00:00
+U00502,T00229,Task is blocked pending clarification or approval.,blocked,2026-08-22 00:00
+U00503,T00153,Task is blocked pending clarification or approval.,blocked,2026-04-18 00:00
+U00504,T01273,Task is blocked pending clarification or approval.,blocked,2026-03-24 00:00
+U00505,T01389,Task is currently in progress.,in_progress,2026-08-26 00:00
+U00506,T00847,Task is blocked pending clarification or approval.,blocked,2026-01-15 00:00
+U00507,T00999,Task completed successfully and evidence was recorded.,completed,2026-02-02 00:00
+U00508,T01237,Task is currently in progress.,in_progress,2026-08-22 00:00
+U00509,T00140,Task completed successfully and evidence was recorded.,completed,2026-02-04 00:00
+U00510,T00758,Task is blocked pending clarification or approval.,blocked,2026-05-24 00:00
+U00511,T00930,Task is still pending and requires follow-up.,pending,2026-03-07 00:00
+U00512,T01194,Task completed successfully and evidence was recorded.,completed,2026-08-26 00:00
+U00513,T00404,Task is blocked pending clarification or approval.,blocked,2026-02-04 00:00
+U00514,T00660,Task is currently in progress.,in_progress,2026-09-01 00:00
+U00515,T01057,Task is blocked pending clarification or approval.,blocked,2026-01-07 00:00
+U00516,T00373,Task is blocked pending clarification or approval.,blocked,2026-03-23 00:00
+U00517,T00267,Task is still pending and requires follow-up.,pending,2026-04-18 00:00
+U00518,T00365,Task is currently in progress.,in_progress,2026-04-01 00:00
+U00519,T01044,Task is currently in progress.,in_progress,2026-07-06 00:00
+U00520,T00771,Task is still pending and requires follow-up.,pending,2026-04-29 00:00
+U00521,T00142,Task is currently in progress.,in_progress,2026-05-03 00:00
+U00522,T01325,Task is blocked pending clarification or approval.,blocked,2026-04-03 00:00
+U00523,T00053,Task completed successfully and evidence was recorded.,completed,2026-04-06 00:00
+U00524,T01324,Task is blocked pending clarification or approval.,blocked,2026-06-14 00:00
+U00525,T00135,Task completed successfully and evidence was recorded.,completed,2026-08-20 00:00
+U00526,T01020,Task is currently in progress.,in_progress,2026-06-15 00:00
+U00527,T00629,Task is currently in progress.,in_progress,2026-01-17 00:00
+U00528,T00124,Task is still pending and requires follow-up.,pending,2026-07-11 00:00
+U00529,T00999,Task is currently in progress.,in_progress,2026-07-22 00:00
+U00530,T01043,Task is currently in progress.,in_progress,2026-02-17 00:00
+U00531,T00566,Task is currently in progress.,in_progress,2026-09-01 00:00
+U00532,T00474,Task is blocked pending clarification or approval.,blocked,2026-06-09 00:00
+U00533,T00420,Task is blocked pending clarification or approval.,blocked,2026-04-14 00:00
+U00534,T00877,Task completed successfully and evidence was recorded.,completed,2026-03-19 00:00
+U00535,T00634,Task is blocked pending clarification or approval.,blocked,2026-07-25 00:00
+U00536,T00940,Task completed successfully and evidence was recorded.,completed,2026-02-04 00:00
+U00537,T01103,Task completed successfully and evidence was recorded.,completed,2026-04-19 00:00
+U00538,T00139,Task is still pending and requires follow-up.,pending,2026-07-13 00:00
+U00539,T01004,Task is blocked pending clarification or approval.,blocked,2026-06-19 00:00
+U00540,T00452,Task is currently in progress.,in_progress,2026-08-03 00:00
+U00541,T00913,Task is blocked pending clarification or approval.,blocked,2026-03-19 00:00
+U00542,T01205,Task is blocked pending clarification or approval.,blocked,2026-04-27 00:00
+U00543,T01061,Task is currently in progress.,in_progress,2026-04-10 00:00
+U00544,T01435,Task is still pending and requires follow-up.,pending,2026-05-03 00:00
+U00545,T00482,Task is still pending and requires follow-up.,pending,2026-06-18 00:00
+U00546,T01299,Task completed successfully and evidence was recorded.,completed,2026-06-17 00:00
+U00547,T01058,Task completed successfully and evidence was recorded.,completed,2026-03-27 00:00
+U00548,T00851,Task is blocked pending clarification or approval.,blocked,2026-03-29 00:00
+U00549,T00584,Task completed successfully and evidence was recorded.,completed,2026-08-02 00:00
+U00550,T00438,Task is currently in progress.,in_progress,2026-03-16 00:00
+U00551,T01286,Task is currently in progress.,in_progress,2026-04-02 00:00
+U00552,T01356,Task is blocked pending clarification or approval.,blocked,2026-06-06 00:00
+U00553,T00936,Task completed successfully and evidence was recorded.,completed,2026-07-09 00:00
+U00554,T00943,Task completed successfully and evidence was recorded.,completed,2026-05-06 00:00
+U00555,T00906,Task completed successfully and evidence was recorded.,completed,2026-08-06 00:00
+U00556,T00633,Task is currently in progress.,in_progress,2026-04-01 00:00
+U00557,T00432,Task completed successfully and evidence was recorded.,completed,2026-01-10 00:00
+U00558,T00146,Task is blocked pending clarification or approval.,blocked,2026-02-24 00:00
+U00559,T00213,Task is currently in progress.,in_progress,2026-01-31 00:00
+U00560,T00310,Task is blocked pending clarification or approval.,blocked,2026-02-18 00:00
+U00561,T00720,Task is still pending and requires follow-up.,pending,2026-02-01 00:00
+U00562,T01308,Task is still pending and requires follow-up.,pending,2026-06-01 00:00
+U00563,T01283,Task is currently in progress.,in_progress,2026-04-12 00:00
+U00564,T00918,Task is still pending and requires follow-up.,pending,2026-03-12 00:00
+U00565,T00108,Task is currently in progress.,in_progress,2026-04-08 00:00
+U00566,T00701,Task is still pending and requires follow-up.,pending,2026-03-29 00:00
+U00567,T00215,Task is blocked pending clarification or approval.,blocked,2026-05-05 00:00
+U00568,T00592,Task is currently in progress.,in_progress,2026-04-25 00:00
+U00569,T00657,Task is still pending and requires follow-up.,pending,2026-08-29 00:00
+U00570,T01332,Task is blocked pending clarification or approval.,blocked,2026-03-24 00:00
+U00571,T00319,Task is currently in progress.,in_progress,2026-03-01 00:00
+U00572,T00897,Task is currently in progress.,in_progress,2026-02-13 00:00
+U00573,T01035,Task is still pending and requires follow-up.,pending,2026-07-24 00:00
+U00574,T00316,Task completed successfully and evidence was recorded.,completed,2026-02-21 00:00
+U00575,T00261,Task completed successfully and evidence was recorded.,completed,2026-03-16 00:00
+U00576,T00150,Task completed successfully and evidence was recorded.,completed,2026-04-22 00:00
+U00577,T00600,Task is blocked pending clarification or approval.,blocked,2026-01-15 00:00
+U00578,T00938,Task is still pending and requires follow-up.,pending,2026-04-11 00:00
+U00579,T00698,Task is still pending and requires follow-up.,pending,2026-07-06 00:00
+U00580,T00127,Task completed successfully and evidence was recorded.,completed,2026-07-09 00:00
+U00581,T00571,Task is blocked pending clarification or approval.,blocked,2026-04-22 00:00
+U00582,T00097,Task is blocked pending clarification or approval.,blocked,2026-04-30 00:00
+U00583,T00475,Task is blocked pending clarification or approval.,blocked,2026-02-17 00:00
+U00584,T00766,Task completed successfully and evidence was recorded.,completed,2026-01-19 00:00
+U00585,T01175,Task is still pending and requires follow-up.,pending,2026-02-15 00:00
+U00586,T00241,Task is currently in progress.,in_progress,2026-04-14 00:00
+U00587,T01476,Task is still pending and requires follow-up.,pending,2026-07-26 00:00
+U00588,T00368,Task completed successfully and evidence was recorded.,completed,2026-04-10 00:00
+U00589,T00003,Task is blocked pending clarification or approval.,blocked,2026-07-10 00:00
+U00590,T00712,Task completed successfully and evidence was recorded.,completed,2026-04-16 00:00
+U00591,T01164,Task is blocked pending clarification or approval.,blocked,2026-08-26 00:00
+U00592,T01287,Task completed successfully and evidence was recorded.,completed,2026-06-26 00:00
+U00593,T01477,Task is currently in progress.,in_progress,2026-08-27 00:00
+U00594,T01108,Task is currently in progress.,in_progress,2026-03-15 00:00
+U00595,T01372,Task is currently in progress.,in_progress,2026-02-06 00:00
+U00596,T00446,Task is blocked pending clarification or approval.,blocked,2026-03-10 00:00
+U00597,T01189,Task is currently in progress.,in_progress,2026-01-23 00:00
+U00598,T00212,Task completed successfully and evidence was recorded.,completed,2026-07-28 00:00
+U00599,T00069,Task is still pending and requires follow-up.,pending,2026-01-13 00:00
+U00600,T01102,Task is blocked pending clarification or approval.,blocked,2026-05-10 00:00
+U00601,T00828,Task completed successfully and evidence was recorded.,completed,2026-03-22 00:00
+U00602,T00120,Task is blocked pending clarification or approval.,blocked,2026-02-10 00:00
+U00603,T00502,Task is still pending and requires follow-up.,pending,2026-01-29 00:00
+U00604,T00743,Task completed successfully and evidence was recorded.,completed,2026-07-02 00:00
+U00605,T00955,Task is currently in progress.,in_progress,2026-02-05 00:00
+U00606,T01234,Task is blocked pending clarification or approval.,blocked,2026-05-06 00:00
+U00607,T01209,Task is still pending and requires follow-up.,pending,2026-08-20 00:00
+U00608,T01181,Task is blocked pending clarification or approval.,blocked,2026-01-12 00:00
+U00609,T00691,Task is blocked pending clarification or approval.,blocked,2026-04-05 00:00
+U00610,T00480,Task completed successfully and evidence was recorded.,completed,2026-09-05 00:00
+U00611,T00555,Task is still pending and requires follow-up.,pending,2026-03-15 00:00
+U00612,T00365,Task is still pending and requires follow-up.,pending,2026-01-13 00:00
+U00613,T01015,Task completed successfully and evidence was recorded.,completed,2026-08-23 00:00
+U00614,T00588,Task is still pending and requires follow-up.,pending,2026-01-25 00:00
+U00615,T01403,Task completed successfully and evidence was recorded.,completed,2026-08-31 00:00
+U00616,T00933,Task is blocked pending clarification or approval.,blocked,2026-02-17 00:00
+U00617,T00340,Task is still pending and requires follow-up.,pending,2026-05-28 00:00
+U00618,T00956,Task is currently in progress.,in_progress,2026-06-12 00:00
+U00619,T01224,Task is currently in progress.,in_progress,2026-08-26 00:00
+U00620,T01038,Task is still pending and requires follow-up.,pending,2026-07-11 00:00
+U00621,T00820,Task is blocked pending clarification or approval.,blocked,2026-08-31 00:00
+U00622,T00601,Task is still pending and requires follow-up.,pending,2026-05-23 00:00
+U00623,T01491,Task is blocked pending clarification or approval.,blocked,2026-01-13 00:00
+U00624,T00169,Task is blocked pending clarification or approval.,blocked,2026-07-22 00:00
+U00625,T00803,Task is blocked pending clarification or approval.,blocked,2026-06-24 00:00
+U00626,T01086,Task is blocked pending clarification or approval.,blocked,2026-09-06 00:00
+U00627,T00438,Task completed successfully and evidence was recorded.,completed,2026-02-04 00:00
+U00628,T00213,Task completed successfully and evidence was recorded.,completed,2026-07-30 00:00
+U00629,T00424,Task completed successfully and evidence was recorded.,completed,2026-06-21 00:00
+U00630,T00717,Task is still pending and requires follow-up.,pending,2026-06-29 00:00
+U00631,T01189,Task is still pending and requires follow-up.,pending,2026-09-03 00:00
+U00632,T00426,Task is still pending and requires follow-up.,pending,2026-04-08 00:00
+U00633,T00337,Task is still pending and requires follow-up.,pending,2026-02-27 00:00
+U00634,T00954,Task is blocked pending clarification or approval.,blocked,2026-03-31 00:00
+U00635,T00091,Task is currently in progress.,in_progress,2026-03-19 00:00
+U00636,T01074,Task completed successfully and evidence was recorded.,completed,2026-04-16 00:00
+U00637,T01338,Task is still pending and requires follow-up.,pending,2026-06-15 00:00
+U00638,T00384,Task is currently in progress.,in_progress,2026-03-17 00:00
+U00639,T01127,Task is blocked pending clarification or approval.,blocked,2026-05-25 00:00
+U00640,T00513,Task is blocked pending clarification or approval.,blocked,2026-01-13 00:00
+U00641,T00571,Task completed successfully and evidence was recorded.,completed,2026-08-30 00:00
+U00642,T01461,Task is still pending and requires follow-up.,pending,2026-04-22 00:00
+U00643,T00215,Task is blocked pending clarification or approval.,blocked,2026-07-09 00:00
+U00644,T00751,Task is currently in progress.,in_progress,2026-06-15 00:00
+U00645,T00637,Task is still pending and requires follow-up.,pending,2026-05-04 00:00
+U00646,T01200,Task is still pending and requires follow-up.,pending,2026-02-24 00:00
+U00647,T01349,Task is blocked pending clarification or approval.,blocked,2026-01-19 00:00
+U00648,T00271,Task completed successfully and evidence was recorded.,completed,2026-08-20 00:00
+U00649,T00610,Task is blocked pending clarification or approval.,blocked,2026-01-24 00:00
+U00650,T00790,Task completed successfully and evidence was recorded.,completed,2026-03-25 00:00
+U00651,T00970,Task is blocked pending clarification or approval.,blocked,2026-01-23 00:00
+U00652,T00104,Task is still pending and requires follow-up.,pending,2026-09-09 00:00
+U00653,T01251,Task is blocked pending clarification or approval.,blocked,2026-06-23 00:00
+U00654,T01329,Task is currently in progress.,in_progress,2026-03-13 00:00
+U00655,T00602,Task completed successfully and evidence was recorded.,completed,2026-06-04 00:00
+U00656,T00092,Task is currently in progress.,in_progress,2026-02-24 00:00
+U00657,T01003,Task is blocked pending clarification or approval.,blocked,2026-08-14 00:00
+U00658,T00068,Task is still pending and requires follow-up.,pending,2026-06-12 00:00
+U00659,T01353,Task is blocked pending clarification or approval.,blocked,2026-05-02 00:00
+U00660,T00068,Task is currently in progress.,in_progress,2026-01-07 00:00
+U00661,T00422,Task is currently in progress.,in_progress,2026-04-20 00:00
+U00662,T00345,Task is still pending and requires follow-up.,pending,2026-09-05 00:00
+U00663,T00924,Task is still pending and requires follow-up.,pending,2026-09-12 00:00
+U00664,T00562,Task is blocked pending clarification or approval.,blocked,2026-06-24 00:00
+U00665,T00550,Task is currently in progress.,in_progress,2026-07-30 00:00
+U00666,T00814,Task completed successfully and evidence was recorded.,completed,2026-03-21 00:00
+U00667,T01101,Task is currently in progress.,in_progress,2026-08-16 00:00
+U00668,T00177,Task completed successfully and evidence was recorded.,completed,2026-06-03 00:00
+U00669,T01215,Task completed successfully and evidence was recorded.,completed,2026-08-26 00:00
+U00670,T00829,Task is currently in progress.,in_progress,2026-07-16 00:00
+U00671,T00805,Task is still pending and requires follow-up.,pending,2026-02-19 00:00
+U00672,T00382,Task is blocked pending clarification or approval.,blocked,2026-05-09 00:00
+U00673,T01240,Task completed successfully and evidence was recorded.,completed,2026-07-18 00:00
+U00674,T00237,Task completed successfully and evidence was recorded.,completed,2026-08-01 00:00
+U00675,T01007,Task is currently in progress.,in_progress,2026-02-03 00:00
+U00676,T00369,Task is currently in progress.,in_progress,2026-06-08 00:00
+U00677,T01457,Task is still pending and requires follow-up.,pending,2026-06-28 00:00
+U00678,T00931,Task is still pending and requires follow-up.,pending,2026-07-27 00:00
+U00679,T01192,Task completed successfully and evidence was recorded.,completed,2026-04-18 00:00
+U00680,T01223,Task is currently in progress.,in_progress,2026-09-03 00:00
+U00681,T00286,Task is still pending and requires follow-up.,pending,2026-02-07 00:00
+U00682,T01243,Task is still pending and requires follow-up.,pending,2026-08-29 00:00
+U00683,T00714,Task is still pending and requires follow-up.,pending,2026-05-24 00:00
+U00684,T00527,Task completed successfully and evidence was recorded.,completed,2026-05-26 00:00
+U00685,T00908,Task is currently in progress.,in_progress,2026-07-26 00:00
+U00686,T00980,Task is blocked pending clarification or approval.,blocked,2026-01-27 00:00
+U00687,T01004,Task is blocked pending clarification or approval.,blocked,2026-04-10 00:00
+U00688,T01392,Task is blocked pending clarification or approval.,blocked,2026-02-15 00:00
+U00689,T00328,Task is currently in progress.,in_progress,2026-08-13 00:00
+U00690,T00746,Task is still pending and requires follow-up.,pending,2026-04-26 00:00
+U00691,T00887,Task completed successfully and evidence was recorded.,completed,2026-05-12 00:00
+U00692,T01199,Task is still pending and requires follow-up.,pending,2026-03-06 00:00
+U00693,T01358,Task is currently in progress.,in_progress,2026-01-17 00:00
+U00694,T01053,Task is still pending and requires follow-up.,pending,2026-07-11 00:00
+U00695,T00399,Task is blocked pending clarification or approval.,blocked,2026-05-15 00:00
+U00696,T00447,Task is blocked pending clarification or approval.,blocked,2026-08-10 00:00
+U00697,T01302,Task completed successfully and evidence was recorded.,completed,2026-04-05 00:00
+U00698,T01300,Task is still pending and requires follow-up.,pending,2026-08-11 00:00
+U00699,T00797,Task is blocked pending clarification or approval.,blocked,2026-05-18 00:00
+U00700,T00832,Task is blocked pending clarification or approval.,blocked,2026-06-18 00:00
+U00701,T01061,Task completed successfully and evidence was recorded.,completed,2026-05-23 00:00
+U00702,T00046,Task is blocked pending clarification or approval.,blocked,2026-06-04 00:00
+U00703,T00757,Task is blocked pending clarification or approval.,blocked,2026-03-31 00:00
+U00704,T00489,Task completed successfully and evidence was recorded.,completed,2026-01-11 00:00
+U00705,T00102,Task is still pending and requires follow-up.,pending,2026-07-31 00:00
+U00706,T00294,Task is blocked pending clarification or approval.,blocked,2026-04-08 00:00
+U00707,T00028,Task is still pending and requires follow-up.,pending,2026-07-01 00:00
+U00708,T00838,Task completed successfully and evidence was recorded.,completed,2026-03-17 00:00
+U00709,T00964,Task completed successfully and evidence was recorded.,completed,2026-06-12 00:00
+U00710,T00319,Task completed successfully and evidence was recorded.,completed,2026-03-06 00:00
+U00711,T00455,Task is blocked pending clarification or approval.,blocked,2026-07-29 00:00
+U00712,T00179,Task is currently in progress.,in_progress,2026-02-10 00:00
+U00713,T01398,Task completed successfully and evidence was recorded.,completed,2026-03-01 00:00
+U00714,T00968,Task is currently in progress.,in_progress,2026-04-30 00:00
+U00715,T00362,Task is blocked pending clarification or approval.,blocked,2026-08-04 00:00
+U00716,T01165,Task is still pending and requires follow-up.,pending,2026-06-02 00:00
+U00717,T00360,Task is still pending and requires follow-up.,pending,2026-06-29 00:00
+U00718,T00835,Task is currently in progress.,in_progress,2026-08-16 00:00
+U00719,T01169,Task is currently in progress.,in_progress,2026-03-12 00:00
+U00720,T00324,Task is blocked pending clarification or approval.,blocked,2026-08-03 00:00
+U00721,T00854,Task is still pending and requires follow-up.,pending,2026-06-10 00:00
+U00722,T00505,Task is still pending and requires follow-up.,pending,2026-09-02 00:00
+U00723,T00810,Task is still pending and requires follow-up.,pending,2026-02-10 00:00
+U00724,T00634,Task completed successfully and evidence was recorded.,completed,2026-06-27 00:00
+U00725,T00966,Task is still pending and requires follow-up.,pending,2026-07-28 00:00
+U00726,T01055,Task completed successfully and evidence was recorded.,completed,2026-07-24 00:00
+U00727,T01264,Task is currently in progress.,in_progress,2026-06-10 00:00
+U00728,T01029,Task completed successfully and evidence was recorded.,completed,2026-06-15 00:00
+U00729,T01367,Task is blocked pending clarification or approval.,blocked,2026-08-28 00:00
+U00730,T00155,Task completed successfully and evidence was recorded.,completed,2026-06-04 00:00
+U00731,T01037,Task completed successfully and evidence was recorded.,completed,2026-06-07 00:00
+U00732,T01095,Task completed successfully and evidence was recorded.,completed,2026-03-13 00:00
+U00733,T00040,Task is still pending and requires follow-up.,pending,2026-03-05 00:00
+U00734,T00807,Task is still pending and requires follow-up.,pending,2026-04-27 00:00
+U00735,T00301,Task is currently in progress.,in_progress,2026-07-23 00:00
+U00736,T00619,Task is currently in progress.,in_progress,2026-08-05 00:00
+U00737,T00261,Task is still pending and requires follow-up.,pending,2026-05-08 00:00
+U00738,T00737,Task is currently in progress.,in_progress,2026-02-08 00:00
+U00739,T00799,Task is blocked pending clarification or approval.,blocked,2026-03-05 00:00
+U00740,T00275,Task is blocked pending clarification or approval.,blocked,2026-02-19 00:00
+U00741,T00380,Task is still pending and requires follow-up.,pending,2026-01-31 00:00
+U00742,T00646,Task is currently in progress.,in_progress,2026-03-06 00:00
+U00743,T00300,Task is currently in progress.,in_progress,2026-01-17 00:00
+U00744,T00198,Task is blocked pending clarification or approval.,blocked,2026-06-12 00:00
+U00745,T01185,Task is still pending and requires follow-up.,pending,2026-07-22 00:00
+U00746,T00381,Task is blocked pending clarification or approval.,blocked,2026-03-10 00:00
+U00747,T00741,Task completed successfully and evidence was recorded.,completed,2026-01-26 00:00
+U00748,T01444,Task is blocked pending clarification or approval.,blocked,2026-04-01 00:00
+U00749,T01439,Task completed successfully and evidence was recorded.,completed,2026-04-23 00:00
+U00750,T00009,Task is blocked pending clarification or approval.,blocked,2026-02-18 00:00
+U00751,T00607,Task is currently in progress.,in_progress,2026-08-17 00:00
+U00752,T00218,Task is still pending and requires follow-up.,pending,2026-02-25 00:00
+U00753,T01191,Task is blocked pending clarification or approval.,blocked,2026-04-24 00:00
+U00754,T01478,Task completed successfully and evidence was recorded.,completed,2026-09-05 00:00
+U00755,T00699,Task is blocked pending clarification or approval.,blocked,2026-03-28 00:00
+U00756,T00306,Task is blocked pending clarification or approval.,blocked,2026-04-16 00:00
+U00757,T00625,Task is blocked pending clarification or approval.,blocked,2026-01-21 00:00
+U00758,T01394,Task completed successfully and evidence was recorded.,completed,2026-05-16 00:00
+U00759,T00176,Task is still pending and requires follow-up.,pending,2026-08-26 00:00
+U00760,T00276,Task completed successfully and evidence was recorded.,completed,2026-05-01 00:00
+U00761,T00318,Task is still pending and requires follow-up.,pending,2026-07-12 00:00
+U00762,T01175,Task completed successfully and evidence was recorded.,completed,2026-06-03 00:00
+U00763,T01454,Task completed successfully and evidence was recorded.,completed,2026-05-22 00:00
+U00764,T00539,Task is blocked pending clarification or approval.,blocked,2026-03-30 00:00
+U00765,T00748,Task completed successfully and evidence was recorded.,completed,2026-07-22 00:00
+U00766,T00842,Task is still pending and requires follow-up.,pending,2026-04-25 00:00
+U00767,T01189,Task is currently in progress.,in_progress,2026-08-24 00:00
+U00768,T00130,Task is blocked pending clarification or approval.,blocked,2026-05-02 00:00
+U00769,T00862,Task is currently in progress.,in_progress,2026-04-05 00:00
+U00770,T01270,Task completed successfully and evidence was recorded.,completed,2026-09-03 00:00
+U00771,T01223,Task is blocked pending clarification or approval.,blocked,2026-08-04 00:00
+U00772,T00845,Task is blocked pending clarification or approval.,blocked,2026-04-18 00:00
+U00773,T00126,Task is still pending and requires follow-up.,pending,2026-02-09 00:00
+U00774,T00405,Task is blocked pending clarification or approval.,blocked,2026-03-16 00:00
+U00775,T00628,Task is currently in progress.,in_progress,2026-06-29 00:00
+U00776,T00214,Task is currently in progress.,in_progress,2026-03-06 00:00
+U00777,T00923,Task completed successfully and evidence was recorded.,completed,2026-07-12 00:00
+U00778,T00551,Task is still pending and requires follow-up.,pending,2026-08-20 00:00
+U00779,T01393,Task is currently in progress.,in_progress,2026-09-11 00:00
+U00780,T00318,Task is currently in progress.,in_progress,2026-06-09 00:00
+U00781,T00213,Task is blocked pending clarification or approval.,blocked,2026-02-13 00:00
+U00782,T00881,Task is still pending and requires follow-up.,pending,2026-02-04 00:00
+U00783,T01019,Task is blocked pending clarification or approval.,blocked,2026-05-05 00:00
+U00784,T00557,Task is currently in progress.,in_progress,2026-02-11 00:00
+U00785,T00371,Task is still pending and requires follow-up.,pending,2026-01-30 00:00
+U00786,T00381,Task is currently in progress.,in_progress,2026-02-07 00:00
+U00787,T01323,Task completed successfully and evidence was recorded.,completed,2026-07-31 00:00
+U00788,T01468,Task is blocked pending clarification or approval.,blocked,2026-02-23 00:00
+U00789,T01052,Task completed successfully and evidence was recorded.,completed,2026-06-25 00:00
+U00790,T01398,Task completed successfully and evidence was recorded.,completed,2026-08-27 00:00
+U00791,T00477,Task is currently in progress.,in_progress,2026-04-28 00:00
+U00792,T00418,Task completed successfully and evidence was recorded.,completed,2026-05-01 00:00
+U00793,T00670,Task completed successfully and evidence was recorded.,completed,2026-01-13 00:00
+U00794,T01356,Task is still pending and requires follow-up.,pending,2026-06-05 00:00
+U00795,T00749,Task is still pending and requires follow-up.,pending,2026-07-10 00:00
+U00796,T01146,Task is currently in progress.,in_progress,2026-01-08 00:00
+U00797,T01037,Task is still pending and requires follow-up.,pending,2026-03-06 00:00
+U00798,T00345,Task is blocked pending clarification or approval.,blocked,2026-01-30 00:00
+U00799,T00050,Task is currently in progress.,in_progress,2026-03-26 00:00
+U00800,T00425,Task is currently in progress.,in_progress,2026-01-27 00:00
+U00801,T00446,Task is currently in progress.,in_progress,2026-06-20 00:00
+U00802,T00874,Task is still pending and requires follow-up.,pending,2026-06-26 00:00
+U00803,T01452,Task is currently in progress.,in_progress,2026-03-03 00:00
+U00804,T00135,Task is blocked pending clarification or approval.,blocked,2026-09-08 00:00
+U00805,T00160,Task completed successfully and evidence was recorded.,completed,2026-08-21 00:00
+U00806,T00780,Task is still pending and requires follow-up.,pending,2026-08-31 00:00
+U00807,T00401,Task is currently in progress.,in_progress,2026-03-12 00:00
+U00808,T00914,Task completed successfully and evidence was recorded.,completed,2026-07-03 00:00
+U00809,T00735,Task is currently in progress.,in_progress,2026-08-14 00:00
+U00810,T00433,Task is still pending and requires follow-up.,pending,2026-09-01 00:00
+U00811,T01309,Task is still pending and requires follow-up.,pending,2026-03-28 00:00
+U00812,T00620,Task completed successfully and evidence was recorded.,completed,2026-05-09 00:00
+U00813,T00841,Task is still pending and requires follow-up.,pending,2026-06-30 00:00
+U00814,T01381,Task is still pending and requires follow-up.,pending,2026-01-13 00:00
+U00815,T00816,Task is still pending and requires follow-up.,pending,2026-05-30 00:00
+U00816,T01321,Task is currently in progress.,in_progress,2026-04-02 00:00
+U00817,T01129,Task completed successfully and evidence was recorded.,completed,2026-02-18 00:00
+U00818,T01050,Task is currently in progress.,in_progress,2026-04-03 00:00
+U00819,T00944,Task completed successfully and evidence was recorded.,completed,2026-06-26 00:00
+U00820,T01141,Task is blocked pending clarification or approval.,blocked,2026-05-31 00:00
+U00821,T01407,Task completed successfully and evidence was recorded.,completed,2026-07-17 00:00
+U00822,T01156,Task completed successfully and evidence was recorded.,completed,2026-04-24 00:00
+U00823,T00361,Task is currently in progress.,in_progress,2026-09-03 00:00
+U00824,T00601,Task is still pending and requires follow-up.,pending,2026-02-01 00:00
+U00825,T00620,Task is currently in progress.,in_progress,2026-03-09 00:00
+U00826,T01495,Task is blocked pending clarification or approval.,blocked,2026-04-01 00:00
+U00827,T00205,Task is still pending and requires follow-up.,pending,2026-03-01 00:00
+U00828,T01060,Task is blocked pending clarification or approval.,blocked,2026-02-02 00:00
+U00829,T00457,Task is blocked pending clarification or approval.,blocked,2026-05-04 00:00
+U00830,T01418,Task is currently in progress.,in_progress,2026-08-10 00:00
+U00831,T00791,Task completed successfully and evidence was recorded.,completed,2026-04-25 00:00
+U00832,T00206,Task is blocked pending clarification or approval.,blocked,2026-08-04 00:00
+U00833,T00023,Task is currently in progress.,in_progress,2026-03-15 00:00
+U00834,T00494,Task is still pending and requires follow-up.,pending,2026-04-30 00:00
+U00835,T01397,Task completed successfully and evidence was recorded.,completed,2026-05-08 00:00
+U00836,T01369,Task is still pending and requires follow-up.,pending,2026-04-12 00:00
+U00837,T00962,Task completed successfully and evidence was recorded.,completed,2026-02-06 00:00
+U00838,T01021,Task is currently in progress.,in_progress,2026-05-08 00:00
+U00839,T00009,Task is blocked pending clarification or approval.,blocked,2026-06-09 00:00
+U00840,T00768,Task is still pending and requires follow-up.,pending,2026-07-29 00:00
+U00841,T00160,Task is still pending and requires follow-up.,pending,2026-02-01 00:00
+U00842,T00929,Task is currently in progress.,in_progress,2026-08-12 00:00
+U00843,T00001,Task is blocked pending clarification or approval.,blocked,2026-06-13 00:00
+U00844,T00924,Task is still pending and requires follow-up.,pending,2026-06-06 00:00
+U00845,T00873,Task is blocked pending clarification or approval.,blocked,2026-02-10 00:00
+U00846,T00108,Task is currently in progress.,in_progress,2026-01-27 00:00
+U00847,T01136,Task is blocked pending clarification or approval.,blocked,2026-02-17 00:00
+U00848,T01256,Task is still pending and requires follow-up.,pending,2026-01-21 00:00
+U00849,T01262,Task completed successfully and evidence was recorded.,completed,2026-06-19 00:00
+U00850,T00773,Task is blocked pending clarification or approval.,blocked,2026-05-26 00:00
+U00851,T01296,Task is blocked pending clarification or approval.,blocked,2026-03-26 00:00
+U00852,T01413,Task is blocked pending clarification or approval.,blocked,2026-06-30 00:00
+U00853,T00529,Task is blocked pending clarification or approval.,blocked,2026-09-08 00:00
+U00854,T00530,Task completed successfully and evidence was recorded.,completed,2026-08-20 00:00
+U00855,T00240,Task is still pending and requires follow-up.,pending,2026-06-17 00:00
+U00856,T00745,Task is currently in progress.,in_progress,2026-03-09 00:00
+U00857,T00248,Task is blocked pending clarification or approval.,blocked,2026-09-11 00:00
+U00858,T00686,Task is currently in progress.,in_progress,2026-07-28 00:00
+U00859,T00003,Task is currently in progress.,in_progress,2026-04-15 00:00
+U00860,T00211,Task is blocked pending clarification or approval.,blocked,2026-02-02 00:00
+U00861,T00605,Task is still pending and requires follow-up.,pending,2026-05-23 00:00
+U00862,T00557,Task completed successfully and evidence was recorded.,completed,2026-03-04 00:00
+U00863,T01235,Task is blocked pending clarification or approval.,blocked,2026-02-06 00:00
+U00864,T00776,Task is blocked pending clarification or approval.,blocked,2026-04-01 00:00
+U00865,T00577,Task is currently in progress.,in_progress,2026-04-27 00:00
+U00866,T00857,Task completed successfully and evidence was recorded.,completed,2026-06-02 00:00
+U00867,T00603,Task completed successfully and evidence was recorded.,completed,2026-03-12 00:00
+U00868,T00266,Task is currently in progress.,in_progress,2026-09-01 00:00
+U00869,T01352,Task completed successfully and evidence was recorded.,completed,2026-06-11 00:00
+U00870,T00723,Task is blocked pending clarification or approval.,blocked,2026-02-24 00:00
+U00871,T00837,Task completed successfully and evidence was recorded.,completed,2026-03-01 00:00
+U00872,T01044,Task is currently in progress.,in_progress,2026-06-19 00:00
+U00873,T00660,Task is still pending and requires follow-up.,pending,2026-05-14 00:00
+U00874,T01071,Task is still pending and requires follow-up.,pending,2026-02-22 00:00
+U00875,T00238,Task is still pending and requires follow-up.,pending,2026-02-12 00:00
+U00876,T01266,Task is blocked pending clarification or approval.,blocked,2026-05-09 00:00
+U00877,T01049,Task is still pending and requires follow-up.,pending,2026-08-21 00:00
+U00878,T00633,Task is still pending and requires follow-up.,pending,2026-08-31 00:00
+U00879,T00736,Task is currently in progress.,in_progress,2026-06-12 00:00
+U00880,T01186,Task completed successfully and evidence was recorded.,completed,2026-08-16 00:00
+U00881,T01243,Task is blocked pending clarification or approval.,blocked,2026-08-18 00:00
+U00882,T00955,Task is blocked pending clarification or approval.,blocked,2026-03-09 00:00
+U00883,T01050,Task is currently in progress.,in_progress,2026-05-16 00:00
+U00884,T00803,Task is still pending and requires follow-up.,pending,2026-02-10 00:00
+U00885,T00685,Task is currently in progress.,in_progress,2026-03-04 00:00
+U00886,T00999,Task is blocked pending clarification or approval.,blocked,2026-02-24 00:00
+U00887,T00863,Task is blocked pending clarification or approval.,blocked,2026-02-19 00:00
+U00888,T01030,Task is blocked pending clarification or approval.,blocked,2026-01-29 00:00
+U00889,T00158,Task is blocked pending clarification or approval.,blocked,2026-07-31 00:00
+U00890,T00238,Task is blocked pending clarification or approval.,blocked,2026-04-09 00:00
+U00891,T00435,Task is currently in progress.,in_progress,2026-06-06 00:00
+U00892,T00682,Task is currently in progress.,in_progress,2026-09-12 00:00
+U00893,T00400,Task is currently in progress.,in_progress,2026-08-29 00:00
+U00894,T00757,Task completed successfully and evidence was recorded.,completed,2026-04-23 00:00
+U00895,T01363,Task is currently in progress.,in_progress,2026-05-13 00:00
+U00896,T01347,Task is still pending and requires follow-up.,pending,2026-06-09 00:00
+U00897,T00540,Task is blocked pending clarification or approval.,blocked,2026-03-06 00:00
+U00898,T00126,Task is blocked pending clarification or approval.,blocked,2026-07-04 00:00
+U00899,T00309,Task is currently in progress.,in_progress,2026-03-29 00:00
+U00900,T01423,Task is currently in progress.,in_progress,2026-02-05 00:00
+U00901,T00915,Task is still pending and requires follow-up.,pending,2026-07-03 00:00
+U00902,T01263,Task is currently in progress.,in_progress,2026-08-26 00:00
+U00903,T00450,Task completed successfully and evidence was recorded.,completed,2026-03-25 00:00
+U00904,T01160,Task completed successfully and evidence was recorded.,completed,2026-03-13 00:00
+U00905,T00326,Task completed successfully and evidence was recorded.,completed,2026-04-06 00:00
+U00906,T00517,Task is currently in progress.,in_progress,2026-07-08 00:00
+U00907,T00068,Task is blocked pending clarification or approval.,blocked,2026-05-03 00:00
+U00908,T00798,Task is still pending and requires follow-up.,pending,2026-03-25 00:00
+U00909,T00293,Task is currently in progress.,in_progress,2026-05-11 00:00
+U00910,T00536,Task completed successfully and evidence was recorded.,completed,2026-03-25 00:00
+U00911,T00047,Task is currently in progress.,in_progress,2026-02-14 00:00
+U00912,T01372,Task is blocked pending clarification or approval.,blocked,2026-06-16 00:00
+U00913,T01415,Task is blocked pending clarification or approval.,blocked,2026-08-30 00:00
+U00914,T00041,Task is still pending and requires follow-up.,pending,2026-04-09 00:00
+U00915,T00516,Task is blocked pending clarification or approval.,blocked,2026-04-25 00:00
+U00916,T00779,Task is still pending and requires follow-up.,pending,2026-01-17 00:00
+U00917,T00928,Task is blocked pending clarification or approval.,blocked,2026-05-31 00:00
+U00918,T01245,Task is blocked pending clarification or approval.,blocked,2026-03-28 00:00
+U00919,T00158,Task completed successfully and evidence was recorded.,completed,2026-06-03 00:00
+U00920,T00058,Task is blocked pending clarification or approval.,blocked,2026-07-04 00:00
+U00921,T01343,Task is currently in progress.,in_progress,2026-07-20 00:00
+U00922,T00202,Task is currently in progress.,in_progress,2026-01-10 00:00
+U00923,T00999,Task is still pending and requires follow-up.,pending,2026-08-04 00:00
+U00924,T00468,Task is currently in progress.,in_progress,2026-09-05 00:00
+U00925,T00836,Task completed successfully and evidence was recorded.,completed,2026-04-07 00:00
+U00926,T01488,Task completed successfully and evidence was recorded.,completed,2026-03-15 00:00
+U00927,T00243,Task completed successfully and evidence was recorded.,completed,2026-05-12 00:00
+U00928,T00103,Task is still pending and requires follow-up.,pending,2026-05-29 00:00
+U00929,T00311,Task is still pending and requires follow-up.,pending,2026-01-18 00:00
+U00930,T01204,Task is still pending and requires follow-up.,pending,2026-08-03 00:00
+U00931,T00651,Task completed successfully and evidence was recorded.,completed,2026-07-17 00:00
+U00932,T01434,Task is still pending and requires follow-up.,pending,2026-06-12 00:00
+U00933,T00059,Task completed successfully and evidence was recorded.,completed,2026-02-19 00:00
+U00934,T01199,Task is currently in progress.,in_progress,2026-01-16 00:00
+U00935,T00132,Task completed successfully and evidence was recorded.,completed,2026-03-23 00:00
+U00936,T00904,Task is currently in progress.,in_progress,2026-08-24 00:00
+U00937,T01382,Task is blocked pending clarification or approval.,blocked,2026-02-19 00:00
+U00938,T01264,Task completed successfully and evidence was recorded.,completed,2026-07-05 00:00
+U00939,T00712,Task is currently in progress.,in_progress,2026-03-28 00:00
+U00940,T00260,Task is still pending and requires follow-up.,pending,2026-05-08 00:00
+U00941,T01033,Task is still pending and requires follow-up.,pending,2026-07-01 00:00
+U00942,T01266,Task completed successfully and evidence was recorded.,completed,2026-03-10 00:00
+U00943,T01256,Task is blocked pending clarification or approval.,blocked,2026-04-03 00:00
+U00944,T00984,Task is currently in progress.,in_progress,2026-03-26 00:00
+U00945,T00772,Task is currently in progress.,in_progress,2026-03-18 00:00
+U00946,T00280,Task is blocked pending clarification or approval.,blocked,2026-03-05 00:00
+U00947,T00401,Task is still pending and requires follow-up.,pending,2026-08-03 00:00
+U00948,T00504,Task is currently in progress.,in_progress,2026-08-19 00:00
+U00949,T01496,Task is blocked pending clarification or approval.,blocked,2026-04-02 00:00
+U00950,T00136,Task completed successfully and evidence was recorded.,completed,2026-02-27 00:00
+U00951,T01461,Task is currently in progress.,in_progress,2026-05-28 00:00
+U00952,T00410,Task completed successfully and evidence was recorded.,completed,2026-05-28 00:00
+U00953,T00283,Task is currently in progress.,in_progress,2026-01-27 00:00
+U00954,T00427,Task completed successfully and evidence was recorded.,completed,2026-02-04 00:00
+U00955,T00865,Task completed successfully and evidence was recorded.,completed,2026-04-18 00:00
+U00956,T01356,Task is currently in progress.,in_progress,2026-06-23 00:00
+U00957,T00539,Task completed successfully and evidence was recorded.,completed,2026-02-25 00:00
+U00958,T00750,Task is still pending and requires follow-up.,pending,2026-08-16 00:00
+U00959,T00596,Task completed successfully and evidence was recorded.,completed,2026-09-09 00:00
+U00960,T00994,Task is blocked pending clarification or approval.,blocked,2026-07-13 00:00
+U00961,T01281,Task is still pending and requires follow-up.,pending,2026-02-26 00:00
+U00962,T00584,Task is still pending and requires follow-up.,pending,2026-09-01 00:00
+U00963,T01452,Task completed successfully and evidence was recorded.,completed,2026-09-07 00:00
+U00964,T01441,Task is blocked pending clarification or approval.,blocked,2026-02-02 00:00
+U00965,T01121,Task is still pending and requires follow-up.,pending,2026-08-05 00:00
+U00966,T00205,Task is still pending and requires follow-up.,pending,2026-01-28 00:00
+U00967,T00785,Task completed successfully and evidence was recorded.,completed,2026-08-19 00:00
+U00968,T00889,Task is still pending and requires follow-up.,pending,2026-05-30 00:00
+U00969,T00338,Task is still pending and requires follow-up.,pending,2026-01-22 00:00
+U00970,T01082,Task is blocked pending clarification or approval.,blocked,2026-05-03 00:00
+U00971,T01301,Task completed successfully and evidence was recorded.,completed,2026-06-26 00:00
+U00972,T00174,Task completed successfully and evidence was recorded.,completed,2026-05-24 00:00
+U00973,T00125,Task is still pending and requires follow-up.,pending,2026-08-29 00:00
+U00974,T00483,Task is still pending and requires follow-up.,pending,2026-08-20 00:00
+U00975,T00818,Task is blocked pending clarification or approval.,blocked,2026-08-25 00:00
+U00976,T00013,Task is still pending and requires follow-up.,pending,2026-07-28 00:00
+U00977,T01373,Task is currently in progress.,in_progress,2026-04-30 00:00
+U00978,T01246,Task is currently in progress.,in_progress,2026-03-07 00:00
+U00979,T00733,Task is blocked pending clarification or approval.,blocked,2026-03-25 00:00
+U00980,T00554,Task completed successfully and evidence was recorded.,completed,2026-08-24 00:00
+U00981,T00143,Task is still pending and requires follow-up.,pending,2026-04-04 00:00
+U00982,T00598,Task is blocked pending clarification or approval.,blocked,2026-07-01 00:00
+U00983,T00379,Task is blocked pending clarification or approval.,blocked,2026-03-09 00:00
+U00984,T01213,Task is blocked pending clarification or approval.,blocked,2026-02-15 00:00
+U00985,T00628,Task completed successfully and evidence was recorded.,completed,2026-06-23 00:00
+U00986,T00322,Task is still pending and requires follow-up.,pending,2026-05-13 00:00
+U00987,T01439,Task is currently in progress.,in_progress,2026-09-09 00:00
+U00988,T01276,Task is still pending and requires follow-up.,pending,2026-01-19 00:00
+U00989,T00462,Task completed successfully and evidence was recorded.,completed,2026-05-06 00:00
+U00990,T01298,Task is currently in progress.,in_progress,2026-06-13 00:00
+U00991,T00155,Task is currently in progress.,in_progress,2026-03-28 00:00
+U00992,T00021,Task completed successfully and evidence was recorded.,completed,2026-06-07 00:00
+U00993,T01317,Task completed successfully and evidence was recorded.,completed,2026-06-21 00:00
+U00994,T00392,Task is currently in progress.,in_progress,2026-07-20 00:00
+U00995,T00982,Task is still pending and requires follow-up.,pending,2026-05-18 00:00
+U00996,T00771,Task is still pending and requires follow-up.,pending,2026-06-11 00:00
+U00997,T00697,Task is still pending and requires follow-up.,pending,2026-06-01 00:00
+U00998,T01310,Task completed successfully and evidence was recorded.,completed,2026-01-11 00:00
+U00999,T00785,Task is blocked pending clarification or approval.,blocked,2026-03-03 00:00
+U01000,T00451,Task is still pending and requires follow-up.,pending,2026-08-28 00:00

@@ -1,0 +1,1501 @@
+decision_id,source_id,decision_text,status
+D00001,M02775,Update project documentation for client demo,confirmed
+D00002,M00953,Prepare release checklist for deployment,ambiguous
+D00003,M03261,Complete security review for production deployment,confirmed
+D00004,M02470,Review client requirements for project scope,ambiguous
+D00005,M01706,Validate new metrics for reporting,confirmed
+D00006,M03979,Prepare data quality report for data pipeline,confirmed
+D00007,M03987,Update project documentation for client demo,pending_deadline
+D00008,M03666,Validate new metrics for reporting,confirmed
+D00009,M00232,Validate new metrics for reporting,confirmed
+D00010,M01007,Complete etl integration for dashboard,confirmed
+D00011,M02831,Validate migration results for reporting pipeline,confirmed
+D00012,M02826,Complete dashboard testing for analytics dashboard,pending_deadline
+D00013,M01407,Validate new metrics for reporting,confirmed
+D00014,M00702,Review client requirements for project scope,confirmed
+D00015,M03633,Update project documentation for client demo,confirmed
+D00016,M00132,Complete dashboard testing for analytics dashboard,confirmed
+D00017,M01488,Prepare release checklist for deployment,pending_deadline
+D00018,M02673,Update project documentation for client demo,confirmed
+D00019,M01190,Validate migration results for reporting pipeline,confirmed
+D00020,M01914,Complete dashboard testing for analytics dashboard,pending_deadline
+D00021,M01086,Complete api integration for client platform,confirmed
+D00022,M02628,Complete security review for production deployment,ambiguous
+D00023,M00332,Review client requirements for project scope,confirmed
+D00024,M00736,Validate new metrics for reporting,confirmed
+D00025,M00450,Validate migration results for reporting pipeline,confirmed
+D00026,M00456,Validate new metrics for reporting,confirmed
+D00027,M02012,Complete security review for production deployment,pending_deadline
+D00028,M02706,Complete dashboard testing for analytics dashboard,confirmed
+D00029,M02443,Prepare data quality report for data pipeline,confirmed
+D00030,M01807,Finalize deployment plan for release,confirmed
+D00031,M03717,Complete api integration for client platform,confirmed
+D00032,M02031,Verify model outputs for analytics model,confirmed
+D00033,M00485,Update project documentation for client demo,pending_deadline
+D00034,M00251,Finalize deployment plan for release,ambiguous
+D00035,M01070,Verify model outputs for analytics model,confirmed
+D00036,M02167,Complete dashboard testing for analytics dashboard,confirmed
+D00037,M02330,Verify model outputs for analytics model,pending_deadline
+D00038,M00200,Prepare data quality report for data pipeline,ambiguous
+D00039,M02285,Complete dashboard testing for analytics dashboard,confirmed
+D00040,M00806,Complete etl integration for dashboard,ambiguous
+D00041,M00376,Complete dashboard testing for analytics dashboard,confirmed
+D00042,M01229,Prepare release checklist for deployment,confirmed
+D00043,M02622,Complete security review for production deployment,confirmed
+D00044,M03051,Verify model outputs for analytics model,confirmed
+D00045,M01101,Complete etl integration for dashboard,confirmed
+D00046,M03017,Validate new metrics for reporting,confirmed
+D00047,M00109,Complete api integration for client platform,confirmed
+D00048,M00993,Complete dashboard testing for analytics dashboard,confirmed
+D00049,M03609,Validate migration results for reporting pipeline,confirmed
+D00050,M02012,Prepare release checklist for deployment,confirmed
+D00051,M01581,Complete etl integration for dashboard,confirmed
+D00052,M03480,Prepare data quality report for data pipeline,confirmed
+D00053,M02382,Validate migration results for reporting pipeline,confirmed
+D00054,M00675,Complete etl integration for dashboard,confirmed
+D00055,M00783,Validate new metrics for reporting,confirmed
+D00056,M03727,Complete etl integration for dashboard,confirmed
+D00057,M01969,Review client requirements for project scope,needs_review
+D00058,M02544,Validate new metrics for reporting,ambiguous
+D00059,M03942,Update project documentation for client demo,confirmed
+D00060,M00463,Complete etl integration for dashboard,confirmed
+D00061,M03640,Complete dashboard testing for analytics dashboard,ambiguous
+D00062,M02528,Complete dashboard testing for analytics dashboard,confirmed
+D00063,M00151,Complete api integration for client platform,confirmed
+D00064,M01560,Complete api integration for client platform,ambiguous
+D00065,M03083,Review client requirements for project scope,pending_deadline
+D00066,M00672,Complete etl integration for dashboard,confirmed
+D00067,M01172,Complete dashboard testing for analytics dashboard,pending_deadline
+D00068,M00559,Validate new metrics for reporting,confirmed
+D00069,M01949,Prepare data quality report for data pipeline,confirmed
+D00070,M02890,Validate new metrics for reporting,confirmed
+D00071,M01450,Finalize deployment plan for release,confirmed
+D00072,M02887,Prepare release checklist for deployment,confirmed
+D00073,M03552,Complete dashboard testing for analytics dashboard,confirmed
+D00074,M01326,Prepare release checklist for deployment,confirmed
+D00075,M03668,Prepare release checklist for deployment,ambiguous
+D00076,M02064,Complete api integration for client platform,confirmed
+D00077,M01393,Prepare data quality report for data pipeline,confirmed
+D00078,M01922,Verify model outputs for analytics model,confirmed
+D00079,M03408,Validate new metrics for reporting,confirmed
+D00080,M00065,Complete dashboard testing for analytics dashboard,confirmed
+D00081,M00409,Finalize deployment plan for release,confirmed
+D00082,M02480,Prepare release checklist for deployment,confirmed
+D00083,M00424,Complete etl integration for dashboard,ambiguous
+D00084,M03348,Complete api integration for client platform,confirmed
+D00085,M00969,Validate new metrics for reporting,ambiguous
+D00086,M03583,Review client requirements for project scope,confirmed
+D00087,M02260,Complete api integration for client platform,confirmed
+D00088,M01570,Prepare release checklist for deployment,confirmed
+D00089,M02529,Update project documentation for client demo,confirmed
+D00090,M02771,Validate new metrics for reporting,confirmed
+D00091,M01992,Validate migration results for reporting pipeline,ambiguous
+D00092,M00357,Validate migration results for reporting pipeline,confirmed
+D00093,M00531,Complete security review for production deployment,confirmed
+D00094,M01556,Verify model outputs for analytics model,confirmed
+D00095,M00426,Complete etl integration for dashboard,pending_deadline
+D00096,M00536,Finalize deployment plan for release,confirmed
+D00097,M00250,Finalize deployment plan for release,needs_review
+D00098,M02485,Finalize deployment plan for release,confirmed
+D00099,M00985,Complete security review for production deployment,ambiguous
+D00100,M02626,Prepare data quality report for data pipeline,ambiguous
+D00101,M03129,Finalize deployment plan for release,confirmed
+D00102,M01832,Verify model outputs for analytics model,needs_review
+D00103,M03169,Prepare data quality report for data pipeline,pending_deadline
+D00104,M01991,Review client requirements for project scope,ambiguous
+D00105,M03273,Prepare release checklist for deployment,needs_review
+D00106,M00634,Validate migration results for reporting pipeline,confirmed
+D00107,M03864,Prepare release checklist for deployment,confirmed
+D00108,M01190,Prepare data quality report for data pipeline,ambiguous
+D00109,M03464,Validate migration results for reporting pipeline,confirmed
+D00110,M03300,Complete security review for production deployment,pending_deadline
+D00111,M03490,Complete api integration for client platform,ambiguous
+D00112,M03719,Complete api integration for client platform,confirmed
+D00113,M02809,Finalize deployment plan for release,pending_deadline
+D00114,M00857,Validate new metrics for reporting,confirmed
+D00115,M02780,Complete api integration for client platform,confirmed
+D00116,M00583,Update project documentation for client demo,confirmed
+D00117,M01391,Complete etl integration for dashboard,confirmed
+D00118,M00242,Complete dashboard testing for analytics dashboard,ambiguous
+D00119,M01403,Prepare release checklist for deployment,confirmed
+D00120,M00528,Complete security review for production deployment,confirmed
+D00121,M03031,Prepare data quality report for data pipeline,pending_deadline
+D00122,M00907,Finalize deployment plan for release,confirmed
+D00123,M00827,Prepare data quality report for data pipeline,confirmed
+D00124,M01015,Complete security review for production deployment,confirmed
+D00125,M01709,Complete dashboard testing for analytics dashboard,confirmed
+D00126,M01780,Complete etl integration for dashboard,confirmed
+D00127,M02094,Complete security review for production deployment,confirmed
+D00128,M03239,Update project documentation for client demo,confirmed
+D00129,M01670,Validate migration results for reporting pipeline,confirmed
+D00130,M02041,Prepare data quality report for data pipeline,confirmed
+D00131,M00590,Complete security review for production deployment,confirmed
+D00132,M03695,Complete api integration for client platform,pending_deadline
+D00133,M00773,Prepare release checklist for deployment,confirmed
+D00134,M01175,Prepare release checklist for deployment,needs_review
+D00135,M00271,Validate migration results for reporting pipeline,ambiguous
+D00136,M03299,Complete etl integration for dashboard,needs_review
+D00137,M00829,Complete etl integration for dashboard,confirmed
+D00138,M01531,Complete dashboard testing for analytics dashboard,confirmed
+D00139,M02663,Update project documentation for client demo,confirmed
+D00140,M03295,Complete etl integration for dashboard,confirmed
+D00141,M02773,Verify model outputs for analytics model,confirmed
+D00142,M00816,Update project documentation for client demo,confirmed
+D00143,M02267,Complete etl integration for dashboard,ambiguous
+D00144,M02803,Complete etl integration for dashboard,confirmed
+D00145,M03809,Prepare data quality report for data pipeline,ambiguous
+D00146,M02963,Prepare data quality report for data pipeline,needs_review
+D00147,M03208,Prepare data quality report for data pipeline,confirmed
+D00148,M01705,Prepare data quality report for data pipeline,confirmed
+D00149,M01463,Complete dashboard testing for analytics dashboard,confirmed
+D00150,M03628,Update project documentation for client demo,confirmed
+D00151,M03944,Validate migration results for reporting pipeline,confirmed
+D00152,M03302,Update project documentation for client demo,confirmed
+D00153,M03028,Validate migration results for reporting pipeline,pending_deadline
+D00154,M00573,Complete api integration for client platform,confirmed
+D00155,M01291,Update project documentation for client demo,confirmed
+D00156,M00202,Complete api integration for client platform,ambiguous
+D00157,M00555,Prepare release checklist for deployment,confirmed
+D00158,M02674,Update project documentation for client demo,confirmed
+D00159,M03053,Complete dashboard testing for analytics dashboard,needs_review
+D00160,M02131,Finalize deployment plan for release,ambiguous
+D00161,M00117,Complete etl integration for dashboard,confirmed
+D00162,M01026,Validate new metrics for reporting,confirmed
+D00163,M03259,Complete etl integration for dashboard,confirmed
+D00164,M01153,Finalize deployment plan for release,confirmed
+D00165,M00506,Complete dashboard testing for analytics dashboard,ambiguous
+D00166,M01956,Complete security review for production deployment,confirmed
+D00167,M03835,Complete dashboard testing for analytics dashboard,confirmed
+D00168,M01003,Verify model outputs for analytics model,confirmed
+D00169,M02856,Prepare data quality report for data pipeline,confirmed
+D00170,M00714,Complete dashboard testing for analytics dashboard,confirmed
+D00171,M02322,Prepare data quality report for data pipeline,pending_deadline
+D00172,M01413,Verify model outputs for analytics model,confirmed
+D00173,M00938,Review client requirements for project scope,confirmed
+D00174,M01860,Validate migration results for reporting pipeline,confirmed
+D00175,M02238,Review client requirements for project scope,confirmed
+D00176,M03140,Complete api integration for client platform,pending_deadline
+D00177,M02424,Complete dashboard testing for analytics dashboard,pending_deadline
+D00178,M01468,Validate new metrics for reporting,confirmed
+D00179,M01368,Complete api integration for client platform,confirmed
+D00180,M02896,Complete dashboard testing for analytics dashboard,confirmed
+D00181,M03345,Verify model outputs for analytics model,needs_review
+D00182,M01223,Complete dashboard testing for analytics dashboard,ambiguous
+D00183,M00592,Complete api integration for client platform,confirmed
+D00184,M01057,Finalize deployment plan for release,confirmed
+D00185,M03576,Prepare release checklist for deployment,confirmed
+D00186,M02030,Finalize deployment plan for release,confirmed
+D00187,M02023,Validate migration results for reporting pipeline,confirmed
+D00188,M01925,Complete api integration for client platform,confirmed
+D00189,M03132,Validate migration results for reporting pipeline,pending_deadline
+D00190,M01234,Prepare data quality report for data pipeline,needs_review
+D00191,M03067,Verify model outputs for analytics model,ambiguous
+D00192,M01735,Complete security review for production deployment,ambiguous
+D00193,M03904,Complete etl integration for dashboard,ambiguous
+D00194,M03718,Prepare release checklist for deployment,confirmed
+D00195,M03267,Verify model outputs for analytics model,confirmed
+D00196,M01981,Verify model outputs for analytics model,confirmed
+D00197,M01106,Complete etl integration for dashboard,confirmed
+D00198,M00434,Validate migration results for reporting pipeline,confirmed
+D00199,M01221,Prepare release checklist for deployment,confirmed
+D00200,M02532,Verify model outputs for analytics model,ambiguous
+D00201,M01579,Finalize deployment plan for release,confirmed
+D00202,M03454,Prepare data quality report for data pipeline,confirmed
+D00203,M02653,Prepare release checklist for deployment,confirmed
+D00204,M03775,Complete security review for production deployment,ambiguous
+D00205,M03091,Prepare data quality report for data pipeline,confirmed
+D00206,M02057,Validate migration results for reporting pipeline,needs_review
+D00207,M02786,Validate new metrics for reporting,pending_deadline
+D00208,M01603,Review client requirements for project scope,confirmed
+D00209,M01469,Validate migration results for reporting pipeline,confirmed
+D00210,M01495,Verify model outputs for analytics model,confirmed
+D00211,M03521,Validate new metrics for reporting,confirmed
+D00212,M02385,Complete etl integration for dashboard,confirmed
+D00213,M01723,Validate new metrics for reporting,confirmed
+D00214,M02619,Finalize deployment plan for release,confirmed
+D00215,M01518,Validate migration results for reporting pipeline,confirmed
+D00216,M00478,Update project documentation for client demo,confirmed
+D00217,M01369,Update project documentation for client demo,confirmed
+D00218,M01069,Validate migration results for reporting pipeline,confirmed
+D00219,M01529,Complete api integration for client platform,confirmed
+D00220,M02431,Validate migration results for reporting pipeline,needs_review
+D00221,M02627,Complete api integration for client platform,confirmed
+D00222,M03028,Review client requirements for project scope,pending_deadline
+D00223,M02867,Complete api integration for client platform,confirmed
+D00224,M01246,Prepare data quality report for data pipeline,confirmed
+D00225,M03389,Verify model outputs for analytics model,confirmed
+D00226,M01673,Validate migration results for reporting pipeline,confirmed
+D00227,M03809,Complete etl integration for dashboard,confirmed
+D00228,M02027,Complete dashboard testing for analytics dashboard,confirmed
+D00229,M01593,Complete security review for production deployment,confirmed
+D00230,M01424,Prepare release checklist for deployment,confirmed
+D00231,M01026,Update project documentation for client demo,confirmed
+D00232,M00494,Prepare data quality report for data pipeline,confirmed
+D00233,M02402,Validate migration results for reporting pipeline,confirmed
+D00234,M00835,Complete api integration for client platform,confirmed
+D00235,M03382,Validate new metrics for reporting,confirmed
+D00236,M02795,Review client requirements for project scope,confirmed
+D00237,M01417,Validate new metrics for reporting,confirmed
+D00238,M03229,Complete security review for production deployment,confirmed
+D00239,M01693,Finalize deployment plan for release,confirmed
+D00240,M00845,Prepare data quality report for data pipeline,confirmed
+D00241,M01604,Prepare release checklist for deployment,confirmed
+D00242,M03139,Review client requirements for project scope,confirmed
+D00243,M00266,Complete dashboard testing for analytics dashboard,pending_deadline
+D00244,M03433,Update project documentation for client demo,pending_deadline
+D00245,M00653,Update project documentation for client demo,confirmed
+D00246,M03082,Complete dashboard testing for analytics dashboard,ambiguous
+D00247,M00714,Complete dashboard testing for analytics dashboard,pending_deadline
+D00248,M01561,Prepare release checklist for deployment,ambiguous
+D00249,M00522,Finalize deployment plan for release,pending_deadline
+D00250,M00332,Review client requirements for project scope,confirmed
+D00251,M03084,Complete etl integration for dashboard,needs_review
+D00252,M03420,Complete etl integration for dashboard,confirmed
+D00253,M01759,Finalize deployment plan for release,confirmed
+D00254,M01692,Verify model outputs for analytics model,confirmed
+D00255,M01372,Verify model outputs for analytics model,needs_review
+D00256,M03583,Prepare release checklist for deployment,confirmed
+D00257,M02687,Review client requirements for project scope,ambiguous
+D00258,M01912,Complete api integration for client platform,confirmed
+D00259,M03848,Verify model outputs for analytics model,confirmed
+D00260,M01577,Update project documentation for client demo,confirmed
+D00261,M02950,Complete dashboard testing for analytics dashboard,confirmed
+D00262,M02078,Verify model outputs for analytics model,confirmed
+D00263,M01697,Complete api integration for client platform,confirmed
+D00264,M01378,Update project documentation for client demo,confirmed
+D00265,M02802,Complete api integration for client platform,confirmed
+D00266,M00709,Complete dashboard testing for analytics dashboard,needs_review
+D00267,M00127,Prepare data quality report for data pipeline,confirmed
+D00268,M01414,Verify model outputs for analytics model,ambiguous
+D00269,M02704,Complete security review for production deployment,confirmed
+D00270,M03030,Complete security review for production deployment,pending_deadline
+D00271,M01836,Validate new metrics for reporting,confirmed
+D00272,M00402,Verify model outputs for analytics model,confirmed
+D00273,M03332,Complete etl integration for dashboard,confirmed
+D00274,M02054,Review client requirements for project scope,confirmed
+D00275,M03235,Complete security review for production deployment,confirmed
+D00276,M03166,Finalize deployment plan for release,confirmed
+D00277,M03479,Complete dashboard testing for analytics dashboard,ambiguous
+D00278,M02473,Review client requirements for project scope,confirmed
+D00279,M03275,Review client requirements for project scope,confirmed
+D00280,M02060,Complete etl integration for dashboard,pending_deadline
+D00281,M00303,Validate migration results for reporting pipeline,confirmed
+D00282,M01913,Prepare data quality report for data pipeline,confirmed
+D00283,M02353,Update project documentation for client demo,confirmed
+D00284,M00348,Finalize deployment plan for release,confirmed
+D00285,M03438,Complete security review for production deployment,confirmed
+D00286,M00683,Prepare release checklist for deployment,needs_review
+D00287,M03076,Validate migration results for reporting pipeline,pending_deadline
+D00288,M02685,Verify model outputs for analytics model,confirmed
+D00289,M03806,Verify model outputs for analytics model,ambiguous
+D00290,M03643,Complete api integration for client platform,confirmed
+D00291,M03506,Complete api integration for client platform,ambiguous
+D00292,M00778,Prepare release checklist for deployment,pending_deadline
+D00293,M01877,Validate new metrics for reporting,pending_deadline
+D00294,M00315,Review client requirements for project scope,confirmed
+D00295,M01790,Verify model outputs for analytics model,confirmed
+D00296,M03183,Prepare release checklist for deployment,pending_deadline
+D00297,M03485,Prepare release checklist for deployment,confirmed
+D00298,M01420,Prepare release checklist for deployment,confirmed
+D00299,M00769,Update project documentation for client demo,confirmed
+D00300,M02668,Complete api integration for client platform,ambiguous
+D00301,M01572,Validate migration results for reporting pipeline,confirmed
+D00302,M01167,Complete security review for production deployment,confirmed
+D00303,M00126,Validate new metrics for reporting,confirmed
+D00304,M03175,Verify model outputs for analytics model,confirmed
+D00305,M00141,Prepare data quality report for data pipeline,confirmed
+D00306,M03835,Complete security review for production deployment,confirmed
+D00307,M00573,Update project documentation for client demo,needs_review
+D00308,M02917,Review client requirements for project scope,needs_review
+D00309,M00411,Complete security review for production deployment,confirmed
+D00310,M03740,Complete api integration for client platform,confirmed
+D00311,M03492,Validate new metrics for reporting,needs_review
+D00312,M01815,Complete etl integration for dashboard,confirmed
+D00313,M01818,Complete dashboard testing for analytics dashboard,ambiguous
+D00314,M02062,Validate new metrics for reporting,confirmed
+D00315,M01979,Prepare data quality report for data pipeline,confirmed
+D00316,M02373,Finalize deployment plan for release,confirmed
+D00317,M03511,Prepare data quality report for data pipeline,ambiguous
+D00318,M03437,Complete api integration for client platform,confirmed
+D00319,M01960,Finalize deployment plan for release,confirmed
+D00320,M03354,Update project documentation for client demo,confirmed
+D00321,M00311,Complete dashboard testing for analytics dashboard,ambiguous
+D00322,M00024,Prepare release checklist for deployment,needs_review
+D00323,M01109,Review client requirements for project scope,confirmed
+D00324,M02029,Prepare release checklist for deployment,confirmed
+D00325,M03093,Review client requirements for project scope,needs_review
+D00326,M01757,Validate migration results for reporting pipeline,confirmed
+D00327,M00659,Update project documentation for client demo,needs_review
+D00328,M00560,Complete security review for production deployment,confirmed
+D00329,M03614,Complete security review for production deployment,confirmed
+D00330,M02029,Complete etl integration for dashboard,confirmed
+D00331,M02309,Review client requirements for project scope,confirmed
+D00332,M00058,Complete dashboard testing for analytics dashboard,confirmed
+D00333,M03408,Complete api integration for client platform,ambiguous
+D00334,M03149,Complete etl integration for dashboard,confirmed
+D00335,M03754,Verify model outputs for analytics model,confirmed
+D00336,M03642,Prepare data quality report for data pipeline,confirmed
+D00337,M02075,Complete dashboard testing for analytics dashboard,confirmed
+D00338,M03759,Verify model outputs for analytics model,confirmed
+D00339,M02033,Update project documentation for client demo,pending_deadline
+D00340,M03086,Update project documentation for client demo,pending_deadline
+D00341,M02606,Review client requirements for project scope,confirmed
+D00342,M00429,Validate migration results for reporting pipeline,confirmed
+D00343,M01303,Validate new metrics for reporting,confirmed
+D00344,M02145,Complete security review for production deployment,confirmed
+D00345,M03929,Finalize deployment plan for release,confirmed
+D00346,M03820,Verify model outputs for analytics model,confirmed
+D00347,M03248,Finalize deployment plan for release,confirmed
+D00348,M00425,Complete api integration for client platform,confirmed
+D00349,M00805,Complete api integration for client platform,confirmed
+D00350,M03064,Complete api integration for client platform,confirmed
+D00351,M02711,Complete dashboard testing for analytics dashboard,confirmed
+D00352,M00744,Complete api integration for client platform,confirmed
+D00353,M02560,Complete etl integration for dashboard,ambiguous
+D00354,M00935,Update project documentation for client demo,confirmed
+D00355,M02907,Verify model outputs for analytics model,confirmed
+D00356,M01918,Validate new metrics for reporting,confirmed
+D00357,M02592,Complete security review for production deployment,pending_deadline
+D00358,M02145,Finalize deployment plan for release,pending_deadline
+D00359,M03431,Update project documentation for client demo,ambiguous
+D00360,M03406,Complete etl integration for dashboard,confirmed
+D00361,M02311,Prepare data quality report for data pipeline,confirmed
+D00362,M02187,Complete dashboard testing for analytics dashboard,confirmed
+D00363,M02867,Complete etl integration for dashboard,confirmed
+D00364,M02092,Validate new metrics for reporting,confirmed
+D00365,M02829,Verify model outputs for analytics model,confirmed
+D00366,M02554,Prepare release checklist for deployment,confirmed
+D00367,M01577,Update project documentation for client demo,confirmed
+D00368,M03595,Prepare data quality report for data pipeline,confirmed
+D00369,M03824,Review client requirements for project scope,confirmed
+D00370,M01335,Update project documentation for client demo,confirmed
+D00371,M03552,Validate migration results for reporting pipeline,ambiguous
+D00372,M02087,Complete etl integration for dashboard,confirmed
+D00373,M03397,Validate new metrics for reporting,pending_deadline
+D00374,M02021,Complete api integration for client platform,confirmed
+D00375,M02885,Review client requirements for project scope,confirmed
+D00376,M03127,Update project documentation for client demo,confirmed
+D00377,M00640,Prepare data quality report for data pipeline,confirmed
+D00378,M01794,Complete etl integration for dashboard,confirmed
+D00379,M02557,Update project documentation for client demo,confirmed
+D00380,M00053,Validate new metrics for reporting,confirmed
+D00381,M01794,Review client requirements for project scope,confirmed
+D00382,M02436,Complete dashboard testing for analytics dashboard,ambiguous
+D00383,M01934,Validate new metrics for reporting,confirmed
+D00384,M03075,Validate migration results for reporting pipeline,confirmed
+D00385,M01659,Complete api integration for client platform,pending_deadline
+D00386,M01953,Prepare release checklist for deployment,confirmed
+D00387,M02845,Finalize deployment plan for release,confirmed
+D00388,M01460,Finalize deployment plan for release,confirmed
+D00389,M01231,Verify model outputs for analytics model,ambiguous
+D00390,M03374,Review client requirements for project scope,confirmed
+D00391,M03507,Complete security review for production deployment,ambiguous
+D00392,M02682,Complete api integration for client platform,needs_review
+D00393,M02897,Review client requirements for project scope,confirmed
+D00394,M00427,Validate migration results for reporting pipeline,confirmed
+D00395,M01773,Update project documentation for client demo,ambiguous
+D00396,M02226,Validate migration results for reporting pipeline,confirmed
+D00397,M01753,Prepare release checklist for deployment,confirmed
+D00398,M00152,Complete etl integration for dashboard,confirmed
+D00399,M03076,Complete etl integration for dashboard,needs_review
+D00400,M02231,Review client requirements for project scope,ambiguous
+D00401,M00278,Update project documentation for client demo,confirmed
+D00402,M01326,Complete security review for production deployment,ambiguous
+D00403,M01311,Validate new metrics for reporting,confirmed
+D00404,M03776,Prepare release checklist for deployment,ambiguous
+D00405,M01410,Update project documentation for client demo,confirmed
+D00406,M03499,Review client requirements for project scope,confirmed
+D00407,M01001,Complete api integration for client platform,needs_review
+D00408,M01473,Complete dashboard testing for analytics dashboard,ambiguous
+D00409,M01852,Finalize deployment plan for release,confirmed
+D00410,M03538,Prepare release checklist for deployment,confirmed
+D00411,M02173,Validate new metrics for reporting,confirmed
+D00412,M02228,Verify model outputs for analytics model,confirmed
+D00413,M00681,Verify model outputs for analytics model,ambiguous
+D00414,M03720,Prepare data quality report for data pipeline,confirmed
+D00415,M00451,Prepare release checklist for deployment,confirmed
+D00416,M03166,Prepare release checklist for deployment,needs_review
+D00417,M02095,Complete api integration for client platform,needs_review
+D00418,M03927,Prepare data quality report for data pipeline,confirmed
+D00419,M03300,Update project documentation for client demo,confirmed
+D00420,M00101,Verify model outputs for analytics model,confirmed
+D00421,M02669,Prepare data quality report for data pipeline,confirmed
+D00422,M01819,Validate new metrics for reporting,confirmed
+D00423,M02338,Validate migration results for reporting pipeline,ambiguous
+D00424,M00635,Prepare release checklist for deployment,confirmed
+D00425,M01150,Prepare release checklist for deployment,needs_review
+D00426,M03823,Complete security review for production deployment,confirmed
+D00427,M02856,Validate new metrics for reporting,confirmed
+D00428,M00986,Complete dashboard testing for analytics dashboard,pending_deadline
+D00429,M00389,Finalize deployment plan for release,confirmed
+D00430,M01508,Validate migration results for reporting pipeline,pending_deadline
+D00431,M02511,Finalize deployment plan for release,confirmed
+D00432,M02171,Validate migration results for reporting pipeline,confirmed
+D00433,M00015,Update project documentation for client demo,confirmed
+D00434,M00921,Update project documentation for client demo,pending_deadline
+D00435,M00650,Complete security review for production deployment,confirmed
+D00436,M00782,Verify model outputs for analytics model,confirmed
+D00437,M02509,Complete dashboard testing for analytics dashboard,needs_review
+D00438,M02374,Validate new metrics for reporting,confirmed
+D00439,M00411,Review client requirements for project scope,confirmed
+D00440,M01789,Validate migration results for reporting pipeline,confirmed
+D00441,M03193,Complete etl integration for dashboard,confirmed
+D00442,M00708,Validate new metrics for reporting,pending_deadline
+D00443,M01286,Complete dashboard testing for analytics dashboard,needs_review
+D00444,M00862,Prepare data quality report for data pipeline,confirmed
+D00445,M02807,Review client requirements for project scope,confirmed
+D00446,M00084,Complete security review for production deployment,pending_deadline
+D00447,M02230,Complete security review for production deployment,confirmed
+D00448,M03242,Validate new metrics for reporting,confirmed
+D00449,M03585,Validate new metrics for reporting,confirmed
+D00450,M01625,Update project documentation for client demo,confirmed
+D00451,M02270,Validate new metrics for reporting,confirmed
+D00452,M01922,Prepare release checklist for deployment,confirmed
+D00453,M03655,Review client requirements for project scope,ambiguous
+D00454,M00966,Prepare release checklist for deployment,pending_deadline
+D00455,M01277,Complete etl integration for dashboard,confirmed
+D00456,M03318,Verify model outputs for analytics model,confirmed
+D00457,M02339,Verify model outputs for analytics model,confirmed
+D00458,M03306,Complete dashboard testing for analytics dashboard,pending_deadline
+D00459,M02898,Verify model outputs for analytics model,confirmed
+D00460,M03862,Complete etl integration for dashboard,confirmed
+D00461,M02825,Validate new metrics for reporting,confirmed
+D00462,M03149,Validate new metrics for reporting,confirmed
+D00463,M03080,Review client requirements for project scope,confirmed
+D00464,M03429,Complete dashboard testing for analytics dashboard,confirmed
+D00465,M03073,Review client requirements for project scope,confirmed
+D00466,M01859,Validate new metrics for reporting,confirmed
+D00467,M03667,Finalize deployment plan for release,confirmed
+D00468,M03431,Verify model outputs for analytics model,confirmed
+D00469,M01279,Validate new metrics for reporting,confirmed
+D00470,M01568,Prepare release checklist for deployment,confirmed
+D00471,M02703,Complete security review for production deployment,pending_deadline
+D00472,M03650,Complete dashboard testing for analytics dashboard,confirmed
+D00473,M00073,Prepare data quality report for data pipeline,confirmed
+D00474,M02704,Update project documentation for client demo,confirmed
+D00475,M02598,Validate migration results for reporting pipeline,pending_deadline
+D00476,M02946,Complete security review for production deployment,pending_deadline
+D00477,M01137,Complete etl integration for dashboard,confirmed
+D00478,M02567,Review client requirements for project scope,confirmed
+D00479,M01309,Update project documentation for client demo,pending_deadline
+D00480,M00605,Validate new metrics for reporting,confirmed
+D00481,M03584,Verify model outputs for analytics model,confirmed
+D00482,M03674,Review client requirements for project scope,confirmed
+D00483,M01420,Prepare release checklist for deployment,confirmed
+D00484,M03423,Prepare data quality report for data pipeline,confirmed
+D00485,M00278,Verify model outputs for analytics model,confirmed
+D00486,M00703,Review client requirements for project scope,confirmed
+D00487,M00692,Verify model outputs for analytics model,confirmed
+D00488,M01418,Validate new metrics for reporting,confirmed
+D00489,M00387,Review client requirements for project scope,confirmed
+D00490,M03810,Verify model outputs for analytics model,confirmed
+D00491,M00500,Validate migration results for reporting pipeline,confirmed
+D00492,M02355,Finalize deployment plan for release,confirmed
+D00493,M03320,Complete security review for production deployment,confirmed
+D00494,M03276,Prepare release checklist for deployment,confirmed
+D00495,M03088,Complete security review for production deployment,confirmed
+D00496,M03362,Review client requirements for project scope,needs_review
+D00497,M03689,Validate migration results for reporting pipeline,confirmed
+D00498,M02678,Complete etl integration for dashboard,confirmed
+D00499,M03521,Complete security review for production deployment,confirmed
+D00500,M01805,Review client requirements for project scope,confirmed
+D00501,M03983,Validate new metrics for reporting,confirmed
+D00502,M00681,Complete etl integration for dashboard,pending_deadline
+D00503,M03110,Prepare data quality report for data pipeline,ambiguous
+D00504,M02919,Complete dashboard testing for analytics dashboard,ambiguous
+D00505,M02459,Update project documentation for client demo,pending_deadline
+D00506,M01210,Complete etl integration for dashboard,confirmed
+D00507,M03950,Finalize deployment plan for release,confirmed
+D00508,M03096,Prepare data quality report for data pipeline,confirmed
+D00509,M01628,Update project documentation for client demo,confirmed
+D00510,M02072,Complete dashboard testing for analytics dashboard,confirmed
+D00511,M03738,Prepare data quality report for data pipeline,confirmed
+D00512,M01454,Update project documentation for client demo,confirmed
+D00513,M02425,Complete security review for production deployment,pending_deadline
+D00514,M02303,Prepare release checklist for deployment,confirmed
+D00515,M00783,Complete etl integration for dashboard,confirmed
+D00516,M02624,Validate migration results for reporting pipeline,confirmed
+D00517,M01686,Complete security review for production deployment,confirmed
+D00518,M00192,Finalize deployment plan for release,ambiguous
+D00519,M01363,Complete dashboard testing for analytics dashboard,needs_review
+D00520,M02094,Verify model outputs for analytics model,confirmed
+D00521,M02395,Finalize deployment plan for release,confirmed
+D00522,M00514,Prepare data quality report for data pipeline,confirmed
+D00523,M00430,Complete api integration for client platform,confirmed
+D00524,M01037,Complete dashboard testing for analytics dashboard,confirmed
+D00525,M02830,Complete api integration for client platform,confirmed
+D00526,M00294,Validate migration results for reporting pipeline,confirmed
+D00527,M01030,Complete etl integration for dashboard,confirmed
+D00528,M01050,Validate new metrics for reporting,confirmed
+D00529,M03645,Prepare release checklist for deployment,confirmed
+D00530,M03884,Validate new metrics for reporting,confirmed
+D00531,M03824,Update project documentation for client demo,confirmed
+D00532,M03198,Complete api integration for client platform,confirmed
+D00533,M01545,Prepare data quality report for data pipeline,confirmed
+D00534,M01613,Prepare release checklist for deployment,confirmed
+D00535,M01197,Complete dashboard testing for analytics dashboard,confirmed
+D00536,M00028,Validate migration results for reporting pipeline,confirmed
+D00537,M00791,Review client requirements for project scope,confirmed
+D00538,M02053,Finalize deployment plan for release,pending_deadline
+D00539,M00544,Verify model outputs for analytics model,needs_review
+D00540,M02561,Complete etl integration for dashboard,confirmed
+D00541,M02380,Finalize deployment plan for release,confirmed
+D00542,M00075,Validate new metrics for reporting,confirmed
+D00543,M02903,Prepare data quality report for data pipeline,needs_review
+D00544,M01530,Prepare release checklist for deployment,pending_deadline
+D00545,M01716,Complete dashboard testing for analytics dashboard,needs_review
+D00546,M03832,Update project documentation for client demo,confirmed
+D00547,M00405,Update project documentation for client demo,confirmed
+D00548,M02144,Prepare data quality report for data pipeline,confirmed
+D00549,M01072,Validate migration results for reporting pipeline,confirmed
+D00550,M01000,Validate new metrics for reporting,pending_deadline
+D00551,M00642,Review client requirements for project scope,confirmed
+D00552,M02512,Complete etl integration for dashboard,confirmed
+D00553,M02557,Update project documentation for client demo,confirmed
+D00554,M00556,Complete etl integration for dashboard,confirmed
+D00555,M02201,Update project documentation for client demo,confirmed
+D00556,M03301,Prepare data quality report for data pipeline,pending_deadline
+D00557,M01189,Validate migration results for reporting pipeline,confirmed
+D00558,M02538,Prepare data quality report for data pipeline,pending_deadline
+D00559,M01248,Finalize deployment plan for release,confirmed
+D00560,M02005,Verify model outputs for analytics model,pending_deadline
+D00561,M01842,Complete etl integration for dashboard,confirmed
+D00562,M02411,Complete etl integration for dashboard,confirmed
+D00563,M01709,Review client requirements for project scope,confirmed
+D00564,M01270,Validate new metrics for reporting,needs_review
+D00565,M01378,Prepare data quality report for data pipeline,needs_review
+D00566,M00955,Validate new metrics for reporting,confirmed
+D00567,M03808,Verify model outputs for analytics model,confirmed
+D00568,M02815,Complete etl integration for dashboard,confirmed
+D00569,M00843,Review client requirements for project scope,pending_deadline
+D00570,M02988,Validate migration results for reporting pipeline,needs_review
+D00571,M02126,Complete dashboard testing for analytics dashboard,ambiguous
+D00572,M02891,Finalize deployment plan for release,confirmed
+D00573,M02618,Update project documentation for client demo,confirmed
+D00574,M03505,Validate migration results for reporting pipeline,pending_deadline
+D00575,M02060,Prepare data quality report for data pipeline,confirmed
+D00576,M03285,Verify model outputs for analytics model,confirmed
+D00577,M03904,Complete api integration for client platform,confirmed
+D00578,M01312,Prepare data quality report for data pipeline,confirmed
+D00579,M01681,Complete dashboard testing for analytics dashboard,ambiguous
+D00580,M00487,Complete dashboard testing for analytics dashboard,confirmed
+D00581,M01360,Review client requirements for project scope,pending_deadline
+D00582,M01719,Validate migration results for reporting pipeline,needs_review
+D00583,M01578,Prepare data quality report for data pipeline,confirmed
+D00584,M02250,Review client requirements for project scope,needs_review
+D00585,M03445,Validate migration results for reporting pipeline,confirmed
+D00586,M02010,Complete api integration for client platform,confirmed
+D00587,M02188,Finalize deployment plan for release,pending_deadline
+D00588,M00675,Complete api integration for client platform,needs_review
+D00589,M02386,Complete api integration for client platform,pending_deadline
+D00590,M00106,Complete dashboard testing for analytics dashboard,confirmed
+D00591,M02850,Verify model outputs for analytics model,needs_review
+D00592,M03189,Finalize deployment plan for release,confirmed
+D00593,M02922,Complete etl integration for dashboard,confirmed
+D00594,M01140,Prepare data quality report for data pipeline,pending_deadline
+D00595,M00833,Review client requirements for project scope,confirmed
+D00596,M02317,Prepare data quality report for data pipeline,confirmed
+D00597,M03366,Validate new metrics for reporting,ambiguous
+D00598,M03419,Complete dashboard testing for analytics dashboard,confirmed
+D00599,M03777,Complete dashboard testing for analytics dashboard,ambiguous
+D00600,M00010,Complete etl integration for dashboard,ambiguous
+D00601,M01114,Prepare data quality report for data pipeline,confirmed
+D00602,M00185,Update project documentation for client demo,ambiguous
+D00603,M00504,Prepare release checklist for deployment,confirmed
+D00604,M03969,Prepare data quality report for data pipeline,ambiguous
+D00605,M02488,Complete security review for production deployment,confirmed
+D00606,M02147,Complete security review for production deployment,ambiguous
+D00607,M02062,Prepare release checklist for deployment,ambiguous
+D00608,M00631,Update project documentation for client demo,ambiguous
+D00609,M01060,Prepare release checklist for deployment,confirmed
+D00610,M03371,Complete security review for production deployment,pending_deadline
+D00611,M01536,Verify model outputs for analytics model,pending_deadline
+D00612,M01968,Validate new metrics for reporting,confirmed
+D00613,M03376,Complete dashboard testing for analytics dashboard,confirmed
+D00614,M03849,Review client requirements for project scope,pending_deadline
+D00615,M01891,Prepare release checklist for deployment,needs_review
+D00616,M02733,Verify model outputs for analytics model,confirmed
+D00617,M00275,Prepare release checklist for deployment,confirmed
+D00618,M03990,Prepare release checklist for deployment,confirmed
+D00619,M01453,Complete etl integration for dashboard,ambiguous
+D00620,M02840,Prepare data quality report for data pipeline,confirmed
+D00621,M01327,Prepare release checklist for deployment,confirmed
+D00622,M03146,Prepare data quality report for data pipeline,confirmed
+D00623,M00920,Complete dashboard testing for analytics dashboard,confirmed
+D00624,M03788,Finalize deployment plan for release,confirmed
+D00625,M03250,Complete etl integration for dashboard,confirmed
+D00626,M00824,Validate new metrics for reporting,confirmed
+D00627,M03469,Prepare data quality report for data pipeline,confirmed
+D00628,M01968,Prepare data quality report for data pipeline,confirmed
+D00629,M00638,Complete api integration for client platform,needs_review
+D00630,M03011,Validate migration results for reporting pipeline,confirmed
+D00631,M00873,Complete etl integration for dashboard,confirmed
+D00632,M03264,Complete security review for production deployment,needs_review
+D00633,M01879,Complete api integration for client platform,ambiguous
+D00634,M03756,Prepare release checklist for deployment,confirmed
+D00635,M02097,Verify model outputs for analytics model,confirmed
+D00636,M03721,Prepare data quality report for data pipeline,confirmed
+D00637,M03822,Prepare data quality report for data pipeline,confirmed
+D00638,M03024,Complete dashboard testing for analytics dashboard,confirmed
+D00639,M00295,Verify model outputs for analytics model,needs_review
+D00640,M00951,Validate migration results for reporting pipeline,confirmed
+D00641,M01266,Complete dashboard testing for analytics dashboard,pending_deadline
+D00642,M00517,Validate new metrics for reporting,confirmed
+D00643,M01159,Prepare data quality report for data pipeline,needs_review
+D00644,M02099,Verify model outputs for analytics model,confirmed
+D00645,M00837,Complete api integration for client platform,confirmed
+D00646,M02842,Finalize deployment plan for release,confirmed
+D00647,M02880,Complete etl integration for dashboard,confirmed
+D00648,M00757,Validate migration results for reporting pipeline,confirmed
+D00649,M00121,Prepare data quality report for data pipeline,confirmed
+D00650,M03544,Complete security review for production deployment,ambiguous
+D00651,M02753,Prepare release checklist for deployment,confirmed
+D00652,M01799,Validate new metrics for reporting,needs_review
+D00653,M01174,Finalize deployment plan for release,confirmed
+D00654,M02601,Complete dashboard testing for analytics dashboard,confirmed
+D00655,M03980,Prepare release checklist for deployment,pending_deadline
+D00656,M02316,Update project documentation for client demo,confirmed
+D00657,M02873,Review client requirements for project scope,ambiguous
+D00658,M03742,Prepare data quality report for data pipeline,confirmed
+D00659,M00050,Review client requirements for project scope,pending_deadline
+D00660,M00983,Complete etl integration for dashboard,needs_review
+D00661,M01856,Complete security review for production deployment,confirmed
+D00662,M01549,Review client requirements for project scope,ambiguous
+D00663,M03739,Validate new metrics for reporting,confirmed
+D00664,M01361,Complete security review for production deployment,confirmed
+D00665,M01292,Complete etl integration for dashboard,confirmed
+D00666,M03011,Verify model outputs for analytics model,confirmed
+D00667,M02039,Finalize deployment plan for release,needs_review
+D00668,M00641,Finalize deployment plan for release,confirmed
+D00669,M01633,Prepare data quality report for data pipeline,pending_deadline
+D00670,M01094,Validate migration results for reporting pipeline,confirmed
+D00671,M00783,Verify model outputs for analytics model,confirmed
+D00672,M03430,Complete api integration for client platform,confirmed
+D00673,M00710,Review client requirements for project scope,confirmed
+D00674,M00617,Update project documentation for client demo,confirmed
+D00675,M00103,Validate new metrics for reporting,confirmed
+D00676,M01372,Validate migration results for reporting pipeline,confirmed
+D00677,M01977,Prepare data quality report for data pipeline,confirmed
+D00678,M01488,Complete api integration for client platform,confirmed
+D00679,M03595,Complete dashboard testing for analytics dashboard,confirmed
+D00680,M00893,Complete security review for production deployment,confirmed
+D00681,M00811,Complete dashboard testing for analytics dashboard,ambiguous
+D00682,M01370,Verify model outputs for analytics model,confirmed
+D00683,M00271,Prepare data quality report for data pipeline,confirmed
+D00684,M00654,Update project documentation for client demo,needs_review
+D00685,M01708,Validate new metrics for reporting,confirmed
+D00686,M01543,Finalize deployment plan for release,confirmed
+D00687,M02867,Finalize deployment plan for release,confirmed
+D00688,M03328,Complete security review for production deployment,pending_deadline
+D00689,M03240,Prepare data quality report for data pipeline,confirmed
+D00690,M02771,Validate migration results for reporting pipeline,needs_review
+D00691,M00010,Complete dashboard testing for analytics dashboard,confirmed
+D00692,M00443,Complete api integration for client platform,ambiguous
+D00693,M00297,Review client requirements for project scope,confirmed
+D00694,M00179,Complete api integration for client platform,pending_deadline
+D00695,M02697,Update project documentation for client demo,confirmed
+D00696,M03240,Review client requirements for project scope,confirmed
+D00697,M03758,Complete security review for production deployment,pending_deadline
+D00698,M02111,Prepare data quality report for data pipeline,ambiguous
+D00699,M02464,Complete etl integration for dashboard,ambiguous
+D00700,M02135,Finalize deployment plan for release,confirmed
+D00701,M03304,Complete api integration for client platform,pending_deadline
+D00702,M01351,Complete etl integration for dashboard,confirmed
+D00703,M01097,Update project documentation for client demo,confirmed
+D00704,M02918,Finalize deployment plan for release,needs_review
+D00705,M02265,Prepare release checklist for deployment,ambiguous
+D00706,M00198,Validate new metrics for reporting,needs_review
+D00707,M02909,Finalize deployment plan for release,needs_review
+D00708,M02123,Complete api integration for client platform,confirmed
+D00709,M02600,Validate migration results for reporting pipeline,ambiguous
+D00710,M00281,Validate new metrics for reporting,confirmed
+D00711,M02329,Validate new metrics for reporting,confirmed
+D00712,M00562,Complete security review for production deployment,pending_deadline
+D00713,M03605,Validate new metrics for reporting,needs_review
+D00714,M03398,Complete dashboard testing for analytics dashboard,confirmed
+D00715,M00471,Prepare release checklist for deployment,confirmed
+D00716,M02979,Complete api integration for client platform,confirmed
+D00717,M00779,Complete security review for production deployment,confirmed
+D00718,M03352,Complete api integration for client platform,confirmed
+D00719,M02294,Complete api integration for client platform,pending_deadline
+D00720,M02968,Complete api integration for client platform,confirmed
+D00721,M00706,Complete etl integration for dashboard,pending_deadline
+D00722,M00609,Update project documentation for client demo,confirmed
+D00723,M02966,Prepare release checklist for deployment,confirmed
+D00724,M01710,Prepare data quality report for data pipeline,confirmed
+D00725,M03571,Validate new metrics for reporting,confirmed
+D00726,M02012,Verify model outputs for analytics model,confirmed
+D00727,M00093,Complete api integration for client platform,confirmed
+D00728,M03479,Complete dashboard testing for analytics dashboard,confirmed
+D00729,M02054,Verify model outputs for analytics model,ambiguous
+D00730,M01191,Validate new metrics for reporting,confirmed
+D00731,M00162,Validate new metrics for reporting,confirmed
+D00732,M02966,Finalize deployment plan for release,confirmed
+D00733,M03636,Complete security review for production deployment,pending_deadline
+D00734,M00095,Complete security review for production deployment,needs_review
+D00735,M03660,Prepare data quality report for data pipeline,confirmed
+D00736,M00386,Validate new metrics for reporting,confirmed
+D00737,M00892,Finalize deployment plan for release,ambiguous
+D00738,M03820,Prepare data quality report for data pipeline,confirmed
+D00739,M02229,Validate migration results for reporting pipeline,confirmed
+D00740,M00055,Review client requirements for project scope,confirmed
+D00741,M01006,Complete etl integration for dashboard,confirmed
+D00742,M01512,Verify model outputs for analytics model,ambiguous
+D00743,M01144,Verify model outputs for analytics model,confirmed
+D00744,M02110,Finalize deployment plan for release,confirmed
+D00745,M03801,Validate migration results for reporting pipeline,confirmed
+D00746,M00063,Complete api integration for client platform,confirmed
+D00747,M01561,Update project documentation for client demo,confirmed
+D00748,M02721,Validate new metrics for reporting,ambiguous
+D00749,M03899,Validate new metrics for reporting,confirmed
+D00750,M00569,Validate new metrics for reporting,confirmed
+D00751,M00340,Prepare data quality report for data pipeline,confirmed
+D00752,M03711,Validate migration results for reporting pipeline,confirmed
+D00753,M02511,Prepare release checklist for deployment,ambiguous
+D00754,M01411,Verify model outputs for analytics model,needs_review
+D00755,M03421,Prepare release checklist for deployment,ambiguous
+D00756,M00135,Complete security review for production deployment,pending_deadline
+D00757,M00073,Prepare data quality report for data pipeline,confirmed
+D00758,M02777,Validate new metrics for reporting,confirmed
+D00759,M01214,Complete etl integration for dashboard,confirmed
+D00760,M01584,Complete dashboard testing for analytics dashboard,confirmed
+D00761,M00915,Verify model outputs for analytics model,confirmed
+D00762,M00392,Prepare release checklist for deployment,confirmed
+D00763,M00300,Prepare release checklist for deployment,confirmed
+D00764,M03891,Prepare release checklist for deployment,confirmed
+D00765,M03388,Validate new metrics for reporting,pending_deadline
+D00766,M03066,Prepare data quality report for data pipeline,pending_deadline
+D00767,M02610,Validate new metrics for reporting,confirmed
+D00768,M01993,Prepare data quality report for data pipeline,confirmed
+D00769,M02600,Complete etl integration for dashboard,confirmed
+D00770,M00400,Verify model outputs for analytics model,pending_deadline
+D00771,M01210,Review client requirements for project scope,confirmed
+D00772,M01026,Prepare release checklist for deployment,confirmed
+D00773,M02285,Validate new metrics for reporting,confirmed
+D00774,M00348,Prepare data quality report for data pipeline,confirmed
+D00775,M01949,Finalize deployment plan for release,confirmed
+D00776,M00772,Complete security review for production deployment,confirmed
+D00777,M00868,Update project documentation for client demo,needs_review
+D00778,M00532,Complete dashboard testing for analytics dashboard,confirmed
+D00779,M03626,Prepare data quality report for data pipeline,confirmed
+D00780,M00744,Prepare data quality report for data pipeline,confirmed
+D00781,M01827,Complete etl integration for dashboard,confirmed
+D00782,M00437,Review client requirements for project scope,pending_deadline
+D00783,M00765,Validate migration results for reporting pipeline,needs_review
+D00784,M01155,Complete dashboard testing for analytics dashboard,confirmed
+D00785,M00143,Prepare release checklist for deployment,confirmed
+D00786,M02176,Complete api integration for client platform,pending_deadline
+D00787,M02915,Prepare data quality report for data pipeline,confirmed
+D00788,M02071,Complete security review for production deployment,ambiguous
+D00789,M00065,Prepare data quality report for data pipeline,confirmed
+D00790,M02819,Review client requirements for project scope,confirmed
+D00791,M02718,Complete api integration for client platform,confirmed
+D00792,M03084,Complete etl integration for dashboard,pending_deadline
+D00793,M02361,Verify model outputs for analytics model,confirmed
+D00794,M02156,Update project documentation for client demo,confirmed
+D00795,M02618,Complete security review for production deployment,needs_review
+D00796,M03825,Complete dashboard testing for analytics dashboard,confirmed
+D00797,M03491,Prepare release checklist for deployment,confirmed
+D00798,M02644,Complete api integration for client platform,needs_review
+D00799,M01686,Verify model outputs for analytics model,confirmed
+D00800,M02722,Review client requirements for project scope,needs_review
+D00801,M02333,Validate new metrics for reporting,confirmed
+D00802,M01697,Update project documentation for client demo,pending_deadline
+D00803,M01334,Prepare release checklist for deployment,confirmed
+D00804,M02611,Complete api integration for client platform,confirmed
+D00805,M03983,Validate migration results for reporting pipeline,confirmed
+D00806,M01374,Complete security review for production deployment,confirmed
+D00807,M02591,Verify model outputs for analytics model,confirmed
+D00808,M02535,Prepare data quality report for data pipeline,confirmed
+D00809,M01997,Validate new metrics for reporting,confirmed
+D00810,M02764,Review client requirements for project scope,pending_deadline
+D00811,M02390,Finalize deployment plan for release,confirmed
+D00812,M03932,Complete api integration for client platform,pending_deadline
+D00813,M02782,Complete api integration for client platform,confirmed
+D00814,M01961,Verify model outputs for analytics model,confirmed
+D00815,M03319,Complete etl integration for dashboard,confirmed
+D00816,M02942,Complete etl integration for dashboard,ambiguous
+D00817,M00400,Complete security review for production deployment,confirmed
+D00818,M01671,Complete api integration for client platform,confirmed
+D00819,M00747,Validate migration results for reporting pipeline,confirmed
+D00820,M01325,Finalize deployment plan for release,confirmed
+D00821,M03552,Complete etl integration for dashboard,confirmed
+D00822,M01629,Validate migration results for reporting pipeline,confirmed
+D00823,M03214,Verify model outputs for analytics model,confirmed
+D00824,M00007,Verify model outputs for analytics model,needs_review
+D00825,M02109,Complete security review for production deployment,confirmed
+D00826,M02700,Prepare data quality report for data pipeline,pending_deadline
+D00827,M03686,Prepare release checklist for deployment,confirmed
+D00828,M03927,Validate new metrics for reporting,confirmed
+D00829,M02701,Complete api integration for client platform,confirmed
+D00830,M02115,Complete etl integration for dashboard,needs_review
+D00831,M01415,Prepare data quality report for data pipeline,confirmed
+D00832,M01904,Prepare release checklist for deployment,confirmed
+D00833,M00738,Complete dashboard testing for analytics dashboard,confirmed
+D00834,M03863,Finalize deployment plan for release,confirmed
+D00835,M01770,Finalize deployment plan for release,confirmed
+D00836,M02785,Prepare data quality report for data pipeline,confirmed
+D00837,M01027,Validate new metrics for reporting,ambiguous
+D00838,M03150,Review client requirements for project scope,pending_deadline
+D00839,M01322,Update project documentation for client demo,confirmed
+D00840,M00038,Prepare release checklist for deployment,confirmed
+D00841,M01793,Validate migration results for reporting pipeline,confirmed
+D00842,M01927,Validate migration results for reporting pipeline,confirmed
+D00843,M02809,Review client requirements for project scope,confirmed
+D00844,M03230,Validate migration results for reporting pipeline,needs_review
+D00845,M02362,Complete etl integration for dashboard,confirmed
+D00846,M01083,Validate new metrics for reporting,pending_deadline
+D00847,M01689,Prepare data quality report for data pipeline,pending_deadline
+D00848,M01119,Complete security review for production deployment,ambiguous
+D00849,M03678,Prepare data quality report for data pipeline,confirmed
+D00850,M03833,Complete dashboard testing for analytics dashboard,ambiguous
+D00851,M01509,Validate new metrics for reporting,confirmed
+D00852,M03317,Prepare release checklist for deployment,confirmed
+D00853,M00630,Update project documentation for client demo,confirmed
+D00854,M03472,Finalize deployment plan for release,confirmed
+D00855,M03620,Finalize deployment plan for release,confirmed
+D00856,M02981,Prepare data quality report for data pipeline,confirmed
+D00857,M02988,Prepare data quality report for data pipeline,needs_review
+D00858,M03110,Prepare release checklist for deployment,confirmed
+D00859,M02045,Review client requirements for project scope,confirmed
+D00860,M02673,Complete dashboard testing for analytics dashboard,ambiguous
+D00861,M03446,Complete dashboard testing for analytics dashboard,needs_review
+D00862,M01701,Complete security review for production deployment,confirmed
+D00863,M00362,Complete api integration for client platform,confirmed
+D00864,M03231,Update project documentation for client demo,confirmed
+D00865,M02746,Validate migration results for reporting pipeline,ambiguous
+D00866,M01618,Prepare data quality report for data pipeline,confirmed
+D00867,M02860,Complete dashboard testing for analytics dashboard,confirmed
+D00868,M03554,Complete api integration for client platform,confirmed
+D00869,M02579,Finalize deployment plan for release,confirmed
+D00870,M01643,Complete etl integration for dashboard,confirmed
+D00871,M01614,Validate new metrics for reporting,confirmed
+D00872,M03792,Complete etl integration for dashboard,confirmed
+D00873,M00317,Complete dashboard testing for analytics dashboard,confirmed
+D00874,M02091,Prepare release checklist for deployment,needs_review
+D00875,M03318,Complete dashboard testing for analytics dashboard,pending_deadline
+D00876,M02054,Validate migration results for reporting pipeline,confirmed
+D00877,M02679,Update project documentation for client demo,pending_deadline
+D00878,M02818,Prepare release checklist for deployment,confirmed
+D00879,M02748,Complete api integration for client platform,confirmed
+D00880,M03814,Prepare data quality report for data pipeline,needs_review
+D00881,M03633,Complete api integration for client platform,confirmed
+D00882,M03070,Validate new metrics for reporting,confirmed
+D00883,M01921,Finalize deployment plan for release,confirmed
+D00884,M02117,Complete api integration for client platform,confirmed
+D00885,M00152,Validate migration results for reporting pipeline,needs_review
+D00886,M02841,Complete api integration for client platform,confirmed
+D00887,M03136,Validate migration results for reporting pipeline,confirmed
+D00888,M02883,Complete security review for production deployment,needs_review
+D00889,M03854,Complete etl integration for dashboard,confirmed
+D00890,M00522,Update project documentation for client demo,confirmed
+D00891,M02849,Update project documentation for client demo,needs_review
+D00892,M01602,Complete api integration for client platform,confirmed
+D00893,M03340,Validate new metrics for reporting,confirmed
+D00894,M00264,Validate new metrics for reporting,ambiguous
+D00895,M03459,Complete dashboard testing for analytics dashboard,confirmed
+D00896,M02047,Validate migration results for reporting pipeline,confirmed
+D00897,M03039,Validate migration results for reporting pipeline,confirmed
+D00898,M00708,Validate migration results for reporting pipeline,ambiguous
+D00899,M01447,Validate migration results for reporting pipeline,confirmed
+D00900,M02730,Finalize deployment plan for release,confirmed
+D00901,M00642,Update project documentation for client demo,confirmed
+D00902,M01481,Prepare release checklist for deployment,confirmed
+D00903,M02279,Verify model outputs for analytics model,confirmed
+D00904,M03680,Update project documentation for client demo,confirmed
+D00905,M02732,Complete security review for production deployment,confirmed
+D00906,M03563,Complete api integration for client platform,needs_review
+D00907,M03267,Finalize deployment plan for release,needs_review
+D00908,M02225,Review client requirements for project scope,confirmed
+D00909,M00426,Prepare release checklist for deployment,pending_deadline
+D00910,M01437,Verify model outputs for analytics model,confirmed
+D00911,M01985,Validate new metrics for reporting,confirmed
+D00912,M01269,Complete dashboard testing for analytics dashboard,confirmed
+D00913,M02769,Finalize deployment plan for release,confirmed
+D00914,M02804,Review client requirements for project scope,confirmed
+D00915,M03106,Validate migration results for reporting pipeline,needs_review
+D00916,M03888,Prepare release checklist for deployment,confirmed
+D00917,M02156,Complete etl integration for dashboard,needs_review
+D00918,M01967,Validate new metrics for reporting,ambiguous
+D00919,M03354,Complete etl integration for dashboard,ambiguous
+D00920,M01387,Validate migration results for reporting pipeline,confirmed
+D00921,M01311,Complete etl integration for dashboard,confirmed
+D00922,M02303,Verify model outputs for analytics model,pending_deadline
+D00923,M01993,Prepare data quality report for data pipeline,ambiguous
+D00924,M01065,Prepare data quality report for data pipeline,confirmed
+D00925,M02410,Prepare data quality report for data pipeline,confirmed
+D00926,M03162,Validate new metrics for reporting,confirmed
+D00927,M03400,Verify model outputs for analytics model,confirmed
+D00928,M03125,Update project documentation for client demo,needs_review
+D00929,M00959,Prepare data quality report for data pipeline,confirmed
+D00930,M03047,Validate new metrics for reporting,needs_review
+D00931,M00814,Complete api integration for client platform,pending_deadline
+D00932,M00606,Prepare release checklist for deployment,confirmed
+D00933,M03656,Review client requirements for project scope,confirmed
+D00934,M03789,Finalize deployment plan for release,confirmed
+D00935,M00896,Complete dashboard testing for analytics dashboard,confirmed
+D00936,M03630,Update project documentation for client demo,confirmed
+D00937,M01283,Finalize deployment plan for release,needs_review
+D00938,M00473,Complete dashboard testing for analytics dashboard,confirmed
+D00939,M03721,Complete dashboard testing for analytics dashboard,confirmed
+D00940,M03079,Complete etl integration for dashboard,confirmed
+D00941,M03541,Validate new metrics for reporting,confirmed
+D00942,M00312,Finalize deployment plan for release,needs_review
+D00943,M01994,Update project documentation for client demo,needs_review
+D00944,M01679,Complete etl integration for dashboard,confirmed
+D00945,M03077,Complete api integration for client platform,confirmed
+D00946,M02281,Prepare data quality report for data pipeline,ambiguous
+D00947,M01986,Validate new metrics for reporting,confirmed
+D00948,M00840,Prepare data quality report for data pipeline,confirmed
+D00949,M02160,Review client requirements for project scope,confirmed
+D00950,M01227,Prepare release checklist for deployment,confirmed
+D00951,M02786,Verify model outputs for analytics model,pending_deadline
+D00952,M01855,Update project documentation for client demo,confirmed
+D00953,M02588,Review client requirements for project scope,confirmed
+D00954,M01075,Prepare release checklist for deployment,confirmed
+D00955,M01599,Validate new metrics for reporting,confirmed
+D00956,M02313,Complete security review for production deployment,confirmed
+D00957,M01028,Prepare data quality report for data pipeline,confirmed
+D00958,M00971,Verify model outputs for analytics model,confirmed
+D00959,M00581,Review client requirements for project scope,confirmed
+D00960,M01865,Finalize deployment plan for release,confirmed
+D00961,M03338,Complete api integration for client platform,confirmed
+D00962,M02246,Review client requirements for project scope,confirmed
+D00963,M01530,Complete api integration for client platform,pending_deadline
+D00964,M02204,Complete security review for production deployment,ambiguous
+D00965,M03335,Complete etl integration for dashboard,confirmed
+D00966,M00117,Finalize deployment plan for release,confirmed
+D00967,M01310,Finalize deployment plan for release,ambiguous
+D00968,M01795,Validate new metrics for reporting,confirmed
+D00969,M01493,Complete etl integration for dashboard,confirmed
+D00970,M02324,Complete api integration for client platform,confirmed
+D00971,M01241,Complete dashboard testing for analytics dashboard,confirmed
+D00972,M03522,Validate migration results for reporting pipeline,needs_review
+D00973,M00772,Update project documentation for client demo,confirmed
+D00974,M03619,Validate new metrics for reporting,confirmed
+D00975,M00829,Update project documentation for client demo,pending_deadline
+D00976,M01510,Prepare data quality report for data pipeline,confirmed
+D00977,M03715,Verify model outputs for analytics model,confirmed
+D00978,M02337,Complete security review for production deployment,confirmed
+D00979,M02992,Complete api integration for client platform,confirmed
+D00980,M00001,Prepare data quality report for data pipeline,confirmed
+D00981,M03129,Verify model outputs for analytics model,confirmed
+D00982,M02670,Complete security review for production deployment,ambiguous
+D00983,M03223,Update project documentation for client demo,confirmed
+D00984,M03848,Update project documentation for client demo,confirmed
+D00985,M03818,Prepare data quality report for data pipeline,confirmed
+D00986,M02627,Prepare release checklist for deployment,confirmed
+D00987,M01792,Validate new metrics for reporting,confirmed
+D00988,M02047,Prepare data quality report for data pipeline,confirmed
+D00989,M01335,Complete etl integration for dashboard,ambiguous
+D00990,M03089,Verify model outputs for analytics model,confirmed
+D00991,M01137,Verify model outputs for analytics model,confirmed
+D00992,M02885,Complete api integration for client platform,confirmed
+D00993,M03872,Prepare release checklist for deployment,needs_review
+D00994,M03168,Verify model outputs for analytics model,confirmed
+D00995,M03806,Complete api integration for client platform,confirmed
+D00996,M00746,Validate new metrics for reporting,confirmed
+D00997,M01838,Complete security review for production deployment,confirmed
+D00998,M01581,Complete etl integration for dashboard,confirmed
+D00999,M01247,Prepare release checklist for deployment,confirmed
+D01000,M02048,Validate migration results for reporting pipeline,confirmed
+D01001,M01309,Complete api integration for client platform,confirmed
+D01002,M03157,Complete security review for production deployment,confirmed
+D01003,M02612,Review client requirements for project scope,confirmed
+D01004,M03602,Review client requirements for project scope,confirmed
+D01005,M00141,Verify model outputs for analytics model,confirmed
+D01006,M00030,Finalize deployment plan for release,confirmed
+D01007,M03133,Prepare release checklist for deployment,confirmed
+D01008,M00010,Update project documentation for client demo,ambiguous
+D01009,M01388,Verify model outputs for analytics model,confirmed
+D01010,M01792,Update project documentation for client demo,pending_deadline
+D01011,M03873,Complete etl integration for dashboard,ambiguous
+D01012,M03035,Finalize deployment plan for release,confirmed
+D01013,M00778,Validate new metrics for reporting,confirmed
+D01014,M01837,Validate migration results for reporting pipeline,ambiguous
+D01015,M02191,Finalize deployment plan for release,confirmed
+D01016,M00993,Prepare data quality report for data pipeline,ambiguous
+D01017,M03392,Prepare data quality report for data pipeline,pending_deadline
+D01018,M02133,Update project documentation for client demo,confirmed
+D01019,M03594,Complete security review for production deployment,confirmed
+D01020,M03934,Complete security review for production deployment,confirmed
+D01021,M00913,Validate migration results for reporting pipeline,confirmed
+D01022,M00011,Prepare release checklist for deployment,confirmed
+D01023,M00145,Finalize deployment plan for release,confirmed
+D01024,M00137,Review client requirements for project scope,confirmed
+D01025,M03774,Update project documentation for client demo,needs_review
+D01026,M01742,Validate migration results for reporting pipeline,confirmed
+D01027,M00664,Review client requirements for project scope,confirmed
+D01028,M01377,Complete etl integration for dashboard,needs_review
+D01029,M01945,Finalize deployment plan for release,needs_review
+D01030,M01434,Finalize deployment plan for release,confirmed
+D01031,M00998,Complete dashboard testing for analytics dashboard,confirmed
+D01032,M00013,Prepare release checklist for deployment,ambiguous
+D01033,M02741,Prepare data quality report for data pipeline,pending_deadline
+D01034,M00536,Complete etl integration for dashboard,confirmed
+D01035,M00733,Prepare release checklist for deployment,pending_deadline
+D01036,M03067,Verify model outputs for analytics model,confirmed
+D01037,M02057,Validate migration results for reporting pipeline,confirmed
+D01038,M02215,Finalize deployment plan for release,confirmed
+D01039,M00620,Finalize deployment plan for release,confirmed
+D01040,M01196,Prepare data quality report for data pipeline,confirmed
+D01041,M00191,Complete etl integration for dashboard,confirmed
+D01042,M03856,Complete etl integration for dashboard,ambiguous
+D01043,M00351,Complete etl integration for dashboard,ambiguous
+D01044,M03012,Complete api integration for client platform,confirmed
+D01045,M01664,Complete etl integration for dashboard,confirmed
+D01046,M00487,Verify model outputs for analytics model,pending_deadline
+D01047,M00353,Verify model outputs for analytics model,confirmed
+D01048,M01567,Validate migration results for reporting pipeline,confirmed
+D01049,M01166,Prepare release checklist for deployment,confirmed
+D01050,M02718,Complete etl integration for dashboard,confirmed
+D01051,M03571,Finalize deployment plan for release,confirmed
+D01052,M00139,Complete api integration for client platform,confirmed
+D01053,M02565,Complete etl integration for dashboard,confirmed
+D01054,M03653,Complete api integration for client platform,confirmed
+D01055,M03797,Complete dashboard testing for analytics dashboard,confirmed
+D01056,M01261,Update project documentation for client demo,confirmed
+D01057,M02659,Prepare release checklist for deployment,confirmed
+D01058,M03669,Complete etl integration for dashboard,needs_review
+D01059,M00923,Update project documentation for client demo,confirmed
+D01060,M01653,Prepare data quality report for data pipeline,confirmed
+D01061,M00675,Finalize deployment plan for release,confirmed
+D01062,M02089,Prepare data quality report for data pipeline,confirmed
+D01063,M02989,Update project documentation for client demo,confirmed
+D01064,M03205,Verify model outputs for analytics model,confirmed
+D01065,M01068,Verify model outputs for analytics model,confirmed
+D01066,M03209,Verify model outputs for analytics model,pending_deadline
+D01067,M01667,Prepare release checklist for deployment,confirmed
+D01068,M02489,Complete etl integration for dashboard,ambiguous
+D01069,M01065,Update project documentation for client demo,confirmed
+D01070,M03884,Complete etl integration for dashboard,confirmed
+D01071,M03985,Review client requirements for project scope,ambiguous
+D01072,M01709,Verify model outputs for analytics model,confirmed
+D01073,M01296,Complete dashboard testing for analytics dashboard,confirmed
+D01074,M02357,Validate migration results for reporting pipeline,ambiguous
+D01075,M00209,Complete api integration for client platform,confirmed
+D01076,M01835,Validate migration results for reporting pipeline,confirmed
+D01077,M00057,Review client requirements for project scope,needs_review
+D01078,M03636,Validate new metrics for reporting,needs_review
+D01079,M03732,Validate migration results for reporting pipeline,confirmed
+D01080,M00073,Verify model outputs for analytics model,confirmed
+D01081,M01556,Validate migration results for reporting pipeline,confirmed
+D01082,M02251,Finalize deployment plan for release,confirmed
+D01083,M01561,Finalize deployment plan for release,confirmed
+D01084,M01675,Complete security review for production deployment,confirmed
+D01085,M00949,Complete security review for production deployment,pending_deadline
+D01086,M00898,Validate migration results for reporting pipeline,confirmed
+D01087,M01649,Review client requirements for project scope,confirmed
+D01088,M00706,Complete api integration for client platform,confirmed
+D01089,M02041,Complete dashboard testing for analytics dashboard,confirmed
+D01090,M01491,Review client requirements for project scope,confirmed
+D01091,M02311,Complete api integration for client platform,ambiguous
+D01092,M00491,Update project documentation for client demo,confirmed
+D01093,M00367,Prepare data quality report for data pipeline,confirmed
+D01094,M01738,Complete dashboard testing for analytics dashboard,confirmed
+D01095,M03842,Complete dashboard testing for analytics dashboard,pending_deadline
+D01096,M03154,Prepare data quality report for data pipeline,confirmed
+D01097,M01710,Complete etl integration for dashboard,pending_deadline
+D01098,M01076,Finalize deployment plan for release,confirmed
+D01099,M01071,Finalize deployment plan for release,confirmed
+D01100,M02049,Complete api integration for client platform,pending_deadline
+D01101,M01697,Complete dashboard testing for analytics dashboard,ambiguous
+D01102,M01512,Validate migration results for reporting pipeline,confirmed
+D01103,M03438,Validate migration results for reporting pipeline,pending_deadline
+D01104,M03818,Review client requirements for project scope,confirmed
+D01105,M02437,Prepare data quality report for data pipeline,pending_deadline
+D01106,M00554,Complete api integration for client platform,confirmed
+D01107,M02243,Prepare data quality report for data pipeline,confirmed
+D01108,M01607,Prepare release checklist for deployment,confirmed
+D01109,M03683,Prepare data quality report for data pipeline,confirmed
+D01110,M00010,Complete dashboard testing for analytics dashboard,confirmed
+D01111,M00496,Validate new metrics for reporting,confirmed
+D01112,M03125,Complete etl integration for dashboard,ambiguous
+D01113,M01784,Update project documentation for client demo,confirmed
+D01114,M01157,Finalize deployment plan for release,confirmed
+D01115,M01579,Review client requirements for project scope,confirmed
+D01116,M03348,Prepare release checklist for deployment,confirmed
+D01117,M00362,Review client requirements for project scope,confirmed
+D01118,M00504,Finalize deployment plan for release,confirmed
+D01119,M00037,Verify model outputs for analytics model,confirmed
+D01120,M03809,Verify model outputs for analytics model,confirmed
+D01121,M00580,Finalize deployment plan for release,confirmed
+D01122,M01647,Review client requirements for project scope,confirmed
+D01123,M02092,Verify model outputs for analytics model,pending_deadline
+D01124,M03780,Prepare release checklist for deployment,confirmed
+D01125,M00641,Validate migration results for reporting pipeline,confirmed
+D01126,M00771,Complete dashboard testing for analytics dashboard,confirmed
+D01127,M02720,Verify model outputs for analytics model,confirmed
+D01128,M02002,Validate migration results for reporting pipeline,ambiguous
+D01129,M01017,Validate new metrics for reporting,confirmed
+D01130,M01849,Update project documentation for client demo,confirmed
+D01131,M01678,Prepare data quality report for data pipeline,confirmed
+D01132,M02954,Prepare data quality report for data pipeline,confirmed
+D01133,M03614,Finalize deployment plan for release,pending_deadline
+D01134,M03251,Validate migration results for reporting pipeline,confirmed
+D01135,M03460,Validate new metrics for reporting,confirmed
+D01136,M01829,Complete dashboard testing for analytics dashboard,confirmed
+D01137,M00619,Complete dashboard testing for analytics dashboard,confirmed
+D01138,M02501,Validate migration results for reporting pipeline,confirmed
+D01139,M02003,Verify model outputs for analytics model,pending_deadline
+D01140,M00644,Validate new metrics for reporting,confirmed
+D01141,M02906,Complete etl integration for dashboard,pending_deadline
+D01142,M01354,Validate new metrics for reporting,confirmed
+D01143,M03677,Verify model outputs for analytics model,confirmed
+D01144,M03127,Complete etl integration for dashboard,confirmed
+D01145,M01626,Prepare release checklist for deployment,confirmed
+D01146,M00846,Prepare data quality report for data pipeline,confirmed
+D01147,M00061,Update project documentation for client demo,confirmed
+D01148,M03749,Review client requirements for project scope,confirmed
+D01149,M00908,Update project documentation for client demo,confirmed
+D01150,M01307,Review client requirements for project scope,confirmed
+D01151,M01631,Complete dashboard testing for analytics dashboard,confirmed
+D01152,M00047,Update project documentation for client demo,confirmed
+D01153,M02203,Validate migration results for reporting pipeline,pending_deadline
+D01154,M00910,Review client requirements for project scope,pending_deadline
+D01155,M03022,Verify model outputs for analytics model,pending_deadline
+D01156,M03912,Validate migration results for reporting pipeline,confirmed
+D01157,M01131,Complete api integration for client platform,confirmed
+D01158,M03724,Finalize deployment plan for release,confirmed
+D01159,M01066,Finalize deployment plan for release,confirmed
+D01160,M00346,Verify model outputs for analytics model,confirmed
+D01161,M01747,Review client requirements for project scope,confirmed
+D01162,M00752,Prepare release checklist for deployment,confirmed
+D01163,M00245,Validate new metrics for reporting,confirmed
+D01164,M00579,Verify model outputs for analytics model,confirmed
+D01165,M00588,Prepare data quality report for data pipeline,confirmed
+D01166,M02479,Complete security review for production deployment,needs_review
+D01167,M03929,Validate migration results for reporting pipeline,confirmed
+D01168,M02254,Validate new metrics for reporting,needs_review
+D01169,M00407,Finalize deployment plan for release,confirmed
+D01170,M01704,Validate migration results for reporting pipeline,confirmed
+D01171,M01185,Validate migration results for reporting pipeline,confirmed
+D01172,M01967,Complete api integration for client platform,confirmed
+D01173,M02669,Validate new metrics for reporting,confirmed
+D01174,M02520,Validate migration results for reporting pipeline,confirmed
+D01175,M02506,Verify model outputs for analytics model,confirmed
+D01176,M03553,Review client requirements for project scope,confirmed
+D01177,M03821,Complete etl integration for dashboard,needs_review
+D01178,M00879,Review client requirements for project scope,confirmed
+D01179,M01603,Verify model outputs for analytics model,needs_review
+D01180,M00466,Complete etl integration for dashboard,confirmed
+D01181,M00926,Update project documentation for client demo,confirmed
+D01182,M02810,Validate migration results for reporting pipeline,needs_review
+D01183,M03091,Complete api integration for client platform,confirmed
+D01184,M02536,Complete api integration for client platform,pending_deadline
+D01185,M00636,Complete etl integration for dashboard,confirmed
+D01186,M03238,Complete security review for production deployment,confirmed
+D01187,M00163,Complete etl integration for dashboard,confirmed
+D01188,M02671,Prepare data quality report for data pipeline,confirmed
+D01189,M03381,Verify model outputs for analytics model,confirmed
+D01190,M02144,Review client requirements for project scope,confirmed
+D01191,M00259,Complete security review for production deployment,confirmed
+D01192,M02183,Finalize deployment plan for release,needs_review
+D01193,M00626,Update project documentation for client demo,confirmed
+D01194,M02355,Verify model outputs for analytics model,confirmed
+D01195,M03949,Complete dashboard testing for analytics dashboard,confirmed
+D01196,M01216,Verify model outputs for analytics model,pending_deadline
+D01197,M01020,Verify model outputs for analytics model,needs_review
+D01198,M03658,Prepare data quality report for data pipeline,ambiguous
+D01199,M01507,Update project documentation for client demo,confirmed
+D01200,M02073,Validate new metrics for reporting,ambiguous
+D01201,M01479,Complete dashboard testing for analytics dashboard,confirmed
+D01202,M00214,Prepare data quality report for data pipeline,ambiguous
+D01203,M03405,Complete security review for production deployment,ambiguous
+D01204,M01105,Update project documentation for client demo,confirmed
+D01205,M02453,Update project documentation for client demo,confirmed
+D01206,M01436,Verify model outputs for analytics model,confirmed
+D01207,M02656,Complete dashboard testing for analytics dashboard,pending_deadline
+D01208,M01378,Update project documentation for client demo,confirmed
+D01209,M01479,Complete etl integration for dashboard,pending_deadline
+D01210,M02048,Complete etl integration for dashboard,confirmed
+D01211,M00223,Validate migration results for reporting pipeline,confirmed
+D01212,M00594,Verify model outputs for analytics model,pending_deadline
+D01213,M03251,Finalize deployment plan for release,needs_review
+D01214,M02895,Complete etl integration for dashboard,confirmed
+D01215,M00859,Validate migration results for reporting pipeline,ambiguous
+D01216,M01536,Complete api integration for client platform,confirmed
+D01217,M00076,Complete etl integration for dashboard,confirmed
+D01218,M01662,Validate migration results for reporting pipeline,pending_deadline
+D01219,M02774,Update project documentation for client demo,confirmed
+D01220,M00030,Complete security review for production deployment,needs_review
+D01221,M03316,Complete etl integration for dashboard,confirmed
+D01222,M00849,Validate new metrics for reporting,ambiguous
+D01223,M00535,Validate new metrics for reporting,pending_deadline
+D01224,M00929,Validate migration results for reporting pipeline,confirmed
+D01225,M01200,Review client requirements for project scope,needs_review
+D01226,M00780,Complete etl integration for dashboard,confirmed
+D01227,M00352,Validate migration results for reporting pipeline,confirmed
+D01228,M02385,Finalize deployment plan for release,confirmed
+D01229,M03025,Complete etl integration for dashboard,confirmed
+D01230,M00452,Verify model outputs for analytics model,confirmed
+D01231,M01483,Review client requirements for project scope,confirmed
+D01232,M03670,Complete etl integration for dashboard,pending_deadline
+D01233,M03102,Validate new metrics for reporting,ambiguous
+D01234,M03269,Verify model outputs for analytics model,confirmed
+D01235,M03288,Update project documentation for client demo,confirmed
+D01236,M01512,Prepare data quality report for data pipeline,ambiguous
+D01237,M00978,Complete security review for production deployment,confirmed
+D01238,M00983,Complete security review for production deployment,confirmed
+D01239,M03303,Validate new metrics for reporting,confirmed
+D01240,M00401,Validate new metrics for reporting,confirmed
+D01241,M03042,Complete etl integration for dashboard,confirmed
+D01242,M02381,Update project documentation for client demo,confirmed
+D01243,M01826,Prepare data quality report for data pipeline,confirmed
+D01244,M02721,Complete api integration for client platform,confirmed
+D01245,M01929,Prepare data quality report for data pipeline,confirmed
+D01246,M00620,Prepare release checklist for deployment,confirmed
+D01247,M02795,Complete api integration for client platform,pending_deadline
+D01248,M02021,Complete security review for production deployment,confirmed
+D01249,M00500,Review client requirements for project scope,confirmed
+D01250,M03739,Complete api integration for client platform,confirmed
+D01251,M03457,Complete api integration for client platform,ambiguous
+D01252,M00473,Prepare release checklist for deployment,confirmed
+D01253,M01022,Prepare data quality report for data pipeline,needs_review
+D01254,M01300,Validate migration results for reporting pipeline,confirmed
+D01255,M00666,Validate migration results for reporting pipeline,confirmed
+D01256,M02875,Complete dashboard testing for analytics dashboard,needs_review
+D01257,M03633,Validate new metrics for reporting,confirmed
+D01258,M00305,Prepare data quality report for data pipeline,confirmed
+D01259,M03036,Prepare release checklist for deployment,confirmed
+D01260,M02349,Verify model outputs for analytics model,confirmed
+D01261,M02446,Complete dashboard testing for analytics dashboard,pending_deadline
+D01262,M01301,Review client requirements for project scope,confirmed
+D01263,M03033,Update project documentation for client demo,confirmed
+D01264,M03657,Verify model outputs for analytics model,needs_review
+D01265,M00372,Validate new metrics for reporting,pending_deadline
+D01266,M00366,Complete etl integration for dashboard,confirmed
+D01267,M00845,Validate migration results for reporting pipeline,confirmed
+D01268,M00515,Update project documentation for client demo,confirmed
+D01269,M03511,Verify model outputs for analytics model,needs_review
+D01270,M02587,Prepare data quality report for data pipeline,confirmed
+D01271,M03841,Finalize deployment plan for release,confirmed
+D01272,M01560,Validate new metrics for reporting,confirmed
+D01273,M00126,Complete api integration for client platform,confirmed
+D01274,M03173,Complete dashboard testing for analytics dashboard,pending_deadline
+D01275,M03200,Prepare release checklist for deployment,confirmed
+D01276,M03664,Review client requirements for project scope,ambiguous
+D01277,M00609,Validate migration results for reporting pipeline,confirmed
+D01278,M03564,Update project documentation for client demo,confirmed
+D01279,M02821,Complete dashboard testing for analytics dashboard,needs_review
+D01280,M02898,Validate migration results for reporting pipeline,confirmed
+D01281,M01938,Complete dashboard testing for analytics dashboard,confirmed
+D01282,M03862,Complete security review for production deployment,confirmed
+D01283,M03084,Complete security review for production deployment,confirmed
+D01284,M03901,Verify model outputs for analytics model,confirmed
+D01285,M03614,Complete security review for production deployment,ambiguous
+D01286,M03263,Validate new metrics for reporting,needs_review
+D01287,M01072,Complete etl integration for dashboard,confirmed
+D01288,M03305,Finalize deployment plan for release,confirmed
+D01289,M02875,Complete api integration for client platform,confirmed
+D01290,M01144,Validate new metrics for reporting,confirmed
+D01291,M00265,Complete dashboard testing for analytics dashboard,confirmed
+D01292,M01331,Update project documentation for client demo,confirmed
+D01293,M01775,Complete api integration for client platform,ambiguous
+D01294,M00040,Complete etl integration for dashboard,ambiguous
+D01295,M02645,Validate migration results for reporting pipeline,confirmed
+D01296,M03612,Prepare data quality report for data pipeline,needs_review
+D01297,M03803,Update project documentation for client demo,confirmed
+D01298,M01191,Prepare release checklist for deployment,pending_deadline
+D01299,M00992,Verify model outputs for analytics model,confirmed
+D01300,M02034,Complete api integration for client platform,pending_deadline
+D01301,M00187,Review client requirements for project scope,confirmed
+D01302,M03423,Prepare data quality report for data pipeline,ambiguous
+D01303,M00220,Review client requirements for project scope,ambiguous
+D01304,M02159,Complete etl integration for dashboard,confirmed
+D01305,M02849,Verify model outputs for analytics model,pending_deadline
+D01306,M01140,Prepare data quality report for data pipeline,confirmed
+D01307,M02042,Update project documentation for client demo,confirmed
+D01308,M00913,Verify model outputs for analytics model,pending_deadline
+D01309,M03509,Prepare data quality report for data pipeline,confirmed
+D01310,M03110,Prepare data quality report for data pipeline,confirmed
+D01311,M02724,Review client requirements for project scope,ambiguous
+D01312,M00640,Update project documentation for client demo,confirmed
+D01313,M03313,Finalize deployment plan for release,confirmed
+D01314,M00017,Update project documentation for client demo,confirmed
+D01315,M00339,Review client requirements for project scope,confirmed
+D01316,M01630,Complete api integration for client platform,confirmed
+D01317,M01101,Prepare release checklist for deployment,confirmed
+D01318,M00693,Complete etl integration for dashboard,confirmed
+D01319,M03228,Complete etl integration for dashboard,confirmed
+D01320,M01979,Complete security review for production deployment,confirmed
+D01321,M02174,Prepare data quality report for data pipeline,ambiguous
+D01322,M01600,Review client requirements for project scope,confirmed
+D01323,M03877,Prepare release checklist for deployment,pending_deadline
+D01324,M02481,Complete dashboard testing for analytics dashboard,confirmed
+D01325,M03850,Validate migration results for reporting pipeline,confirmed
+D01326,M03531,Complete etl integration for dashboard,ambiguous
+D01327,M02954,Complete security review for production deployment,ambiguous
+D01328,M02101,Complete etl integration for dashboard,confirmed
+D01329,M02183,Validate new metrics for reporting,confirmed
+D01330,M00825,Validate migration results for reporting pipeline,confirmed
+D01331,M02736,Prepare data quality report for data pipeline,needs_review
+D01332,M01361,Complete security review for production deployment,pending_deadline
+D01333,M00609,Update project documentation for client demo,confirmed
+D01334,M00334,Finalize deployment plan for release,confirmed
+D01335,M02042,Finalize deployment plan for release,confirmed
+D01336,M02827,Review client requirements for project scope,pending_deadline
+D01337,M03863,Validate migration results for reporting pipeline,confirmed
+D01338,M02823,Prepare release checklist for deployment,confirmed
+D01339,M03953,Validate migration results for reporting pipeline,confirmed
+D01340,M03241,Prepare data quality report for data pipeline,confirmed
+D01341,M02026,Complete security review for production deployment,confirmed
+D01342,M02665,Update project documentation for client demo,confirmed
+D01343,M03535,Complete security review for production deployment,pending_deadline
+D01344,M00415,Prepare release checklist for deployment,confirmed
+D01345,M02496,Complete security review for production deployment,confirmed
+D01346,M02433,Prepare data quality report for data pipeline,confirmed
+D01347,M01514,Prepare data quality report for data pipeline,confirmed
+D01348,M02904,Complete dashboard testing for analytics dashboard,confirmed
+D01349,M00207,Complete api integration for client platform,confirmed
+D01350,M03930,Update project documentation for client demo,needs_review
+D01351,M03703,Complete api integration for client platform,confirmed
+D01352,M02823,Prepare data quality report for data pipeline,confirmed
+D01353,M03280,Update project documentation for client demo,confirmed
+D01354,M02751,Prepare data quality report for data pipeline,confirmed
+D01355,M02397,Prepare data quality report for data pipeline,confirmed
+D01356,M02133,Validate new metrics for reporting,needs_review
+D01357,M03215,Complete security review for production deployment,confirmed
+D01358,M00349,Finalize deployment plan for release,confirmed
+D01359,M02703,Update project documentation for client demo,confirmed
+D01360,M00208,Complete etl integration for dashboard,confirmed
+D01361,M00769,Verify model outputs for analytics model,confirmed
+D01362,M03558,Validate new metrics for reporting,needs_review
+D01363,M01143,Complete dashboard testing for analytics dashboard,confirmed
+D01364,M03592,Complete security review for production deployment,confirmed
+D01365,M03371,Complete security review for production deployment,confirmed
+D01366,M00697,Review client requirements for project scope,confirmed
+D01367,M01022,Finalize deployment plan for release,pending_deadline
+D01368,M03523,Complete etl integration for dashboard,needs_review
+D01369,M03101,Complete dashboard testing for analytics dashboard,confirmed
+D01370,M03404,Update project documentation for client demo,confirmed
+D01371,M02158,Review client requirements for project scope,pending_deadline
+D01372,M03928,Update project documentation for client demo,confirmed
+D01373,M00695,Update project documentation for client demo,needs_review
+D01374,M00458,Prepare release checklist for deployment,confirmed
+D01375,M00576,Verify model outputs for analytics model,confirmed
+D01376,M00027,Complete api integration for client platform,confirmed
+D01377,M00277,Validate migration results for reporting pipeline,confirmed
+D01378,M00306,Review client requirements for project scope,confirmed
+D01379,M02927,Review client requirements for project scope,confirmed
+D01380,M03165,Review client requirements for project scope,confirmed
+D01381,M01820,Verify model outputs for analytics model,confirmed
+D01382,M03033,Review client requirements for project scope,confirmed
+D01383,M00915,Prepare data quality report for data pipeline,confirmed
+D01384,M01025,Complete dashboard testing for analytics dashboard,confirmed
+D01385,M01255,Finalize deployment plan for release,confirmed
+D01386,M01801,Complete etl integration for dashboard,confirmed
+D01387,M03743,Finalize deployment plan for release,confirmed
+D01388,M03864,Review client requirements for project scope,confirmed
+D01389,M00838,Review client requirements for project scope,ambiguous
+D01390,M02733,Review client requirements for project scope,confirmed
+D01391,M02275,Complete api integration for client platform,confirmed
+D01392,M00952,Finalize deployment plan for release,confirmed
+D01393,M03812,Prepare release checklist for deployment,pending_deadline
+D01394,M01149,Prepare data quality report for data pipeline,confirmed
+D01395,M02267,Finalize deployment plan for release,confirmed
+D01396,M03016,Update project documentation for client demo,confirmed
+D01397,M01521,Complete dashboard testing for analytics dashboard,confirmed
+D01398,M03622,Update project documentation for client demo,ambiguous
+D01399,M01828,Validate new metrics for reporting,confirmed
+D01400,M02790,Complete etl integration for dashboard,confirmed
+D01401,M02714,Update project documentation for client demo,ambiguous
+D01402,M00955,Validate migration results for reporting pipeline,confirmed
+D01403,M00283,Prepare release checklist for deployment,confirmed
+D01404,M00428,Finalize deployment plan for release,confirmed
+D01405,M00903,Complete api integration for client platform,confirmed
+D01406,M00842,Update project documentation for client demo,confirmed
+D01407,M00234,Prepare data quality report for data pipeline,confirmed
+D01408,M00317,Complete etl integration for dashboard,ambiguous
+D01409,M00881,Complete api integration for client platform,confirmed
+D01410,M00866,Validate new metrics for reporting,confirmed
+D01411,M02206,Complete security review for production deployment,pending_deadline
+D01412,M03671,Complete dashboard testing for analytics dashboard,needs_review
+D01413,M01520,Complete security review for production deployment,confirmed
+D01414,M00590,Validate new metrics for reporting,confirmed
+D01415,M01108,Prepare release checklist for deployment,confirmed
+D01416,M01223,Review client requirements for project scope,confirmed
+D01417,M01959,Complete security review for production deployment,confirmed
+D01418,M03234,Complete etl integration for dashboard,ambiguous
+D01419,M03871,Complete security review for production deployment,confirmed
+D01420,M02482,Finalize deployment plan for release,confirmed
+D01421,M00897,Prepare data quality report for data pipeline,confirmed
+D01422,M00491,Complete etl integration for dashboard,ambiguous
+D01423,M00651,Complete api integration for client platform,confirmed
+D01424,M02248,Complete etl integration for dashboard,pending_deadline
+D01425,M01286,Complete etl integration for dashboard,needs_review
+D01426,M02201,Complete api integration for client platform,confirmed
+D01427,M03286,Review client requirements for project scope,pending_deadline
+D01428,M03841,Complete dashboard testing for analytics dashboard,confirmed
+D01429,M01338,Prepare release checklist for deployment,confirmed
+D01430,M02207,Prepare release checklist for deployment,confirmed
+D01431,M01206,Complete etl integration for dashboard,needs_review
+D01432,M01067,Verify model outputs for analytics model,confirmed
+D01433,M00348,Prepare release checklist for deployment,confirmed
+D01434,M01720,Complete dashboard testing for analytics dashboard,confirmed
+D01435,M03224,Complete etl integration for dashboard,confirmed
+D01436,M01613,Finalize deployment plan for release,confirmed
+D01437,M02445,Complete etl integration for dashboard,needs_review
+D01438,M00099,Update project documentation for client demo,pending_deadline
+D01439,M03540,Complete dashboard testing for analytics dashboard,pending_deadline
+D01440,M01430,Complete etl integration for dashboard,confirmed
+D01441,M01961,Complete api integration for client platform,confirmed
+D01442,M01044,Validate new metrics for reporting,confirmed
+D01443,M02127,Complete etl integration for dashboard,needs_review
+D01444,M00056,Complete dashboard testing for analytics dashboard,confirmed
+D01445,M01200,Complete dashboard testing for analytics dashboard,pending_deadline
+D01446,M01032,Prepare data quality report for data pipeline,confirmed
+D01447,M03244,Complete dashboard testing for analytics dashboard,ambiguous
+D01448,M02194,Finalize deployment plan for release,confirmed
+D01449,M01665,Complete dashboard testing for analytics dashboard,needs_review
+D01450,M02260,Complete api integration for client platform,confirmed
+D01451,M01156,Validate new metrics for reporting,confirmed
+D01452,M01817,Complete etl integration for dashboard,confirmed
+D01453,M00789,Complete etl integration for dashboard,confirmed
+D01454,M02468,Prepare release checklist for deployment,confirmed
+D01455,M02078,Complete security review for production deployment,confirmed
+D01456,M00438,Finalize deployment plan for release,confirmed
+D01457,M02695,Complete etl integration for dashboard,confirmed
+D01458,M00482,Complete api integration for client platform,confirmed
+D01459,M00093,Update project documentation for client demo,confirmed
+D01460,M03851,Prepare data quality report for data pipeline,pending_deadline
+D01461,M03808,Prepare data quality report for data pipeline,confirmed
+D01462,M02589,Verify model outputs for analytics model,confirmed
+D01463,M03889,Prepare release checklist for deployment,confirmed
+D01464,M03597,Validate migration results for reporting pipeline,confirmed
+D01465,M02830,Complete security review for production deployment,confirmed
+D01466,M00499,Prepare data quality report for data pipeline,confirmed
+D01467,M00238,Finalize deployment plan for release,confirmed
+D01468,M01540,Validate new metrics for reporting,confirmed
+D01469,M03771,Complete dashboard testing for analytics dashboard,confirmed
+D01470,M01718,Finalize deployment plan for release,ambiguous
+D01471,M02637,Complete api integration for client platform,pending_deadline
+D01472,M00738,Verify model outputs for analytics model,confirmed
+D01473,M03857,Update project documentation for client demo,confirmed
+D01474,M03665,Validate migration results for reporting pipeline,pending_deadline
+D01475,M03257,Prepare data quality report for data pipeline,confirmed
+D01476,M01114,Prepare data quality report for data pipeline,needs_review
+D01477,M02440,Complete api integration for client platform,confirmed
+D01478,M02937,Complete api integration for client platform,confirmed
+D01479,M03520,Complete dashboard testing for analytics dashboard,needs_review
+D01480,M03726,Complete dashboard testing for analytics dashboard,confirmed
+D01481,M00021,Verify model outputs for analytics model,confirmed
+D01482,M01392,Complete dashboard testing for analytics dashboard,pending_deadline
+D01483,M00962,Complete security review for production deployment,confirmed
+D01484,M01185,Prepare release checklist for deployment,pending_deadline
+D01485,M02061,Review client requirements for project scope,confirmed
+D01486,M03923,Update project documentation for client demo,confirmed
+D01487,M02729,Validate new metrics for reporting,ambiguous
+D01488,M03497,Prepare data quality report for data pipeline,needs_review
+D01489,M01855,Complete etl integration for dashboard,confirmed
+D01490,M01124,Finalize deployment plan for release,confirmed
+D01491,M00409,Prepare data quality report for data pipeline,confirmed
+D01492,M00520,Complete api integration for client platform,confirmed
+D01493,M01809,Prepare data quality report for data pipeline,confirmed
+D01494,M02844,Complete etl integration for dashboard,confirmed
+D01495,M00335,Validate migration results for reporting pipeline,confirmed
+D01496,M03663,Complete security review for production deployment,confirmed
+D01497,M01037,Finalize deployment plan for release,confirmed
+D01498,M02657,Update project documentation for client demo,confirmed
+D01499,M01783,Prepare data quality report for data pipeline,pending_deadline
+D01500,M03469,Review client requirements for project scope,ambiguous
