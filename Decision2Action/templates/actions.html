@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Actions</h1>
+<table>
+<tr><th>ID</th><th>Evidence</th><th>Owner</th><th>Deadline</th><th>Confidence</th><th>Status</th></tr>
+{% for a in actions %}
+<tr><td>{{a.action_id}}</td><td>{{a.evidence}}</td><td>{{a.owner}}</td><td>{{a.deadline}}</td>
+<td>{{a.confidence}}</td><td>{{a.status}}</td></tr>
+{% endfor %}
+</table>
+{% endblock %}

@@ -1,0 +1,9 @@
+decision_id,source_id,decision_text,status
+D001,M001,"Complete client dashboard ETL integration","confirmed"
+D002,M002,"Migrate reporting pipeline","confirmed"
+D003,M003,"Complete security review before production","confirmed"
+D004,M004,"Update project documentation","confirmed"
+D005,M005,"Complete dashboard testing","confirmed"
+D006,M006,"Possibly migrate reporting pipeline","ambiguous"
+D007,M007,"Validate new metrics","pending_deadline"
+D008,M008,"Finalize deployment plan","confirmed"

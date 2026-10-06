@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Audit Log</h1>
+<table>
+<tr><th>ID</th><th>Action</th><th>Event</th><th>Details</th><th>Timestamp</th></tr>
+{% for r in logs %}
+<tr><td>{{r[0]}}</td><td>{{r[1]}}</td><td>{{r[2]}}</td><td>{{r[3]}}</td><td>{{r[4]}}</td></tr>
+{% endfor %}
+</table>
+{% endblock %}

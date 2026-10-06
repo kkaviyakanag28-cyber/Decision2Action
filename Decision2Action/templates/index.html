@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Decision2Action Dashboard</h1>
+<div class="card"><b>Total Actions:</b> {{ actions|length }}</div>
+<div class="card"><b>Pending Review:</b> {{ actions|selectattr("status","equalto","HUMAN_CONFIRMATION_REQUIRED")|list|length }}</div>
+<div class="card"><b>Approved:</b> {{ actions|selectattr("status","equalto","APPROVED")|list|length }}</div>
+<div class="card"><b>Overridden:</b> {{ actions|selectattr("status","equalto","OVERRIDDEN")|list|length }}</div>
+<table>
+<tr><th>ID</th><th>Action</th><th>Owner</th><th>Deadline</th><th>Status</th><th></th></tr>
+{% for a in actions %}
+<tr><td>{{a.action_id}}</td><td>{{a.action}}</td><td>{{a.owner}}</td><td>{{a.deadline}}</td><td>{{a.status}}</td>
+<td><a href="/review/{{a.action_id}}">Review</a></td></tr>
+{% endfor %}
+</table>
+{% endblock %}

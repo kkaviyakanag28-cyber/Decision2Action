@@ -1,0 +1,9 @@
+task_id,decision_id,task,owner,deadline,status
+T001,D001,"Complete ETL integration","Data Engineering Team","2026-09-15","pending"
+T002,D002,"Validate reporting migration","Analytics Team","2026-09-12","pending"
+T003,D003,"Complete security review","Security Team","2026-09-10","pending"
+T004,D004,"Update project documentation","Consulting Team","2026-09-11","pending"
+T005,D005,"Complete dashboard testing","QA Team","2026-09-12","pending"
+T006,D006,"Migrate reporting pipeline","Unknown","Unknown","needs_review"
+T007,D007,"Validate new metrics","Analytics Team","Unknown","needs_review"
+T008,D008,"Finalize deployment plan","Project Team","2026-09-18","pending"

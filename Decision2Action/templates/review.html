@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Review {{ action.action_id }}</h1>
+<div class="card">
+<p><b>Evidence:</b> {{action.evidence}}</p>
+<p><b>Owner:</b> {{action.owner or "Missing"}}</p>
+<p><b>Deadline:</b> {{action.deadline or "Missing"}}</p>
+<p><b>Confidence:</b> {{action.confidence}}</p>
+<p><b>Rule Score:</b> {{action.rule_score}}</p>
+<p><b>Recommendation:</b> {{action.recommendation}}</p>
+<p><b>Status:</b> {{action.status}}</p>
+</div>
+<form method="post" action="/approve/{{action.action_id}}">
+<button class="approve">Approve Action</button>
+</form>
+<br>
+<form method="post" action="/override/{{action.action_id}}">
+<label>Override reason (required)</label>
+<textarea name="reason" required></textarea>
+<button class="override">Override Action</button>
+</form>
+{% endblock %}

@@ -1,0 +1,9 @@
+meeting_id,timestamp,transcript
+M001,2026-09-01 10:00,"The client dashboard must be completed by September 15. The data engineering team will handle ETL integration."
+M002,2026-09-02 11:00,"We decided to migrate the reporting pipeline next week. The analytics team will validate the migration results."
+M003,2026-09-03 14:00,"The security review is required before production deployment. The security team will complete the review by September 10."
+M004,2026-09-04 09:30,"The documentation should be updated before the client demo. The consulting team will prepare the updated document."
+M005,2026-09-05 15:00,"We agreed that the dashboard testing must be completed by September 12. The QA team will perform the testing."
+M006,2026-09-06 10:30,"The reporting pipeline could possibly be migrated next week if the client agrees."
+M007,2026-09-06 13:00,"The analytics team will validate the new metrics, but no deadline has been confirmed."
+M008,2026-09-06 16:00,"The project team must finalize the deployment plan by September 18."

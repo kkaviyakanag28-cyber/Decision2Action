@@ -1,0 +1,28 @@
+DECISION2ACTION - SECOND 35% WORKING PACKAGE
+
+1. Open terminal in this folder.
+2. Create environment:
+   python -m venv venv
+3. Activate:
+   venv\Scripts\activate
+4. Install:
+   pip install -r requirements.txt
+5. Generate processed data:
+   python src/extractor.py
+   python src/rule_engine.py
+   python src/load_database.py
+6. Run validation:
+   python tests/evaluation.py
+   python tests/error_analysis.py
+   python tests/final_validation.py
+7. Start web app:
+   python app.py
+8. Open:
+   http://127.0.0.1:5000
+
+Demo:
+- Open Dashboard
+- Click Review
+- Approve an action
+- Or override it with a reason
+- Open Audit Log to see the recorded event
